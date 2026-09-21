@@ -1,0 +1,15 @@
+# Everything the code writes
+result/
+.cache/
+
+# Large datasets, downloaded by the user (see required_inputs.csv)
+*.h5ad
+*.h5
+figure4_zero-shot_benchmark/models/*
+figure5_trajectory/input/atac/fragments/*
+figure5_trajectory/input/atac/multiome/*
+figure5_trajectory/input/references/*
+
+__pycache__/
+*.pyc
+!**/.gitkeep

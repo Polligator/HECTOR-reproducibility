@@ -1,0 +1,212 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+B cell,Unknown,hector|popv,0,0,2,1,outside every class
+CD115-positive monocyte OR common dendritic progenitor,Unknown,hector,0,0,0,1,outside every class
+CD1c-positive myeloid dendritic cell,dendritic cell,hector,0,0,0,121,is-a
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",T cell,popv,0,0,1,0,is-a
+"CD4-positive, alpha-beta T cell",T cell,hector|popv,0,148,8,117,is-a
+"CD4-positive, alpha-beta memory T cell",T cell,hector,0,0,0,1,is-a
+"CD4-positive, alpha-beta memory T cell, CD45RO-positive",T cell,hector,0,0,0,1,is-a
+"CD8-positive, alpha-beta T cell",T cell,hector|popv,0,332,8,89,is-a
+"CD8-positive, alpha-beta cytotoxic T cell",T cell,hector,0,0,0,1,is-a
+"CD8-positive, alpha-beta regulatory T cell",T cell,popv,0,0,1,0,is-a
+GABAergic neuron,Unknown,hector,0,0,0,2,outside every class
+IgA plasma cell,Unknown,hector,0,0,0,1,outside every class
+Langerhans cell,dendritic cell,hector|popv|truth,21,1,5,2,is-a
+Merkel cell,Unknown,hector,0,0,0,12,outside every class
+Schwann cell,Unknown,hector,0,0,0,15,outside every class
+T cell,T cell,hector|popv,0,193,8,92,is-a
+acinar cell of salivary gland,Unknown,hector,0,0,0,2,outside every class
+acinar cell of sebaceous gland,Unknown,popv,0,0,1,0,MANUAL: sebocyte; no CL term; not a keratinocyte  [OVERRIDES ontology: proposal was unresolved]
+"activated CD4-positive, alpha-beta T cell",T cell,popv,0,0,1,0,is-a
+"activated CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,3,is-a
+airway submucosal gland duct basal cell,Unknown,hector,0,0,0,3,outside every class
+alpha-beta T cell,T cell,hector|popv,0,0,1,1,is-a
+alternatively activated macrophage,macrophage,hector,0,0,0,7,is-a
+basal cell,keratinocyte,hector,0,0,0,243,MANUAL: epidermal basal layer is keratinocyte lineage  [OVERRIDES ontology: proposal was Unknown]
+basal cell of epidermis,keratinocyte,hector|truth,50,0,0,99,is-a
+basal cell of epithelium of trachea,Unknown,hector,0,0,0,5,outside every class
+basal cell of prostate epithelium,Unknown,hector,0,0,0,2,outside every class
+basal cell of urothelium,Unknown,hector,0,0,0,2,outside every class
+basal epithelial cell of prostatic duct,Unknown,hector,0,0,0,1,outside every class
+basal epithelial cell of tracheobronchial tree,Unknown,hector,0,0,0,1,outside every class
+basal-myoepithelial cell of mammary gland,Unknown,hector,0,0,0,4,outside every class
+basophil,Unknown,hector|popv,0,0,2,1,outside every class
+blood cell,Unknown,hector,0,0,0,4,has 5 children; not interchangeable with erythrocyte
+blood vessel endothelial cell,endothelial cell,hector,0,0,0,37,is-a
+blood vessel smooth muscle cell,smooth muscle cell,hector,0,0,0,5,is-a
+branched duct epithelial cell,Unknown,hector,0,0,0,1,outside every class
+capillary endothelial cell,endothelial cell,hector,0,0,0,37,is-a
+ciliary muscle cell,smooth muscle cell,hector,0,0,0,2,is-a
+club cell,Unknown,hector,0,0,0,1,outside every class
+colon endothelial cell,endothelial cell,popv,0,0,1,0,is-a
+colon epithelial cell,Unknown,hector,0,0,0,1,outside every class
+conjunctival epithelial cell,Unknown,hector,0,0,0,57,outside every class
+conventional dendritic cell,dendritic cell,hector,0,0,0,28,is-a
+cycling T cell,T cell,hector,0,0,0,30,is-a
+cytotoxic T cell,T cell,hector|truth,644,0,0,1,is-a
+decidual cell,Unknown,hector,0,0,0,3,outside every class
+dendritic cell,dendritic cell,hector,0,0,0,27,is-a
+"dendritic cell, human",dendritic cell,truth,238,0,0,0,is-a
+duct epithelial cell,Unknown,hector,0,0,0,24,outside every class
+effector T cell,T cell,hector,0,0,0,15,is-a
+"effector memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,1,is-a
+elicited macrophage,macrophage,hector,0,0,0,36,is-a
+embryonic blood vessel endothelial progenitor cell,Unknown,hector,0,0,0,1,outside every class
+endothelial cell,endothelial cell,hector|popv|truth,1315,1509,8,437,is-a
+endothelial cell of arteriole,endothelial cell,hector,0,0,0,2,is-a
+endothelial cell of artery,endothelial cell,hector,0,0,0,76,is-a
+endothelial cell of lymphatic vessel,endothelial cell,hector|truth,197,0,0,188,is-a
+endothelial cell of respiratory system lymphatic vessel,endothelial cell,hector,0,0,0,14,is-a
+endothelial cell of uterus,endothelial cell,hector,0,0,0,5,is-a
+endothelial cell of vascular tree,endothelial cell,hector,0,0,0,349,is-a
+endothelial cell of venule,endothelial cell,hector,0,0,0,23,is-a
+enteric smooth muscle cell,smooth muscle cell,popv,0,0,1,0,is-a
+enterocyte of epithelium proper of ileum,Unknown,hector,0,0,0,1,outside every class
+enteroglial cell,Unknown,hector,0,0,0,1,outside every class
+ependymal cell,Unknown,hector,0,0,0,1,outside every class
+epidermal Langerhans cell,dendritic cell,popv,0,0,1,0,is-a
+epidermal keratinocyte,keratinocyte,hector,0,0,0,382,is-a
+epithelial cell,Unknown,hector|popv,0,6,5,21,has 40 children; not interchangeable with keratinocyte
+epithelial cell of esophagus,Unknown,hector,0,0,0,3,outside every class
+epithelial cell of proximal tubule,Unknown,hector,0,0,0,2,outside every class
+epithelial cell of thymus,Unknown,hector,0,0,0,1,outside every class
+erythrocyte,erythrocyte,popv|truth,7,0,4,0,is-a
+eukaryotic cell,Unknown,popv,0,0,1,0,superclass over 10
+fibroblast,fibroblast,hector|popv|truth,400,2357,8,31,is-a
+fibroblast of breast,fibroblast,hector,0,0,0,3,is-a
+fibroblast of dermis,fibroblast,hector,0,0,0,1,is-a
+fibroblast of lung,fibroblast,popv,0,0,1,0,is-a
+fibroblast of papillary layer of dermis,fibroblast,truth,887,0,0,0,is-a
+gamma-delta T cell,T cell,hector,0,0,0,3,is-a
+gastrointestinal tract (lamina propria) macrophage,macrophage,hector,0,0,0,6,is-a
+glandular secretory epithelial cell,Unknown,hector,0,0,0,4,outside every class
+glial cell,Unknown,hector,0,0,0,3,outside every class
+glioblast,Unknown,hector,0,0,0,1,outside every class
+glutamatergic neuron,Unknown,hector,0,0,0,1,outside every class
+granular cell of epidermis,keratinocyte,truth,462,0,0,0,is-a
+group 3 innate lymphoid cell,Unknown,hector,0,0,0,1,outside every class
+hair follicular keratinocyte,keratinocyte,hector|truth,117,0,0,45,MANUAL: CL files by anatomy; it is a keratinocyte  [confirms ontology: proposal was keratinocyte]
+helper T cell,T cell,hector|truth,181,0,0,1,is-a
+hematopoietic cell,Unknown,hector,0,0,0,3,superclass over 5
+hematopoietic oligopotent progenitor cell,Unknown,hector,0,0,0,1,outside every class
+hepatocyte,Unknown,hector,0,0,0,2,outside every class
+immature neutrophil,Unknown,popv,0,0,1,0,outside every class
+inflammatory macrophage,macrophage,hector,0,0,0,6,is-a
+inhibitory interneuron,Unknown,hector,0,0,0,1,outside every class
+innate lymphoid cell,Unknown,hector,0,0,0,5,has 4 children; not interchangeable with natural killer cell
+intermediate cell of urothelium,Unknown,hector,0,0,0,1,outside every class
+intestinal crypt stem cell of colon,Unknown,hector,0,0,0,1,outside every class
+intestinal crypt stem cell of small intestine,Unknown,hector,0,0,0,1,outside every class
+intestinal enteroendocrine cell,Unknown,hector,0,0,0,1,outside every class
+intestine goblet cell,Unknown,hector,0,0,0,1,outside every class
+keratinizing barrier epithelial cell,Unknown,hector,0,0,0,6,has 4 children; not interchangeable with keratinocyte
+keratinocyte,keratinocyte,hector,0,0,0,3344,is-a
+keratocyte,keratinocyte,hector|popv,0,3439,8,2,CLUSTER: TS-Skin 'keratocyte' IS the epidermis  [OVERRIDES ontology: proposal was fibroblast]
+kidney cell,Unknown,hector,0,0,0,2,outside every class
+kidney collecting duct alpha-intercalated cell,Unknown,hector,0,0,0,1,outside every class
+kidney distal convoluted tubule epithelial cell,Unknown,hector,0,0,0,2,outside every class
+kidney epithelial cell,Unknown,hector,0,0,0,6,outside every class
+kidney interstitial cell,Unknown,hector,0,0,0,7,outside every class
+kidney loop of Henle thick ascending limb epithelial cell,Unknown,hector,0,0,0,15,outside every class
+kidney medulla cell,Unknown,hector,0,0,0,1,outside every class
+lactocyte,Unknown,hector,0,0,0,2,outside every class
+leukocyte,Unknown,hector,0,0,0,15,superclass over 4
+luminal adaptive secretory precursor cell of mammary gland,Unknown,hector,0,0,0,1,outside every class
+luminal cell of prostate epithelium,Unknown,hector,0,0,0,1,outside every class
+luminal epithelial cell of mammary gland,Unknown,hector,0,0,0,25,outside every class
+lung goblet cell,Unknown,hector,0,0,0,1,outside every class
+lung interstitial macrophage,macrophage,hector,0,0,0,3,is-a
+lung macrophage,macrophage,hector,0,0,0,48,is-a
+"lung resident memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,3,is-a
+"lung resident memory CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,1,is-a
+lung secretory cell,Unknown,hector,0,0,0,1,outside every class
+lymphocyte,Unknown,hector,0,0,0,87,superclass over 2
+macrophage,macrophage,hector|popv|truth,238,776,8,181,is-a
+mammary gland epithelial cell,Unknown,hector,0,0,0,2,outside every class
+mast cell,Unknown,hector|popv,0,427,8,341,outside every class
+mature CD4 single-positive thymocyte,T cell,popv,0,0,1,0,is-a
+mature NK T cell,T cell,hector|popv,0,1,6,20,is-a
+mature T cell,T cell,hector|popv,0,0,1,11,is-a
+mature alpha-beta T cell,T cell,popv,0,0,1,0,is-a
+mature natural killer cell,natural killer cell,popv,0,0,1,0,is-a
+medullary thymic epithelial cell,Unknown,hector,0,0,0,7,outside every class
+melanocyte,melanocyte,hector|popv,0,192,8,150,is-a
+melanocyte of skin,melanocyte,hector|popv|truth,155,0,1,1,is-a
+meningeal macrophage,macrophage,hector,0,0,0,14,is-a
+mesenchymal cell,Unknown,hector,0,0,0,2,outside every class
+mesenchymal stem cell,Unknown,hector,0,0,0,10,outside every class
+mesothelial cell,Unknown,hector,0,0,0,1,outside every class
+microcirculation associated smooth muscle cell,smooth muscle cell,hector,0,0,0,1,is-a
+microglial cell,macrophage,hector,0,0,0,1,is-a
+microvascular endothelial cell,endothelial cell,hector,0,0,0,2,is-a
+monocyte,Unknown,hector|truth,26,0,0,6,MANUAL: truth separates monocyte from macrophage  [confirms ontology: proposal was Unknown]
+mucosal type mast cell,Unknown,popv,0,0,1,0,outside every class
+mucus secreting cell,Unknown,hector,0,0,0,1,outside every class
+mural cell,smooth muscle cell,hector,0,0,0,66,MANUAL: parent of pericyte; no mural term in reference  [OVERRIDES ontology: proposal was Unknown]
+muscle cell,Unknown,popv,0,0,2,0,MANUAL: superclass pushed onto one child; consistency  [confirms ontology: proposal was Unknown]
+myelinating Schwann cell,Unknown,hector,0,0,0,2,outside every class
+myeloid cell,Unknown,hector,0,0,0,5,superclass over 2
+myeloid dendritic cell,dendritic cell,hector|popv,0,0,3,4,is-a
+myeloid leukocyte,Unknown,hector|popv,0,0,1,2,has 18 children; not interchangeable with macrophage
+myo-medullary thymic epithelial cell,Unknown,hector,0,0,0,1,outside every class
+myoepithelial cell,Unknown,hector,0,0,0,2,outside every class
+myofibroblast cell,Unknown,hector,0,0,0,34,outside every class
+myometrial cell,smooth muscle cell,hector,0,0,0,1,is-a
+natural killer cell,natural killer cell,hector|popv|truth,14,3,6,15,is-a
+neural crest derived fibroblast,fibroblast,popv,0,0,1,0,is-a
+neutrophil,Unknown,hector|popv,0,9,8,9,outside every class
+non-classical monocyte,Unknown,hector,0,0,0,1,outside every class
+oligodendrocyte precursor cell,Unknown,hector,0,0,0,2,outside every class
+osteoclast,Unknown,hector,0,0,0,1,outside every class
+paneth cell,Unknown,hector,0,0,0,1,outside every class
+parietal epithelial cell,Unknown,hector,0,0,0,1,outside every class
+pericyte,smooth muscle cell,hector|truth,1560,0,0,702,MANUAL: reference has no pericyte term; mural  [OVERRIDES ontology: proposal was Unknown]
+peripheral sensory neuron,Unknown,hector,0,0,0,1,outside every class
+peritubular capillary endothelial cell,endothelial cell,hector,0,0,0,2,is-a
+perivascular cell,smooth muscle cell,hector,0,0,0,16,MANUAL: as mural cell  [OVERRIDES ontology: proposal was Unknown]
+plasma cell,Unknown,hector|popv,0,1,4,1,outside every class
+plasmacytoid dendritic cell,dendritic cell,hector,0,0,0,1,is-a
+podocyte,Unknown,hector,0,0,0,1,outside every class
+pro-T cell,Unknown,hector,0,0,0,1,outside every class
+progenitor cell,Unknown,hector,0,0,0,17,outside every class
+pulmonary alveolar epithelial cell,Unknown,hector,0,0,0,1,outside every class
+pulmonary artery endothelial cell,endothelial cell,hector,0,0,0,2,is-a
+regulatory T cell,T cell,hector|popv|truth,63,17,7,38,is-a
+renal interstitial pericyte,Unknown,hector,0,0,0,6,outside every class
+renal principal cell,Unknown,hector,0,0,0,2,outside every class
+respiratory basal cell,Unknown,hector,0,0,0,10,outside every class
+respiratory tract hillock cell,Unknown,hector,0,0,0,5,outside every class
+retinal blood vessel endothelial cell,endothelial cell,hector,0,0,0,41,is-a
+salivary gland glandular cell,Unknown,hector,0,0,0,2,outside every class
+sebocyte,Unknown,hector,0,0,0,1,outside every class
+sebum secreting cell,Unknown,popv,0,370,8,0,MANUAL: sebocyte is not a keratinocyte (sibling lineage)  [confirms ontology: proposal was Unknown]
+secondary crest myofibroblast,Unknown,hector,0,0,0,1,outside every class
+skin fibroblast,fibroblast,hector|truth,858,0,0,2277,is-a
+smooth muscle cell,smooth muscle cell,hector|popv,0,1588,8,155,is-a
+smooth muscle cell of placenta,smooth muscle cell,popv,0,0,1,0,is-a
+spinous cell,keratinocyte,hector,0,0,0,9,is-a
+spinous cell of epidermis,keratinocyte,hector|truth,2343,0,0,66,is-a
+squamous endothelial cell,endothelial cell,hector,0,0,0,4,is-a
+stem cell of epidermis,keratinocyte,hector,0,0,0,44,MANUAL: epidermal stem cells are basal keratinocytes  [OVERRIDES ontology: proposal was Unknown]
+stratified epithelial cell,keratinocyte,hector,0,0,0,8,"sole class below, term has 2 child(ren)"
+stratified squamous epithelial cell,keratinocyte,hector,0,0,0,20,MANUAL: in skin this is epidermis; cluster is broader than the term  [OVERRIDES ontology: proposal was Unknown]
+stromal cell,Unknown,popv,0,0,1,0,"MANUAL: 2 cells, superclass — not worth stretching  [confirms ontology: proposal was Unknown]"
+stromal cell of ovary,Unknown,hector,0,0,0,1,outside every class
+supporting cell,Unknown,hector,0,0,0,1,outside every class
+suprabasal keratinocyte,keratinocyte,truth,1593,0,0,0,is-a
+tendon cell,Unknown,hector,0,0,0,4,outside every class
+thymic fibroblast type 1,fibroblast,hector,0,0,0,1,is-a
+tissue-resident macrophage,macrophage,hector|popv,0,0,1,2,is-a
+tracheobronchial serous cell,Unknown,hector,0,0,0,1,outside every class
+tracheobronchial smooth muscle cell,smooth muscle cell,hector,0,0,0,1,is-a
+transit amplifying cell,Unknown,hector,0,0,0,1,outside every class
+transit amplifying cell of colon,Unknown,hector,0,0,0,1,outside every class
+transitional epithelial cell,Unknown,hector,0,0,0,1,outside every class
+tuft cell of small intestine,Unknown,hector,0,0,0,1,outside every class
+urothelial cell,Unknown,hector,0,0,0,1,outside every class
+vasa recta ascending limb cell,endothelial cell,hector,0,0,0,1,is-a
+vascular associated smooth muscle cell,smooth muscle cell,hector,0,0,0,376,is-a
+vascular leptomeningeal cell,fibroblast,hector,0,0,0,15,is-a
+vascular lymphangioblast,Unknown,hector,0,0,0,2,outside every class
+vein endothelial cell,endothelial cell,hector,0,0,0,280,is-a
+vein endothelial cell of respiratory system,endothelial cell,hector,0,0,0,3,is-a

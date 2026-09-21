@@ -1,0 +1,126 @@
+hector_label,majorclass,count
+Bergmann glial cell,,2
+Cajal-Retzius cell,,6
+GABAergic neuron,,11
+L2/3 intratelencephalic projecting glutamatergic neuron,,3
+L4 intratelencephalic projecting glutamatergic neuron,,30
+L6 intratelencephalic projecting glutamatergic neuron,,1
+Purkinje cell,,6
+Schwann cell,,1
+Schwann cell precursor,,1
+VIP GABAergic cortical interneuron,,1
+acinar cell,,1
+basal cell,,1
+blood vessel endothelial cell,,1
+brain vascular cell,,1
+cardiac muscle cell,,1
+caudal ganglionic eminence derived cortical interneuron,,1
+cerebellar granule cell,,4
+cerebellar granule cell precursor,,6
+cerebral cortex pyramidal neuron,,4
+committed oligodendrocyte precursor,,2
+common dendritic progenitor,,1
+conventional dendritic cell,,1
+dopaminergic neuron,,1
+enteroendocrine cell,,1
+epidermal keratinocyte,,3
+fibroblast of mammary gland,,1
+follicular cell of ovary,,1
+germ cell,,3
+glutamatergic neuron,,13
+glycinergic neuron,,7
+granulosa cell,,2
+intratelencephalic-projecting glutamatergic cortical neuron,,10
+keratocyte,,1
+kidney distal convoluted tubule epithelial cell,,2
+leukocyte,,1
+macrophage,,1
+medial ganglionic eminence derived GABAergic cortical interneuron,,10
+medial ganglionic eminence derived interneuron,,1
+melanocyte,,1
+mesenchymal cell,,1
+microglial cell,,4
+midbrain dopaminergic neuron,,44
+myelinating Schwann cell,,1
+myelinating glial cell,,1
+myeloid dendritic cell,,1
+neural cell,,1
+neural crest cell,,1
+neuron,,2
+non-myelinating Schwann cell,,2
+non-pigmented ciliary epithelial cell,,5
+oligodendrocyte,,2
+oligodendrocyte precursor cell,,4
+pancreatic acinar cell,,3
+pericyte,,1
+primary motor cortex pyramidal cell,,1
+pyramidal neuron,,1
+respiratory basal cell,,1
+respiratory tract hillock cell,,1
+retinal cell,,35
+retinal pigment epithelial cell,,5
+smooth muscle cell,,1
+syncytiotrophoblast cell,,1
+theca cell,,1
+unipolar brush cell,,6
+vascular leptomeningeal cell,,1
+GABA-Chol neuron,,1
+amacrine cell,AC,9179
+inhibitory interneuron,,7
+interneuron,,38
+GABAergic amacrine cell,AC,12012
+glycinergic amacrine cell,AC,3478
+starburst amacrine cell,AC,1077
+glycinergic-GABAergic amacrine cell,AC,7
+cone retinal bipolar cell,BC,7
+giant bipolar cell,BC,11
+retinal bipolar neuron,BC,3521
+type 3 cone bipolar cell (sensu Mus),BC,46
+OFF-bipolar cell,BC,98
+diffuse bipolar 1 cell,BC,1705
+diffuse bipolar 2 cell,BC,2191
+diffuse bipolar 3a cell,BC,1467
+diffuse bipolar 3b cell,BC,3532
+diffuse bipolar 4 cell,BC,313
+flat midget bipolar cell,BC,4126
+ON-bipolar cell,BC,1085
+ON-blue cone bipolar cell,BC,9
+diffuse bipolar 5 cell,BC,17
+diffuse bipolar 6 cell,BC,472
+invaginating midget bipolar cell,BC,1532
+rod bipolar cell,BC,1253
+camera-type eye photoreceptor cell,,63
+eye photoreceptor cell,,2
+retinal cone cell,Cone,9780
+S cone cell,Cone,462
+retina horizontal cell,HC,9286
+H2 horizontal cell,HC,1611
+H1 horizontal cell,HC,166
+Mueller cell,MG,3621
+astrocyte,,4
+forebrain radial glial cell,,7
+glioblast,,14
+immature astrocyte,,1
+macroglial cell,,6
+radial glial cell,,13
+retinal astrocyte,,38
+forebrain neuroblast,,2
+neural progenitor cell,,45
+neuroblast (sensu Nematoda and Protostomia),,9
+neuroblast (sensu Vertebrata),,3
+multi fate stem cell,,1
+neural stem cell,,1
+neuroepithelial stem cell,,1
+pluripotent stem cell,,2
+progenitor cell,,1
+retinal progenitor cell,RPC,75145
+OFF retinal ganglion cell,RGC,6
+OFFx cell,RGC,658
+ON retinal ganglion cell,RGC,9
+parasol ganglion cell of retina,RGC,45
+retinal ganglion cell,RGC,19714
+OFF midget ganglion cell,RGC,1
+OFF parasol ganglion cell,RGC,306
+midget ganglion cell of retina,RGC,19286
+ON parasol ganglion cell,RGC,2586
+retinal rod cell,Rod,36155

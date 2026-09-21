@@ -1,0 +1,305 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+B cell,B cell,hector|popv|truth,325,341,8,73,is-a
+"B cell, CD19-positive",B cell,hector,0,0,0,2,is-a
+"CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,1,is-a
+Cajal-Retzius cell,Unknown,hector,0,0,0,10,outside every class
+GABAergic neuron,Unknown,hector,0,0,0,7,outside every class
+Kupffer cell,macrophage,hector,0,0,0,5,is-a
+L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,Unknown,hector,0,0,0,1,outside every class
+L4/5 intratelencephalic projecting glutamatergic neuron,Unknown,hector,0,0,0,2,outside every class
+L4/5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,Unknown,hector,0,0,0,1,cerebral cortex; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,Unknown,hector,0,0,0,5,outside every class
+Mueller cell,Unknown,hector,0,0,0,1,outside every class
+ON-bipolar cell,Unknown,hector,0,0,0,1,outside every class
+Purkinje cell,Unknown,hector,0,0,0,23,outside every class
+Schwann cell,Unknown,hector|truth,13,0,0,1,outside every class
+Schwann cell precursor,Unknown,hector,0,0,0,6,outside every class
+T cell,T cell,hector|popv|truth,603,632,8,20,is-a
+"activated CD4-negative, CD8-negative type I NK T cell",T cell,hector,0,0,0,8,"an NK T cell, T-cell lineage; matches `mature NK T cell` which maps by rule  [OVERRIDES ontology: proposal was unresolved]"
+"activated CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,13,is-a
+adipocyte,Unknown,hector|truth,51,0,0,39,outside every class
+adipose macrophage,macrophage,hector,0,0,0,1,is-a
+adventitial fibroblast,fibroblast,truth,101,0,0,0,is-a
+alpha-beta T cell,T cell,hector,0,0,0,559,is-a
+alveolar type 1 fibroblast cell,Unknown,hector,0,0,0,1,fibroblast of another organ — not this dataset's cells
+amacrine cell,Unknown,hector,0,0,0,5,outside every class
+antibody secreting cell,plasma cell,popv,0,0,1,0,"sole class below, term has only 2 child(ren)"
+astrocyte,Unknown,hector,0,0,0,1,outside every class
+astrocyte of the forebrain,Unknown,hector,0,0,0,1,outside every class
+auditory epithelial cell,Unknown,hector,0,0,0,37,outside every class
+autonomic neuron,Unknown,hector,0,0,0,1,outside every class
+basal cell of epidermis,Unknown,hector,0,0,0,1,outside every class
+basal epithelial cell of tracheobronchial tree,Unknown,hector,0,0,0,1,outside every class
+bladder cell,Unknown,hector,0,0,0,2,outside every class
+bladder urothelial cell,Unknown,hector,0,0,0,195,outside every class
+blood cell,Unknown,hector,0,0,0,2,outside every class
+blood lymphocyte,Unknown,popv,0,0,1,0,outside every class
+brain macroglial cell,Unknown,hector,0,0,0,1,outside every class
+brain pericyte,Unknown,hector,0,0,0,3,brain; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+brown adipocyte,Unknown,hector,0,0,0,28,outside every class
+brown preadipocyte,Unknown,hector,0,0,0,18,adipocyte lineage  [OVERRIDES ontology: proposal was fibroblast]
+brush border cell of the proximal tubule,epithelial cell of proximal tubule,hector|popv,0,0,1,115,is-a
+brush cell,epithelial cell of proximal tubule,popv,0,11414,8,0,reference cluster name for the proximal tubule brush border cell  [OVERRIDES ontology: proposal was Unknown]
+brush cell of tracheobronchial tree,Unknown,popv,0,0,1,0,outside every class
+camera-type eye photoreceptor cell,Unknown,hector,0,0,0,1,outside every class
+capillary endothelial cell,endothelial cell,hector,0,0,0,5,is-a
+cardiac endothelial cell,Unknown,hector,0,0,0,1,endothelial cell of another organ — not this dataset's cells
+caudal ganglionic eminence derived cortical interneuron,Unknown,hector,0,0,0,7,outside every class
+caudal ganglionic eminence derived neuron,Unknown,hector,0,0,0,1,outside every class
+central nervous system macrophage,macrophage,hector,0,0,0,15,is-a
+central nervous system neuron,Unknown,hector,0,0,0,5,outside every class
+cerebellar Golgi cell,Unknown,hector,0,0,0,2,cerebellum; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+cerebellar granule cell,Unknown,hector,0,0,0,24,outside every class
+cerebellar granule cell precursor,Unknown,hector,0,0,0,3,outside every class
+cerebellum glutamatergic neuron,Unknown,hector,0,0,0,3,outside every class
+cerebral cortex GABAergic interneuron,Unknown,hector,0,0,0,39,outside every class
+cerebral cortex endothelial cell,Unknown,hector,0,0,0,3,endothelial cell of another organ — not this dataset's cells
+chemoreceptor cell,Unknown,hector,0,0,0,2,outside every class
+chondrocyte,Unknown,hector,0,0,0,11,outside every class
+choroid plexus epithelial cell,Unknown,hector,0,0,0,1,outside every class
+classical monocyte,Unknown,hector|truth,92,0,0,1,outside every class
+club cell,Unknown,hector,0,0,0,5,outside every class
+committed oligodendrocyte precursor,Unknown,hector,0,0,0,3,outside every class
+cone retinal bipolar cell,Unknown,hector,0,0,0,2,outside every class
+conjunctiva goblet cell,Unknown,hector,0,0,0,1,outside every class
+connective tissue cell,Unknown,hector,0,0,0,3,has 22 children; not interchangeable with fibroblast
+conventional dendritic cell,dendritic cell,hector,0,0,0,225,is-a
+corneal epithelial cell,Unknown,hector,0,0,0,1,outside every class
+cranial motor neuron,Unknown,hector,0,0,0,13,outside every class
+dendritic cell,dendritic cell,hector|truth,253,0,0,20,is-a
+dermis blood vessel endothelial cell,Unknown,hector,0,0,0,1,endothelial cell of another organ — not this dataset's cells
+ectodermal cell,Unknown,hector,0,0,0,6,germ-layer term  [OVERRIDES ontology: proposal was unresolved]
+efferent neuron,Unknown,hector,0,0,0,2,outside every class
+endo-epithelial cell,Unknown,hector,0,0,0,27,outside every class
+endocardial cell,Unknown,hector,0,0,0,11,endothelial cell of another organ — not this dataset's cells
+endothelial cell,endothelial cell,hector|truth,140,0,0,9754,is-a
+endothelial cell of artery,endothelial cell,hector,0,0,0,21,is-a
+endothelial cell of hepatic sinusoid,Unknown,hector|popv,0,0,1,64,endothelial cell of another organ — not this dataset's cells
+endothelial cell of lymphatic vessel,endothelial cell,hector,0,0,0,50,is-a
+endothelial cell of vascular tree,endothelial cell,hector,0,0,0,11,is-a
+endothelial cell of venule,endothelial cell,truth,226,0,0,0,is-a
+endothelial cell of viscerocranial mucosa,Unknown,hector,0,0,0,2,craniofacial; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+endothelial stalk cell,endothelial cell,hector,0,0,0,6,is-a
+ependymal cell,Unknown,hector,0,0,0,4,outside every class
+epithelial cell,Unknown,hector,0,0,0,64,superclass over 5
+epithelial cell of amnion,Unknown,hector,0,0,0,1,outside every class
+epithelial cell of distal tubule,Unknown,hector|popv,0,0,1,118,has 3 children; not interchangeable with kidney distal convoluted tubule epithelial cell
+epithelial cell of exocrine pancreas,Unknown,hector,0,0,0,1,outside every class
+epithelial cell of glomerular capsule,epithelial cell of glomerular capsule,hector,0,0,0,92,is-a
+epithelial cell of intermediate tubule,kidney loop of Henle epithelial cell,hector,0,0,0,13,is-a
+epithelial cell of nephron,Unknown,hector,0,0,0,922,superclass over 5
+epithelial cell of pancreas,Unknown,hector,0,0,0,4,outside every class
+epithelial cell of prostate,Unknown,hector,0,0,0,1,outside every class
+epithelial cell of proximal tubule,epithelial cell of proximal tubule,hector|popv|truth,12501,20629,8,10686,is-a
+epithelial cell of proximal tubule segment 1,epithelial cell of proximal tubule,hector|truth,15962,0,0,11012,is-a
+epithelial cell of proximal tubule segment 2,epithelial cell of proximal tubule,hector|truth,13542,0,0,12509,is-a
+epithelial cell of proximal tubule segment 3,epithelial cell of proximal tubule,hector|popv|truth,8140,0,1,9138,"the truth names it a proximal tubule segment; CL also files the pars recta under the loop of Henle, so both classes are valid  [confirms ontology: proposal was epithelial cell of proximal tubule]"
+epithelial cell of thymus,Unknown,hector,0,0,0,19,outside every class
+epithelial cell of thyroid gland,Unknown,hector,0,0,0,15,outside every class
+epithelial cell of tracheobronchial tree,Unknown,hector,0,0,0,1,outside every class
+erythrocyte,Unknown,hector,0,0,0,1,outside every class
+erythroid progenitor cell,Unknown,hector,0,0,0,4,outside every class
+extraembryonic cell,Unknown,hector,0,0,0,2,outside every class
+extraglomerular mesangial cell,perivascular cell,popv,0,0,1,0,is-a
+fenestrated endothelial cell,endothelial cell,hector|popv,0,9082,8,46,is-a
+fibro/adipogenic progenitor cell,Unknown,hector,0,0,0,2,outside every class
+fibroblast,fibroblast,hector|popv|truth,2997,3316,8,3964,is-a
+fibroblast of cardiac tissue,Unknown,hector,0,0,0,2,fibroblast of another organ — not this dataset's cells
+fibroblast of dermis,Unknown,hector,0,0,0,1,fibroblast of another organ — not this dataset's cells
+fibroblast of lung,Unknown,hector|popv,0,0,1,1,fibroblast of another organ — not this dataset's cells
+fibroblast of mammary gland,Unknown,hector,0,0,0,3,fibroblast of another organ — not this dataset's cells
+gingival epithelial cell,Unknown,hector,0,0,0,7,outside every class
+glial cell,Unknown,hector,0,0,0,4,outside every class
+glomerular capillary endothelial cell,endothelial cell,popv|truth,196,0,1,0,is-a
+glomerular endothelial cell,endothelial cell,hector,0,0,0,180,is-a
+glutamatergic neuron,Unknown,hector,0,0,0,25,outside every class
+goblet cell,Unknown,hector,0,0,0,1,outside every class
+granulocyte,Unknown,hector,0,0,0,3,outside every class
+granulosa cell,Unknown,hector,0,0,0,2,outside every class
+hematopoietic stem cell,Unknown,hector,0,0,0,12,outside every class
+hypothalamus cell,Unknown,hector,0,0,0,3,outside every class
+immature B cell,B cell,hector,0,0,0,2,is-a
+inflammatory macrophage,macrophage,truth,898,0,0,0,is-a
+inhibitory interneuron,Unknown,hector,0,0,0,7,outside every class
+innate lymphoid cell,Unknown,hector|popv,0,0,1,2,has 4 children; not interchangeable with natural killer cell
+intermediate mesodermal cell,Unknown,hector,0,0,0,15,outside every class
+interneuron,Unknown,hector,0,0,0,1,outside every class
+intestinal crypt stem cell,Unknown,hector,0,0,0,1,outside every class
+intestinal epithelial cell,Unknown,hector,0,0,0,2,outside every class
+intrahepatic cholangiocyte,Unknown,hector,0,0,0,18,outside every class
+juxtaglomerular complex cell,perivascular cell,truth,49,0,0,0,"granular cells are modified vascular smooth muscle and the extraglomerular mesangium is mesangial, both in this class; the macula densa is labelled separately by the truth and maps to the loop of Henle  [OVERRIDES ontology: proposal was Unknown]"
+keratinocyte,Unknown,hector,0,0,0,10,outside every class
+keratinocyte stem cell,Unknown,hector,0,0,0,1,outside every class
+kidney arterial blood vessel cell,Unknown,popv,0,0,1,0,outside every class
+kidney capillary endothelial cell,endothelial cell,popv,0,499,8,0,is-a
+kidney cell,Unknown,hector|popv,0,0,2,3,"3-cell debris cluster, 2.7% self-contained  [confirms ontology: proposal was Unknown]"
+kidney collecting duct alpha-intercalated cell,kidney collecting duct epithelial cell,truth,2313,0,0,0,is-a
+kidney collecting duct epithelial cell,kidney collecting duct epithelial cell,hector|popv,0,3,6,79,is-a
+kidney collecting duct intercalated cell,kidney collecting duct epithelial cell,hector,0,0,0,3195,is-a
+kidney collecting duct principal cell,kidney collecting duct epithelial cell,hector|popv|truth,2653,13607,8,6342,is-a
+kidney connecting tubule epithelial cell,kidney collecting duct epithelial cell,hector|truth,2449,0,0,4091,"the connecting tubule joins the distal nephron to the collecting duct; one continuum with it, and the reference cannot subdivide the collecting system  [OVERRIDES ontology: proposal was Unknown]"
+kidney cortex artery cell,endothelial cell,popv,0,163,8,0,the reference's renal arterial endothelium cluster  [OVERRIDES ontology: proposal was Unknown]
+kidney cortex collecting duct principal cell,kidney collecting duct epithelial cell,popv|truth,1296,0,1,0,is-a
+kidney cortex peritubular capillary cell,endothelial cell,truth,1191,0,0,0,is-a
+kidney cortex tubule cell,epithelial cell of proximal tubule,hector,0,0,0,6679,"in this dataset the cortical tubule is 81% proximal tubule by truth composition; surgical exception, see note  [OVERRIDES ontology: proposal was Unknown]"
+kidney cortical cell,Unknown,hector|popv,0,0,1,16,superclass over 3
+kidney distal convoluted tubule epithelial cell,kidney distal convoluted tubule epithelial cell,hector|popv|truth,9213,7059,8,7040,is-a
+kidney efferent arteriole endothelial cell,endothelial cell,truth,212,0,0,0,is-a
+kidney epithelial cell,Unknown,hector,0,0,0,82,superclass over 5
+kidney inner medulla collecting duct epithelial cell,kidney collecting duct epithelial cell,truth,1661,0,0,0,is-a
+kidney interstitial fibroblast,fibroblast,truth,215,0,0,0,is-a
+kidney loop of Henle ascending limb epithelial cell,kidney loop of Henle epithelial cell,hector|popv,0,10717,8,19455,is-a
+kidney loop of Henle cortical thick ascending limb epithelial cell,kidney loop of Henle epithelial cell,hector|truth,4502,0,0,76,is-a
+kidney loop of Henle descending limb epithelial cell,kidney loop of Henle epithelial cell,hector,0,0,0,2389,is-a
+kidney loop of Henle epithelial cell,kidney loop of Henle epithelial cell,hector|popv,0,0,1,776,is-a
+kidney loop of Henle medullary thick ascending limb epithelial cell,kidney loop of Henle epithelial cell,hector|popv|truth,14314,0,1,1091,is-a
+kidney loop of Henle short descending thin limb epithelial cell,kidney loop of Henle epithelial cell,truth,3257,0,0,0,is-a
+kidney loop of Henle thick ascending limb epithelial cell,kidney loop of Henle epithelial cell,hector|popv|truth,4349,13563,8,118,is-a
+kidney loop of Henle thin ascending limb epithelial cell,kidney loop of Henle epithelial cell,hector|truth,892,0,0,1192,is-a
+kidney loop of Henle thin descending limb epithelial cell,kidney loop of Henle epithelial cell,hector|truth,43,0,0,1,is-a
+kidney medulla cell,Unknown,hector|popv,0,0,1,5,outside every class
+kidney medulla collecting duct epithelial cell,kidney collecting duct epithelial cell,popv,0,0,1,0,is-a
+kidney outer medulla cell,Unknown,hector,0,0,0,287,outside every class
+kidney papillary duct principal cell,kidney collecting duct epithelial cell,popv,0,0,1,0,is-a
+kidney proximal convoluted tubule epithelial cell,epithelial cell of proximal tubule,hector|popv,0,19258,8,67,is-a
+kidney proximal straight tubule epithelial cell,epithelial cell of proximal tubule,hector|popv,0,373,6,10,same pars recta ambiguity; follows the truth's own grouping  [confirms ontology: proposal was epithelial cell of proximal tubule]
+kidney resident macrophage,macrophage,truth,285,0,0,0,is-a
+kidney tubule cell,Unknown,hector,0,0,0,163,superclass over 3
+lamp5 GABAergic cortical interneuron,Unknown,hector,0,0,0,2,outside every class
+lateral mesodermal cell,Unknown,hector,0,0,0,142,outside every class
+lens epithelial cell,Unknown,hector,0,0,0,1,outside every class
+leukocyte,Unknown,popv,0,0,2,0,"5-cell debris cluster, 9.6% self-contained  [confirms ontology: proposal was Unknown]"
+long lived plasma cell,plasma cell,hector|popv,0,0,1,2,is-a
+luminal cell of lactiferous duct,Unknown,hector,0,0,0,1,outside every class
+luminal cell of prostate epithelium,Unknown,hector,0,0,0,5,outside every class
+lung endothelial cell,Unknown,hector,0,0,0,2,endothelial cell of another organ — not this dataset's cells
+lung microvascular endothelial cell,Unknown,hector,0,0,0,1,endothelial cell of another organ — not this dataset's cells
+lymph gland plasmatocyte,Unknown,popv,0,0,1,0,Drosophila haematopoietic cell  [OVERRIDES ontology: proposal was unresolved]
+lymph node mantle zone B cell,B cell,popv,0,0,1,0,is-a
+lymphocyte,Unknown,hector|popv,0,514,8,1,reference cluster of unresolved identity  [confirms ontology: proposal was Unknown]
+lymphocyte of B lineage,Unknown,hector|popv,0,0,1,21,superclass over 2
+macroglial cell,Unknown,hector,0,0,0,7,outside every class
+macrophage,macrophage,hector|popv|truth,150,1065,8,1198,is-a
+macula densa epithelial cell,kidney loop of Henle epithelial cell,truth,144,0,0,0,specialised sensory plaque in the wall of the thick ascending limb; 99.3% of its neighbourhood is thick ascending limb  [OVERRIDES ontology: proposal was Unknown]
+mammary gland epithelial cell,Unknown,hector,0,0,0,3,outside every class
+mast cell,Unknown,hector,0,0,0,2,outside every class
+mature B cell,B cell,hector,0,0,0,9,is-a
+mature NK T cell,T cell,hector,0,0,0,7,is-a
+mature T cell,T cell,hector|popv,0,0,1,20,is-a
+mature alpha-beta T cell,T cell,hector,0,0,0,17,is-a
+mature natural killer cell,natural killer cell,popv,0,0,1,0,is-a
+medial ganglionic eminence derived GABAergic cortical interneuron,Unknown,hector,0,0,0,1,outside every class
+megakaryocyte,Unknown,hector,0,0,0,1,outside every class
+megakaryocyte-erythroid progenitor cell,Unknown,hector,0,0,0,1,outside every class
+melanocyte,Unknown,hector,0,0,0,1,outside every class
+mesangial cell,perivascular cell,popv|truth,84,1436,8,0,is-a
+mesenchymal cell,Unknown,hector,0,0,0,2,outside every class
+mesenchymal stem cell,Unknown,hector,0,0,0,2,outside every class
+mesenchymal stem cell of adipose tissue,Unknown,hector,0,0,0,2,outside every class
+mesodermal cell,Unknown,hector,0,0,0,17,outside every class
+mesothelial cell,Unknown,hector,0,0,0,9,outside every class
+metanephric mesenchyme stem cell,Unknown,hector,0,0,0,24,outside every class
+metanephric nephron tubule epithelial cell,Unknown,hector,0,0,0,214,outside every class
+microcirculation associated smooth muscle cell,perivascular cell,hector,0,0,0,1,is-a
+microglial cell,macrophage,hector,0,0,0,8,is-a
+microvascular endothelial cell,endothelial cell,hector,0,0,0,72,is-a
+monocyte,Unknown,hector,0,0,0,32,outside every class
+mononuclear phagocyte,Unknown,hector,0,0,0,4,superclass over 2
+motor neuron,Unknown,hector,0,0,0,1,outside every class
+multi fate stem cell,Unknown,hector,0,0,0,1,outside every class
+muscle cell,Unknown,hector,0,0,0,1,outside every class
+muscle fibroblast,fibroblast,hector,0,0,0,5,is-a
+myelinating Schwann cell,Unknown,hector,0,0,0,4,outside every class
+myeloid leukocyte,Unknown,popv,0,0,1,0,has 18 children; not interchangeable with macrophage
+myoblast,Unknown,hector,0,0,0,9,outside every class
+myofibroblast cell,fibroblast,truth,27,0,0,0,fibroblast-derived contractile cell (same mapping as the mouse aorta table)  [OVERRIDES ontology: proposal was Unknown]
+myotube,Unknown,hector,0,0,0,8,outside every class
+naive B cell,B cell,hector,0,0,0,3,is-a
+natural killer cell,natural killer cell,hector|popv|truth,63,24,8,15,is-a
+nephron tubule epithelial cell,Unknown,hector,0,0,0,139,superclass over 3
+neural cell,Unknown,hector,0,0,0,2,outside every class
+neural progenitor cell,Unknown,hector,0,0,0,12,outside every class
+neuroblast (sensu Vertebrata),Unknown,hector,0,0,0,3,outside every class
+neuron,Unknown,hector,0,0,0,1,outside every class
+neuronal receptor cell,Unknown,hector,0,0,0,1,outside every class
+neutrophil,Unknown,hector,0,0,0,3,outside every class
+non-myelinating Schwann cell,Unknown,hector,0,0,0,1,outside every class
+notochordal cell,Unknown,hector,0,0,0,1,embryonic notochord  [OVERRIDES ontology: proposal was unresolved]
+olfactory ensheathing cell,Unknown,hector,0,0,0,3,outside every class
+olfactory epithelial cell,Unknown,hector,0,0,0,39,outside every class
+olfactory receptor cell,Unknown,hector,0,0,0,16,outside every class
+oligodendrocyte precursor cell,Unknown,hector,0,0,0,6,outside every class
+osteoblast,Unknown,hector,0,0,0,19,outside every class
+pancreatic acinar cell,Unknown,hector,0,0,0,6,outside every class
+pancreatic stellate cell,Unknown,hector,0,0,0,1,fibroblast of another organ — not this dataset's cells
+papillary tips cell,kidney collecting duct epithelial cell,truth,532,0,0,0,papillary tip epithelium is the terminus of the collecting system  [OVERRIDES ontology: proposal was Unknown]
+parasympathetic neuron,Unknown,hector,0,0,0,3,peripheral neuron; no neural class  [OVERRIDES ontology: proposal was unresolved]
+parietal epithelial cell,epithelial cell of glomerular capsule,hector|truth,385,0,0,298,is-a
+pericyte,perivascular cell,hector,0,0,0,159,is-a
+perineuronal satellite cell,Unknown,hector,0,0,0,1,peripheral glia; no neural class  [OVERRIDES ontology: proposal was unresolved]
+peripheral nervous system neuron,Unknown,hector,0,0,0,6,outside every class
+peripheral sensory neuron,Unknown,hector,0,0,0,1,outside every class
+peritubular capillary endothelial cell,endothelial cell,popv|truth,4508,0,1,0,is-a
+phagocyte,Unknown,hector,0,0,0,3,superclass over 2
+photoreceptor cell,Unknown,hector,0,0,0,2,outside every class
+pituitary gland cell,Unknown,hector,0,0,0,49,outside every class
+plasma cell,plasma cell,hector|popv|truth,50,516,8,337,is-a
+plasmacytoid dendritic cell,dendritic cell,hector,0,0,0,9,is-a
+plasmatocyte,plasma cell,popv,0,4392,8,0,reference cluster name for plasma cells; its CL:0000394 ID is mis-assigned  [OVERRIDES ontology: proposal was unresolved]
+podocyte,epithelial cell of glomerular capsule,hector|truth,802,0,0,910,is-a
+preadipocyte,Unknown,hector,0,0,0,47,adipocyte lineage  [OVERRIDES ontology: proposal was fibroblast]
+primordial germ cell,Unknown,hector,0,0,0,8,germline  [OVERRIDES ontology: proposal was unresolved]
+promonocyte,Unknown,hector,0,0,0,1,outside every class
+prostate gland microvascular endothelial cell,Unknown,hector,0,0,0,1,endothelial cell of another organ — not this dataset's cells
+pulmonary alveolar type 1 cell,Unknown,hector,0,0,0,2,outside every class
+pulmonary alveolar type 2 cell,Unknown,hector,0,0,0,1,outside every class
+regulatory T cell,T cell,hector,0,0,0,12,is-a
+renal alpha-intercalated cell,kidney collecting duct epithelial cell,hector,0,0,0,239,"its only two children are the collecting duct and connecting tubule alpha cells, both in this class; same call as beta above  [OVERRIDES ontology: proposal was Unknown]"
+renal beta-intercalated cell,kidney collecting duct epithelial cell,hector|truth,1419,0,0,197,"intercalated cell of the collecting system; CL files beta under `renal intercalated cell` only, so it misses the collecting duct branch  [OVERRIDES ontology: proposal was Unknown]"
+renal cortical epithelial cell,Unknown,hector,0,0,0,2,superclass over 3
+renal cortical fibroblast,fibroblast,truth,82,0,0,0,is-a
+renal intercalated cell,kidney collecting duct epithelial cell,hector,0,0,0,48,"all four children are collecting-system cells (collecting duct IC, connecting tubule IC, alpha, beta) and the connecting tubule is already merged into this class, so every child lands here  [OVERRIDES ontology: proposal was Unknown]"
+renal medullary fibroblast,fibroblast,truth,1256,0,0,0,is-a
+retinal bipolar neuron,Unknown,hector,0,0,0,1,outside every class
+retinal cone cell,Unknown,hector,0,0,0,5,outside every class
+retinal pigment epithelial cell,Unknown,hector,0,0,0,1,outside every class
+retinal progenitor cell,Unknown,hector,0,0,0,9,outside every class
+retinal rod cell,Unknown,hector,0,0,0,3,outside every class
+rod bipolar cell,Unknown,hector,0,0,0,1,outside every class
+sensory epithelial cell,Unknown,hector,0,0,0,12,outside every class
+sensory neuron,Unknown,hector,0,0,0,1,outside every class
+sensory neuron of dorsal root ganglion,Unknown,hector,0,0,0,3,outside every class
+skeletal muscle myoblast,Unknown,hector,0,0,0,1,outside every class
+skin fibroblast,Unknown,hector,0,0,0,3,fibroblast of another organ — not this dataset's cells
+smooth muscle cell,Unknown,hector,0,0,0,4,outside every class
+sncg GABAergic cortical interneuron,Unknown,hector,0,0,0,1,outside every class
+spiral ganglion neuron,Unknown,hector,0,0,0,4,outside every class
+splanchnic mesodermal cell,Unknown,hector,0,0,0,1,germ-layer term  [OVERRIDES ontology: proposal was unresolved]
+squamous endothelial cell,endothelial cell,hector,0,0,0,2,is-a
+sst GABAergic cortical interneuron,Unknown,hector,0,0,0,2,outside every class
+sst chodl GABAergic cortical interneuron,Unknown,hector,0,0,0,1,outside every class
+starburst amacrine cell,Unknown,hector,0,0,0,1,outside every class
+striated muscle cell,Unknown,hector,0,0,0,1,outside every class
+stromal cell,Unknown,hector,0,0,0,99,has 15 children; not interchangeable with fibroblast
+supporting cell,Unknown,hector,0,0,0,1,outside every class
+sympathetic neuron,Unknown,hector,0,0,0,3,outside every class
+tanycyte,Unknown,hector,0,0,0,1,outside every class
+tendon cell,Unknown,hector,0,0,0,2,outside every class
+thalamic excitatory neuron,Unknown,hector,0,0,0,16,outside every class
+thymocyte,T cell,hector,0,0,0,1,is-a
+tissue-resident macrophage,macrophage,popv,0,0,1,0,is-a
+trigeminal neuron,Unknown,hector,0,0,0,3,outside every class
+type 3a cone bipolar cell,Unknown,hector,0,0,0,1,retina; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+type 3b cone bipolar cell,Unknown,hector,0,0,0,1,retina; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+type 5b cone bipolar cell,Unknown,hector,0,0,0,1,retina; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+type 6 cone bipolar cell (sensu Mus),Unknown,hector,0,0,0,2,outside every class
+type 9 cone bipolar cell (sensu Mus),Unknown,hector,0,0,0,1,outside every class
+type I cell of adrenal cortex,Unknown,hector,0,0,0,20,outside every class
+ureteric bud cell,Unknown,hector,0,0,0,112,outside every class
+urethra urothelial cell,Unknown,hector,0,0,0,16,outside every class
+urothelial cell,Unknown,hector,0,0,0,15,outside every class
+vasa recta ascending limb cell,endothelial cell,truth,3580,0,0,0,is-a
+vasa recta descending limb cell,endothelial cell,truth,266,0,0,0,is-a
+vascular associated smooth muscle cell,perivascular cell,hector|truth,236,0,0,1,is-a
+vascular leptomeningeal cell,Unknown,hector,0,0,0,7,fibroblast of another organ — not this dataset's cells
+vein endothelial cell,endothelial cell,hector|truth,85,0,0,153,is-a

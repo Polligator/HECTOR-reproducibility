@@ -1,0 +1,77 @@
+original_cl_id,original_cl_name,high_level_cl_id,high_level_cl_name,selection_rationale
+CL:0000242,Merkel cell,CL:0000066,epithelial cell,Selected the epithelial branch for this specialized skin cell
+CL:0002324,basal-myoepithelial cell of mammary gland,CL:0000066,epithelial cell,Selected the epithelial branch for this mammary myoepithelial cell
+CL:2000043,brain pericyte,CL:0002320,connective tissue cell,Selected the connective tissue branch for this perivascular stromal cell
+CL:0000878,central nervous system macrophage,CL:0002319,neural cell,Selected the neural branch because this is a CNS-resident macrophage
+CL:1001602,cerebral cortex endothelial cell,CL:0000115,endothelial cell,Selected the endothelial identity rather than the organ-system branch
+CL:0000706,choroid plexus epithelial cell,CL:0000066,epithelial cell,Selected the epithelial identity rather than the neural-system branch
+CL:0000065,ependymal cell,CL:0002319,neural cell,Selected the neural branch for this specialized ventricular cell
+CL:0002549,fibroblast of choroid plexus,CL:0002320,connective tissue cell,Selected the fibroblast connective tissue identity
+CL:4023181,hypendymal cell,CL:0002319,neural cell,Selected the neural branch for this specialized ventricular cell
+CL:0000708,leptomeningeal cell,CL:0002320,connective tissue cell,Selected the meningeal connective tissue identity
+CL:4033043,lung interstitial macrophage,CL:0000988,hematopoietic cell,Selected the macrophage hematopoietic identity
+CL:4033018,lung megakaryocyte,CL:0000988,hematopoietic cell,Selected the megakaryocyte hematopoietic identity
+CL:0009089,lung pericyte,CL:0002320,connective tissue cell,Selected the pericyte connective tissue identity
+CL:0002629,mature microglial cell,CL:0002319,neural cell,Selected the neural branch because microglia are specialized CNS-resident macrophages
+CL:0000879,meningeal macrophage,CL:0002319,neural cell,Selected the neural branch because this is a CNS-associated macrophage
+CL:1000298,mesothelial cell of dura mater,CL:0000066,epithelial cell,Selected the mesothelial epithelial identity
+CL:0000129,microglial cell,CL:0002319,neural cell,Selected the neural branch because microglia are specialized CNS-resident macrophages
+CL:0000185,myoepithelial cell,CL:0000066,epithelial cell,Selected the epithelial identity rather than the contractile property
+CL:0000186,myofibroblast cell,CL:0002320,connective tissue cell,Selected the fibroblast connective tissue identity rather than the contractile property
+CL:0000165,neuroendocrine cell,CL:0002319,neural cell,Selected the neural identity defined for this ontology term
+CL:4033010,neuroendocrine cell of epithelium of lobar bronchus,CL:0000066,epithelial cell,Selected the airway epithelial identity
+CL:0000060,odontoblast,CL:0002320,connective tissue cell,Selected the dental pulp connective tissue branch
+CL:0002167,olfactory epithelial cell,CL:0000066,epithelial cell,Selected the epithelial identity rather than the neural-system branch
+CL:0000173,pancreatic D cell,CL:0000066,epithelial cell,Selected the pancreatic epithelial identity
+CL:0000669,pericyte,CL:0002320,connective tissue cell,Selected the connective tissue branch for this perivascular stromal cell
+CL:0002576,perineurial cell,CL:0002320,connective tissue cell,Selected the fibroblast-like connective tissue identity
+CL:0000881,perivascular macrophage,CL:0002319,neural cell,Selected the neural branch because this ontology term denotes a CNS-associated macrophage
+CL:0000652,pinealocyte,CL:0002319,neural cell,Selected its native neural cell ancestor
+CL:1000223,pulmonary neuroendocrine cell,CL:0000066,epithelial cell,Selected the airway epithelial identity
+CL:1001318,renal interstitial pericyte,CL:0002320,connective tissue cell,Selected the pericyte connective tissue identity
+CL:0002585,retinal blood vessel endothelial cell,CL:0000115,endothelial cell,Selected the endothelial identity rather than the neural-system branch
+CL:0002586,retinal pigment epithelial cell,CL:0000066,epithelial cell,Selected the epithelial identity rather than the neural-system branch
+CL:4033016,secondary crest myofibroblast,CL:0002320,connective tissue cell,Selected the fibroblast connective tissue identity rather than the contractile property
+CL:0002085,tanycyte,CL:0002319,neural cell,Selected the neural branch for this specialized ependymal cell
+CL:0000577,type EC enteroendocrine cell,CL:0000066,epithelial cell,Selected the intestinal epithelial identity
+CL:4023051,vascular leptomeningeal cell,CL:0002320,connective tissue cell,Selected the meningeal connective tissue identity
+CL:0000178,Leydig cell,CL:4030031,interstitial cell,Collapsed to its native high-level interstitial cell ancestor
+CL:1001319,bladder cell,CL:1001319,bladder cell,Retained this already broad native ontology term
+CL:0000000,cell,CL:0000000,cell,Retained the root native ontology term because no more specific identity is encoded
+CL:0001034,cell in vitro,CL:0000000,cell,Collapsed the generic in-vitro label to its native cell ancestor
+CL:0000188,cell of skeletal muscle,CL:0000188,cell of skeletal muscle,Retained this broad native tissue-associated ontology term
+CL:0000064,ciliated cell,CL:0000064,ciliated cell,Retained this broad native morphology-defined ontology term
+CL:0000221,ectodermal cell,CL:0000221,ectodermal cell,Retained this broad native developmental ontology term
+CL:0002546,embryonic blood vessel endothelial progenitor cell,CL:0000222,mesodermal cell,Collapsed to its native mesodermal cell ancestor
+CL:0000349,extraembryonic cell,CL:0000349,extraembryonic cell,Retained this broad native developmental ontology term
+CL:0008036,extravillous trophoblast,CL:0000351,trophoblast cell,Collapsed to its native trophoblast cell ancestor
+CL:0000501,granulosa cell,CL:0002174,follicular cell of ovary,Collapsed to its native ovarian follicular-cell ancestor
+CL:0011011,intermediate mesodermal cell,CL:0000222,mesodermal cell,Collapsed to its native mesodermal cell ancestor
+CL:1000497,kidney cell,CL:1000497,kidney cell,Retained this already broad native ontology term
+CL:1000500,kidney interstitial cell,CL:4030031,interstitial cell,Collapsed to its native interstitial cell ancestor
+CL:1000507,kidney tubule cell,CL:1000497,kidney cell,Collapsed to its native kidney cell ancestor
+CL:0011010,lateral mesodermal cell,CL:0000222,mesodermal cell,Collapsed to its native mesodermal cell ancestor
+CL:1000272,lung secretory cell,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:0000148,melanocyte,CL:0000147,pigment cell,Collapsed to its native pigment cell ancestor
+CL:1000458,melanocyte of skin,CL:0000147,pigment cell,Collapsed to its native pigment cell ancestor
+CL:0000222,mesodermal cell,CL:0000222,mesodermal cell,Retained this broad native developmental ontology term
+CL:0000319,mucus secreting cell,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:0008034,mural cell,CL:4033054,perivascular cell,Collapsed to its native perivascular cell ancestor
+CL:0000032,neuroplacodal cell,CL:0000032,neuroplacodal cell,Retained this native developmental term because no selected broad ancestor is encoded
+CL:0007005,notochordal cell,CL:0007005,notochordal cell,Retained this native developmental term because no selected broad ancestor is encoded
+CL:4033054,perivascular cell,CL:4033054,perivascular cell,Retained this broad native ontology term
+CL:0000234,phagocyte,CL:0000234,phagocyte,Retained this native function-defined term because hematopoietic ancestry is not encoded
+CL:2000060,placental villous trophoblast,CL:0000351,trophoblast cell,Collapsed to its native trophoblast cell ancestor
+CL:0000151,secretory cell,CL:0000151,secretory cell,Retained this broad native function-defined ontology term
+CL:0000159,seromucus secreting cell,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:0000313,serous secreting cell,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:4033005,serous secreting cell of bronchus submucosal gland,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:0017001,splanchnic mesodermal cell,CL:0000222,mesodermal cell,Collapsed to its native mesodermal cell ancestor
+CL:0000630,supporting cell,CL:0000630,supporting cell,Retained this broad native function-defined ontology term
+CL:0000525,syncytiotrophoblast cell,CL:0000351,trophoblast cell,Collapsed to its native trophoblast cell ancestor
+CL:0019001,tracheobronchial serous cell,CL:0000151,secretory cell,Collapsed to its native secretory cell ancestor
+CL:0009010,transit amplifying cell,CL:0009010,transit amplifying cell,Retained this native proliferative-state term because progenitor ancestry is not encoded
+CL:4030032,valve interstitial cell,CL:4030031,interstitial cell,Collapsed to its native interstitial cell ancestor
+CL:0000335,mesenchyme condensation cell,CL:0008019,mesenchymal cell,Collapsed to its native mesenchymal cell ancestor
+CL:0008011,skeletal muscle satellite stem cell,CL:0000034,stem cell,Selected the native stem cell identity rather than the progenitor branch
+CL:0008019,mesenchymal cell,CL:0008019,mesenchymal cell,Retained this broad native ontology term

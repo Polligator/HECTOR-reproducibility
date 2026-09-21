@@ -1,0 +1,299 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+B cell,B cell,hector|popv|truth,589,794,8,322,identity
+"B cell, CD19-positive",B cell,hector,0,0,0,46,is-a B cell
+Be cell,B cell,hector,0,0,0,1,is-a B cell
+"CD14-low, CD16-positive monocyte",non-classical monocyte,hector,0,0,0,9,is-a non-classical monocyte  (also valid: monocyte)
+CD14-positive monocyte,monocyte,hector|popv,0,0,1,5,is-a monocyte
+"CD14-positive, CD16-low monocyte",monocyte,hector,0,0,0,1,is-a monocyte
+"CD14-positive, CD16-negative classical monocyte",monocyte,hector,0,0,0,7,is-a monocyte
+"CD14-positive, CD16-positive monocyte",monocyte,hector,0,0,0,1,is-a monocyte
+CD141-positive myeloid dendritic cell,dendritic cell,hector,0,0,0,2,is-a dendritic cell
+"CD16-negative, CD56-bright natural killer cell, human",natural killer cell,hector,0,0,0,1,is-a natural killer cell  (also valid: innate lymphoid cell)
+"CD16-positive, CD56-dim natural killer cell, human",natural killer cell,hector,0,0,0,12,is-a natural killer cell  (also valid: innate lymphoid cell)
+CD1c-positive myeloid dendritic cell,dendritic cell,hector,0,0,0,5,is-a dendritic cell
+"CD34-negative, CD117-positive innate lymphoid cell, human",innate lymphoid cell,hector,0,0,0,26,is-a innate lymphoid cell
+CD4-positive helper T cell,T cell,hector,0,0,0,5,is-a T cell
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",T cell,hector,0,0,0,2,is-a T cell
+"CD4-positive, alpha-beta T cell",T cell,hector|popv,0,2499,8,150,is-a T cell
+"CD4-positive, alpha-beta cytotoxic T cell",T cell,hector,0,0,0,7,is-a T cell
+"CD4-positive, alpha-beta memory T cell",T cell,hector,0,0,0,6,is-a T cell
+"CD4-positive, alpha-beta memory T cell, CD45RO-positive",T cell,hector,0,0,0,42,is-a T cell
+CD8-alpha-negative thymic conventional dendritic cell,dendritic cell,truth,103,0,0,0,is-a dendritic cell
+CD8-alpha-positive thymic conventional dendritic cell,dendritic cell,truth,77,0,0,0,is-a dendritic cell
+"CD8-positive, alpha-beta T cell",T cell,hector|popv,0,3059,8,24,is-a T cell
+"CD8-positive, alpha-beta cytotoxic T cell",T cell,hector,0,0,0,4,is-a T cell
+"CD8-positive, alpha-beta memory T cell",T cell,hector,0,0,0,3,is-a T cell
+"CD8-positive, alpha-beta memory T cell, CD45RO-positive",T cell,hector,0,0,0,3,is-a T cell
+"CD8-positive, alpha-beta regulatory T cell",T cell,popv,0,0,1,0,is-a T cell
+Cajal-Retzius cell,neural cell,hector,0,0,0,1,is-a neural cell
+GABAergic neuron,neural cell,hector,0,0,0,2,is-a neural cell
+Gr1-high classical monocyte,monocyte,hector,0,0,0,1,is-a monocyte
+Gr1-low non-classical monocyte,non-classical monocyte,popv,0,0,1,0,is-a non-classical monocyte  (also valid: monocyte)
+"Gr1-positive, CD43-positive monocyte",monocyte,popv,0,0,1,0,is-a monocyte
+IgA plasma cell,plasma cell,hector,0,0,0,6,is-a plasma cell
+IgG plasma cell,plasma cell,hector,0,0,0,124,is-a plasma cell
+L4 intratelencephalic projecting glutamatergic neuron,neural cell,hector,0,0,0,2,is-a neural cell
+Langerhans cell,dendritic cell,hector,0,0,0,1,is-a dendritic cell
+Leydig cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+Schwann cell,neural cell,hector,0,0,0,4,is-a neural cell
+Sertoli cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+T cell,T cell,hector|popv,0,0,4,1078,identity
+T follicular helper cell,T cell,hector,0,0,0,3,is-a T cell
+T-helper 17 cell,T cell,hector,0,0,0,1,is-a T cell
+T-helper 22 cell,T cell,hector,0,0,0,1,is-a T cell
+VIP GABAergic cortical interneuron,neural cell,hector,0,0,0,1,is-a neural cell
+acinar cell of salivary gland,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+"activated CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,13,is-a T cell
+"activated CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,3,is-a T cell
+activated type II NK T cell,T cell,hector,0,0,0,3,is-a T cell
+adventitial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+airway submucosal gland duct basal cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+alpha-beta T cell,T cell,hector|popv,0,0,1,80,is-a T cell
+alternatively activated macrophage,macrophage,hector,0,0,0,25,is-a macrophage
+alveolar adventitial fibroblast,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+alveolar macrophage,macrophage,hector,0,0,0,2,is-a macrophage
+antibody secreting cell,plasma cell,hector|popv,0,0,1,12,"biologically plasma cell — sole class below, term has 2 child(ren)"
+aortic endothelial cell,endothelial cell,hector,0,0,0,1,is-a endothelial cell
+basal cell,Unknown,hector,0,0,0,5,no class above or below — outside every biological class
+basal cell of epithelium of trachea,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+basal cell of urothelium,Unknown,hector,0,0,0,4,no class above or below — outside every biological class
+basal epithelial cell of prostatic duct,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+basal-myoepithelial cell of mammary gland,Unknown,hector,0,0,0,13,no class above or below — outside every biological class
+bladder urothelial cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+blood cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+blood vessel endothelial cell,endothelial cell,hector,0,0,0,57,is-a endothelial cell
+blood vessel smooth muscle cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+brush border cell of the proximal tubule,kidney epithelial cell,hector,0,0,0,62,is-a kidney epithelial cell
+brush cell of tracheobronchial tree,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+capillary endothelial cell,endothelial cell,hector,0,0,0,26,is-a endothelial cell
+cardiac endothelial cell,endothelial cell,hector,0,0,0,11,is-a endothelial cell
+caudal ganglionic eminence derived cortical interneuron,neural cell,hector,0,0,0,1,is-a neural cell
+cell in vitro,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+"central memory CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,8,is-a T cell
+cholangiocyte,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+ciliated epithelial cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+classical monocyte,monocyte,hector|popv|truth,1389,0,1,145,is-a monocyte
+colon endothelial cell,endothelial cell,popv,0,0,1,0,is-a endothelial cell
+common dendritic progenitor,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+conventional dendritic cell,dendritic cell,hector,0,0,0,699,is-a dendritic cell
+cycling T cell,T cell,hector,0,0,0,20,is-a T cell
+cycling macrophage,macrophage,truth,61,0,0,0,is-a macrophage
+cytotoxic T cell,T cell,hector,0,0,0,2484,is-a T cell
+decidual cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+dendritic cell,dendritic cell,hector,0,0,0,41,identity
+"dendritic cell, human",dendritic cell,hector,0,0,0,69,is-a dendritic cell
+double negative thymocyte,T cell,hector,0,0,0,2,is-a T cell
+"effector CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,10,is-a T cell
+effector T cell,T cell,hector,0,0,0,817,is-a T cell
+"effector memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,14,is-a T cell
+"effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated",T cell,hector,0,0,0,2,is-a T cell
+"effector memory CD8-positive, alpha-beta T cell",T cell,hector|truth,1165,0,0,1,is-a T cell
+"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",T cell,hector|truth,265,0,0,21,is-a T cell
+elicited macrophage,macrophage,hector,0,0,0,1,is-a macrophage
+endocardial cell,endothelial cell,hector,0,0,0,1,is-a endothelial cell
+endothelial cell,endothelial cell,hector|popv|truth,9723,11868,8,7340,identity
+endothelial cell of arteriole,endothelial cell,hector,0,0,0,287,is-a endothelial cell
+endothelial cell of artery,endothelial cell,hector,0,0,0,45,is-a endothelial cell
+endothelial cell of lymphatic vessel,endothelial cell,hector,0,0,0,78,is-a endothelial cell
+endothelial cell of respiratory system lymphatic vessel,endothelial cell,hector,0,0,0,1,is-a endothelial cell
+endothelial cell of uterus,endothelial cell,hector,0,0,0,5,is-a endothelial cell
+endothelial cell of vascular tree,endothelial cell,hector,0,0,0,14,is-a endothelial cell
+endothelial cell of venule,endothelial cell,hector,0,0,0,11,is-a endothelial cell
+enterocyte,Unknown,hector,0,0,0,7,no class above or below — outside every biological class
+enterocyte of epithelium of large intestine,Unknown,hector,0,0,0,25,no class above or below — outside every biological class
+enterocyte of epithelium proper of duodenum,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+enterocyte of epithelium proper of ileum,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+epidermal keratinocyte,Unknown,hector,0,0,0,8,no class above or below — outside every biological class
+epithelial cell,Unknown,hector,0,0,0,8,has 40 children; not interchangeable with kidney epithelial cell
+epithelial cell of alimentary canal,Unknown,hector,0,0,0,4,no class above or below — outside every biological class
+epithelial cell of early distal convoluted tubule,kidney epithelial cell,hector,0,0,0,97,is-a kidney epithelial cell
+epithelial cell of glomerular capsule,kidney epithelial cell,hector,0,0,0,12,is-a kidney epithelial cell
+epithelial cell of large intestine,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+epithelial cell of nephron,kidney epithelial cell,hector|popv,0,0,1,29,is-a kidney epithelial cell
+epithelial cell of proximal tubule,kidney epithelial cell,hector|truth,18815,0,0,18023,is-a kidney epithelial cell
+epithelial cell of proximal tubule segment 3,kidney epithelial cell,hector,0,0,0,58,is-a kidney epithelial cell
+epithelial cell of stomach,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+epithelial cell of tracheobronchial tree,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+erythrocyte,Unknown,hector,0,0,0,9,no class above or below — outside every biological class
+erythroid progenitor cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+fallopian tube non-ciliated epithelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+fenestrated endothelial cell,endothelial cell,hector,0,0,0,77,is-a endothelial cell
+fibroblast,Unknown,hector,0,0,0,5,no class above or below — outside every biological class
+follicular B cell,B cell,hector,0,0,0,3,is-a B cell
+follicular cell of ovary,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+foveolar cell of stomach,Unknown,hector,0,0,0,21,no class above or below — outside every biological class
+gamma-delta T cell,T cell,hector,0,0,0,4,is-a T cell
+gastrointestinal tract (lamina propria) macrophage,macrophage,hector,0,0,0,2,is-a macrophage
+germinal center B cell,B cell,hector,0,0,0,11,is-a B cell
+glandular cell of esophagus,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+glial cell,neural cell,hector,0,0,0,2,is-a neural cell
+glioblast,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+glomerular capillary endothelial cell,endothelial cell,hector,0,0,0,472,is-a endothelial cell
+glutamatergic neuron,neural cell,hector,0,0,0,2,is-a neural cell
+granulocyte,Unknown,popv,0,0,1,0,no class above or below — outside every biological class
+granulocytopoietic cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+granulosa cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+group 2 innate lymphoid cell,innate lymphoid cell,hector,0,0,0,2,is-a innate lymphoid cell
+group 3 innate lymphoid cell,innate lymphoid cell,hector|truth,30,0,0,3,is-a innate lymphoid cell
+"group 3 innate lymphoid cell, human",innate lymphoid cell,hector,0,0,0,6,is-a innate lymphoid cell
+helper T cell,T cell,hector,0,0,0,27,is-a T cell
+hematopoietic stem cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+hepatocyte,Unknown,hector,0,0,0,4,no class above or below — outside every biological class
+immature B cell,B cell,hector,0,0,0,7,is-a B cell
+immature T cell,T cell,hector,0,0,0,2,is-a T cell
+immature innate lymphoid cell,innate lymphoid cell,hector,0,0,0,3,is-a innate lymphoid cell
+immature natural killer cell,natural killer cell,hector,0,0,0,1,is-a natural killer cell  (also valid: innate lymphoid cell)
+immature neutrophil,Unknown,popv,0,0,1,0,no class above or below — outside every biological class
+indirect pathway medium spiny neuron,neural cell,hector,0,0,0,2,is-a neural cell
+inflammatory macrophage,macrophage,hector,0,0,0,4,is-a macrophage
+innate lymphoid cell,innate lymphoid cell,hector,0,0,0,5,identity
+intermediate cell of urothelium,Unknown,hector,0,0,0,19,no class above or below — outside every biological class
+intermediate monocyte,monocyte,hector|popv,0,0,2,3,is-a monocyte
+intestine goblet cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+intrahepatic cholangiocyte,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+keratocyte,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+kidney capillary endothelial cell,endothelial cell,hector,0,0,0,104,is-a endothelial cell
+kidney cell,Unknown,hector,0,0,0,1,"superclass spanning 2 classes (kidney epithelial cell, kidney interstitial cell) — ambiguous"
+kidney collecting duct alpha-intercalated cell,kidney epithelial cell,hector,0,0,0,259,is-a kidney epithelial cell
+kidney collecting duct epithelial cell,kidney epithelial cell,hector,0,0,0,182,is-a kidney epithelial cell
+kidney collecting duct intercalated cell,kidney epithelial cell,hector|truth,5017,0,0,5725,is-a kidney epithelial cell
+kidney collecting duct principal cell,kidney epithelial cell,hector|truth,9427,0,0,9294,is-a kidney epithelial cell
+kidney connecting tubule epithelial cell,kidney epithelial cell,hector|truth,4852,0,0,3168,is-a kidney epithelial cell
+kidney connecting tubule intercalated cell,kidney epithelial cell,hector,0,0,0,6,is-a kidney epithelial cell
+kidney connecting tubule principal cell,kidney epithelial cell,hector,0,0,0,79,is-a kidney epithelial cell
+kidney corpuscule cell,kidney epithelial cell,hector,0,0,0,2,is-a kidney epithelial cell
+kidney cortex tubule cell,kidney epithelial cell,hector,0,0,0,29,is-a kidney epithelial cell
+kidney cortical cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+kidney distal convoluted tubule epithelial cell,kidney epithelial cell,hector|truth,4080,0,0,4017,is-a kidney epithelial cell
+kidney epithelial cell,kidney epithelial cell,hector|popv,0,68354,8,240,identity
+kidney interstitial alternatively activated macrophage,macrophage,hector,0,0,0,624,is-a macrophage  (also valid: kidney interstitial cell)
+kidney interstitial cell,kidney interstitial cell,hector,0,0,0,3657,identity
+kidney interstitial fibroblast,kidney interstitial cell,hector|truth,1050,0,0,6,is-a kidney interstitial cell
+kidney loop of Henle ascending limb epithelial cell,kidney epithelial cell,hector,0,0,0,4,is-a kidney epithelial cell
+kidney loop of Henle cortical thick ascending limb epithelial cell,kidney epithelial cell,hector,0,0,0,107,is-a kidney epithelial cell
+kidney loop of Henle descending limb epithelial cell,kidney epithelial cell,hector,0,0,0,52,is-a kidney epithelial cell
+kidney loop of Henle thick ascending limb epithelial cell,kidney epithelial cell,hector|truth,18264,0,0,18356,is-a kidney epithelial cell
+kidney loop of Henle thin ascending limb epithelial cell,kidney epithelial cell,hector|truth,620,0,0,592,is-a kidney epithelial cell
+kidney loop of Henle thin descending limb epithelial cell,kidney epithelial cell,hector|truth,2968,0,0,2530,is-a kidney epithelial cell
+kidney medulla cell,Unknown,hector,0,0,0,7,no class above or below — outside every biological class
+kidney outer medulla cell,Unknown,hector,0,0,0,13,no class above or below — outside every biological class
+kidney proximal convoluted tubule epithelial cell,kidney epithelial cell,hector,0,0,0,378,is-a kidney epithelial cell
+kidney proximal straight tubule epithelial cell,kidney epithelial cell,hector,0,0,0,1,is-a kidney epithelial cell
+kidney resident macrophage,macrophage,truth,531,0,0,0,is-a macrophage  (also valid: kidney interstitial cell)
+leukocyte,Unknown,hector,0,0,0,20,"superclass spanning 10 classes (B cell, T cell, macrophage, monocyte, natural killer cell, non-classical monocyte, plasma cell, dendritic cell, innate lymphoid cell, mast cell) — ambiguous"
+long lived plasma cell,plasma cell,hector|popv,0,0,1,5,is-a plasma cell
+luminal adaptive secretory precursor cell of mammary gland,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+luminal endometrial multiciliated epithelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+lung interstitial macrophage,macrophage,hector,0,0,0,1,is-a macrophage
+lung macrophage,macrophage,hector,0,0,0,4,is-a macrophage
+lung multiciliated epithelial cell,Unknown,hector,0,0,0,35,no class above or below — outside every biological class
+"lung resident memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,1,is-a T cell
+lymph node mantle zone B cell,B cell,popv,0,0,1,0,is-a B cell
+lymphocyte,Unknown,hector,0,0,0,294,"superclass spanning 5 classes (B cell, T cell, natural killer cell, plasma cell, innate lymphoid cell) — ambiguous"
+lymphocyte of B lineage,Unknown,hector|popv,0,0,1,4,"superclass spanning 2 classes (B cell, plasma cell) — ambiguous"
+lymphoid lineage restricted progenitor cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+macrophage,macrophage,hector|popv|truth,1898,4032,8,105,identity
+mast cell,mast cell,hector|truth,25,0,0,30,identity
+mature B cell,B cell,hector,0,0,0,15,is-a B cell
+mature CD4 single-positive thymocyte,T cell,popv,0,0,1,0,is-a T cell
+mature NK T cell,T cell,hector,0,0,0,930,is-a T cell
+mature T cell,T cell,hector|popv,0,0,1,10,is-a T cell
+mature alpha-beta T cell,T cell,popv,0,0,1,0,is-a T cell
+mature gamma-delta T cell,T cell,hector,0,0,0,1,is-a T cell
+mature natural killer cell,natural killer cell,popv,0,0,1,0,is-a natural killer cell  (also valid: innate lymphoid cell)
+medullary thymic epithelial cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+medullary thymic epithelial cell type 3,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+megakaryocyte-erythroid progenitor cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+memory B cell,B cell,hector,0,0,0,23,is-a B cell
+memory CCR4-positive regulatory T cell,T cell,hector,0,0,0,2,is-a T cell
+memory T cell,T cell,hector,0,0,0,1,is-a T cell
+memory regulatory T cell,T cell,hector,0,0,0,4,is-a T cell
+mesenchymal cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+mesothelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+microvascular endothelial cell,endothelial cell,hector,0,0,0,9,is-a endothelial cell
+migratory dendtritic cell,dendritic cell,truth,54,0,0,0,is-a dendritic cell
+monocyte,monocyte,hector|popv,0,18,7,1228,identity
+mononuclear phagocyte,Unknown,hector,0,0,0,999,"superclass spanning 4 classes (macrophage, monocyte, non-classical monocyte, dendritic cell) — ambiguous"
+mucosal invariant T cell,T cell,hector|truth,154,0,0,3,is-a T cell
+mucous cell of stomach,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+mucous neck cell of gastric gland,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+mural cell,Unknown,hector,0,0,0,5,no class above or below — outside every biological class
+muscle cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+myelinating Schwann cell,neural cell,hector,0,0,0,1,is-a neural cell
+myelinating glial cell,neural cell,hector,0,0,0,2,is-a neural cell
+myeloid cell,Unknown,hector,0,0,0,17,"superclass spanning 4 classes (macrophage, monocyte, non-classical monocyte, mast cell) — ambiguous"
+myeloid dendritic cell,dendritic cell,hector,0,0,0,123,is-a dendritic cell
+"myeloid dendritic cell, human",dendritic cell,hector,0,0,0,1,is-a dendritic cell
+myeloid leukocyte,Unknown,popv,0,0,1,0,"superclass spanning 4 classes (macrophage, monocyte, non-classical monocyte, mast cell) — ambiguous"
+myo-medullary thymic epithelial cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+naive B cell,B cell,hector,0,0,0,59,is-a B cell
+naive T cell,T cell,hector,0,0,0,1,is-a T cell
+naive regulatory T cell,T cell,hector|truth,274,0,0,3,is-a T cell
+"naive thymus-derived CD4-positive, alpha-beta T cell",T cell,hector|truth,3411,0,0,59,is-a T cell
+"naive thymus-derived CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,14,is-a T cell
+natural killer cell,natural killer cell,hector|popv|truth,1059,1020,8,235,identity
+nephron tubule epithelial cell,kidney epithelial cell,hector,0,0,0,25,is-a kidney epithelial cell
+neural cell,neural cell,truth,617,0,0,0,identity
+neuro-medullary thymic epithelial cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+neuroendocrine cell,neural cell,hector,0,0,0,1,is-a neural cell
+neuron associated cell,neural cell,hector,0,0,0,21,is-a neural cell
+neutrophil,Unknown,hector|popv,0,0,5,49,no class above or below — outside every biological class
+non-classical monocyte,non-classical monocyte,hector|popv|truth,144,46,6,101,identity
+non-myelinating Schwann cell,neural cell,hector,0,0,0,2,is-a neural cell
+oligodendrocyte,neural cell,hector,0,0,0,5,is-a neural cell
+oligodendrocyte precursor cell,neural cell,hector,0,0,0,1,is-a neural cell
+osteoclast,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+pancreatic acinar cell,Unknown,hector,0,0,0,13,no class above or below — outside every biological class
+pancreatic ductal cell,Unknown,hector,0,0,0,14,no class above or below — outside every biological class
+paneth cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+parietal epithelial cell,kidney epithelial cell,hector|truth,920,0,0,816,is-a kidney epithelial cell
+pericyte,Unknown,hector,0,0,0,4,no class above or below — outside every biological class
+peritubular capillary endothelial cell,endothelial cell,hector,0,0,0,474,is-a endothelial cell
+perivascular cell,Unknown,hector,0,0,0,13,no class above or below — outside every biological class
+plasma cell,plasma cell,hector|popv|truth,329,1,5,164,identity
+plasmablast,B cell,hector,0,0,0,12,is-a B cell
+plasmacytoid dendritic cell,dendritic cell,hector,0,0,0,30,is-a dendritic cell
+"plasmacytoid dendritic cell, human",dendritic cell,hector|truth,66,0,0,19,is-a dendritic cell
+platelet,Unknown,hector,0,0,0,9,no class above or below — outside every biological class
+podocyte,kidney epithelial cell,hector|truth,471,0,0,509,is-a kidney epithelial cell
+precursor B cell,B cell,hector,0,0,0,3,is-a B cell
+proerythroblast,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+pulmonary alveolar epithelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+pulmonary alveolar type 1 cell,Unknown,hector,0,0,0,3,no class above or below — outside every biological class
+pulmonary alveolar type 2 cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+pulmonary artery endothelial cell,endothelial cell,hector,0,0,0,2,is-a endothelial cell
+regular ventricular cardiac myocyte,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+regulatory T cell,T cell,hector,0,0,0,51,is-a T cell
+renal alpha-intercalated cell,kidney epithelial cell,hector,0,0,0,37,is-a kidney epithelial cell
+renal beta-intercalated cell,kidney epithelial cell,hector,0,0,0,60,is-a kidney epithelial cell
+renal interstitial pericyte,kidney interstitial cell,hector|truth,3243,0,0,1128,is-a kidney interstitial cell
+renal principal cell,kidney epithelial cell,hector,0,0,0,714,is-a kidney epithelial cell
+respiratory basal cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+respiratory tract multiciliated cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+retina horizontal cell,neural cell,hector,0,0,0,2,is-a neural cell
+retinal progenitor cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+secretory cell,Unknown,hector,0,0,0,10,has 36 children; not interchangeable with mast cell
+skeletal muscle satellite stem cell,Unknown,hector,0,0,0,5,no class above or below — outside every biological class
+smooth muscle cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+squamous endothelial cell,endothelial cell,hector,0,0,0,18,is-a endothelial cell
+squamous epithelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+steroid hormone secreting cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+stratified squamous epithelial cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+stromal cell,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+stromal cell of ovary,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+stromal cell of pancreas,Unknown,hector,0,0,0,2,no class above or below — outside every biological class
+subcutaneous adipocyte,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+thymic fibroblast type 1,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+tissue-resident macrophage,macrophage,popv,0,0,1,0,is-a macrophage
+tracheobronchial serous cell,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+transit amplifying cell of gut,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+transit amplifying cell of small intestine,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+transitional stage B cell,B cell,hector,0,0,0,4,is-a B cell
+tuft cell of small intestine,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+type EC enteroendocrine cell,neural cell,hector,0,0,0,1,is-a neural cell
+umbrella cell of urothelium,Unknown,hector,0,0,0,1,no class above or below — outside every biological class
+unswitched memory B cell,B cell,hector,0,0,0,1,is-a B cell
+urothelial cell,Unknown,hector,0,0,0,6,no class above or below — outside every biological class
+vasa recta ascending limb cell,endothelial cell,hector,0,0,0,238,is-a endothelial cell
+vein endothelial cell,endothelial cell,hector,0,0,0,25,is-a endothelial cell
+vein endothelial cell of respiratory system,endothelial cell,hector,0,0,0,19,is-a endothelial cell

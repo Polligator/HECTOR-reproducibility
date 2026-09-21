@@ -1,0 +1,280 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+"Axl+ dendritic cell, human",dendritic cell,hector,0,0,0,2,is-a
+B cell,B cell,hector|popv|truth,3683,4136,8,775,is-a
+"B cell, CD19-positive",B cell,hector,0,0,0,340,is-a
+B-1 B cell,B cell,hector,0,0,0,1,is-a
+B-2 B cell,B cell,hector,0,0,0,1,is-a
+Be cell,B cell,hector,0,0,0,150,is-a
+Bm2 B cell,B cell,hector,0,0,0,1,is-a
+CCL3-positive alveolar macrophage,macrophage,truth,10504,0,0,0,is-a
+CD115-positive monocyte,monocyte,hector|popv,0,0,1,5,is-a
+CD115-positive monocyte OR common dendritic progenitor,Unknown,hector,0,0,0,2,outside every class
+CD11c-negative plasmacytoid dendritic cell,dendritic cell,popv,0,0,1,0,is-a
+"CD14-low, CD16-positive monocyte",monocyte,hector,0,0,0,4,is-a
+CD14-positive monocyte,monocyte,hector|popv,0,0,1,40,is-a
+"CD14-positive, CD16-negative classical monocyte",monocyte,hector|popv,0,0,1,10,is-a
+"CD14-positive, CD16-positive monocyte",monocyte,hector,0,0,0,3,is-a
+CD141-positive myeloid dendritic cell,dendritic cell,hector|popv,0,0,1,25,is-a
+"CD16-negative, CD56-bright natural killer cell, human",natural killer cell,hector,0,0,0,147,is-a  (also valid: innate lymphoid cell)
+"CD16-positive, CD56-dim natural killer cell, human",natural killer cell,hector,0,0,0,29,is-a  (also valid: innate lymphoid cell)
+CD1c-positive myeloid dendritic cell,dendritic cell,hector|popv,0,0,1,207,is-a
+"CD34-negative, CD117-positive innate lymphoid cell, human",innate lymphoid cell,hector,0,0,0,41,is-a
+CD4-positive helper T cell,T cell,hector,0,0,0,93,is-a
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",T cell,hector|truth,456,0,0,59,is-a
+"CD4-positive, alpha-beta T cell",T cell,hector|popv|truth,3443,9427,8,353,is-a
+"CD4-positive, alpha-beta cytotoxic T cell",T cell,hector,0,0,0,287,is-a
+"CD4-positive, alpha-beta memory T cell",T cell,hector|popv,0,0,1,455,is-a
+"CD4-positive, alpha-beta memory T cell, CD45RO-positive",T cell,hector,0,0,0,1096,is-a
+"CD4-positive, alpha-beta thymocyte",T cell,hector,0,0,0,5,is-a
+"CD8-alpha alpha positive, gamma-delta intraepithelial T cell",T cell,hector,0,0,0,10,is-a
+"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",T cell,hector,0,0,0,10,is-a
+"CD8-alpha-beta-positive, alpha-beta intraepithelial T cell",T cell,hector,0,0,0,2,is-a
+CD8-alpha-negative CD11b-negative dendritic cell,dendritic cell,hector,0,0,0,2,is-a
+"CD8-positive, CD28-negative, alpha-beta regulatory T cell",T cell,hector,0,0,0,1,is-a
+"CD8-positive, alpha-beta T cell",T cell,hector|popv,0,5732,8,424,is-a
+"CD8-positive, alpha-beta cytotoxic T cell",T cell,hector,0,0,0,77,is-a
+"CD8-positive, alpha-beta memory T cell",T cell,hector,0,0,0,389,is-a
+"CD8-positive, alpha-beta memory T cell, CD45RO-positive",T cell,hector,0,0,0,149,is-a
+"CD8-positive, alpha-beta regulatory T cell",T cell,hector,0,0,0,16,is-a
+"CD8-positive, alpha-beta thymocyte",T cell,hector,0,0,0,80,is-a
+CD8aa(I) thymocyte,T cell,hector,0,0,0,234,is-a
+Gr1-low non-classical monocyte,monocyte,popv,0,0,1,0,is-a
+"Gr1-positive, CD43-positive monocyte",monocyte,popv,0,0,1,0,is-a
+Hofbauer cell,macrophage,hector,0,0,0,18,is-a
+IgG plasma cell,plasma cell,hector,0,0,0,29,is-a
+IgG-negative class switched memory B cell,B cell,hector,0,0,0,11,is-a
+IgM plasma cell,plasma cell,hector,0,0,0,1,is-a
+Kupffer cell,macrophage,hector,0,0,0,1,is-a
+Langerhans cell,dendritic cell,hector,0,0,0,14,is-a
+S cone cell,Unknown,hector,0,0,0,1,outside every class
+T cell,T cell,hector,0,0,0,193,is-a
+T follicular helper cell,T cell,hector,0,0,0,81,is-a
+T-helper 17 cell,T cell,hector,0,0,0,245,is-a
+T-helper 22 cell,T cell,hector,0,0,0,1,is-a
+acinar cell of salivary gland,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+"activated CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,30,is-a
+"activated CD8-positive, alpha-beta T cell",T cell,hector|popv,0,0,1,904,is-a
+adventitial cell,Unknown,popv,0,1,2,0,outside every class
+airway submucosal gland duct basal cell,epithelial cell,hector,0,0,0,1,"MANUAL: airway gland epithelium, as basal cell  [OVERRIDES ontology: proposal was Unknown]"
+alpha-beta T cell,T cell,hector,0,0,0,60,is-a
+alternatively activated macrophage,macrophage,hector,0,0,0,7233,is-a
+alveolar adventitial fibroblast,Unknown,popv,0,0,1,0,outside every class
+alveolar macrophage,macrophage,hector|truth,111800,0,0,109657,is-a
+antibody secreting cell,plasma cell,hector|popv,0,0,1,21,"sole class below, term has only 2 child(ren)"
+basal cell,epithelial cell,hector|popv,0,187,8,5,MANUAL: airway basal cell is epithelium; CL files it as a stem cell  [OVERRIDES ontology: proposal was Unknown]
+basal cell of epithelium of trachea,epithelial cell,hector,0,0,0,14,MANUAL: as basal cell  [OVERRIDES ontology: proposal was Unknown]
+basal cell of urothelium,Unknown,hector,0,0,0,4,epithelium of another organ — not this dataset's epithelial cells
+basophil,Unknown,popv,0,66,8,0,outside every class
+basophilic erythroblast,Unknown,hector,0,0,0,1,outside every class
+blood cell,Unknown,hector,0,0,0,29,has 5 children; not interchangeable with neutrophil
+blood vessel endothelial cell,Unknown,popv,0,0,1,0,outside every class
+bronchial smooth muscle cell,Unknown,popv,0,0,2,0,outside every class
+capillary endothelial cell,Unknown,hector|popv,0,1,6,2,outside every class
+cell in vitro,Unknown,hector,0,0,0,5,outside every class
+"central memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,12,is-a
+"central memory CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,194,is-a
+centroblast,B cell,hector,0,0,0,2,is-a
+ciliated cell,ciliated epithelial cell,hector,0,0,0,207,MANUAL: in BAL this is airway ciliated epithelium  [OVERRIDES ontology: proposal was Unknown]
+ciliated epithelial cell,ciliated epithelial cell,hector|popv|truth,1246,0,1,23,is-a  (also valid: epithelial cell)
+class switched memory B cell,B cell,hector,0,0,0,47,is-a
+classical monocyte,monocyte,hector|popv,0,2654,8,501,is-a
+club cell,epithelial cell,hector|popv,0,1,6,152,is-a
+common dendritic progenitor,Unknown,hector,0,0,0,33,outside every class
+common lymphoid progenitor,Unknown,hector,0,0,0,2,outside every class
+conventional dendritic cell,dendritic cell,hector|truth,3065,0,0,5036,is-a
+cortical thymic epithelial cell,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+corticomedullary thymic epithelial cell,Unknown,hector,0,0,0,2,epithelium of another organ — not this dataset's epithelial cells
+cycling T cell,T cell,hector,0,0,0,98,is-a
+cycling alveolar macrophage,macrophage,truth,6821,0,0,0,is-a
+cycling myeloid cell,Unknown,hector,0,0,0,2,outside every class
+cytotoxic T cell,T cell,hector,0,0,0,193,is-a
+"decidual natural killer cell, human",natural killer cell,hector,0,0,0,3,is-a  (also valid: innate lymphoid cell)
+dendritic cell,dendritic cell,hector,0,0,0,397,is-a
+"dendritic cell, human",dendritic cell,hector,0,0,0,209,is-a
+deuterosomal cell,epithelial cell,hector,0,0,0,10,is-a
+double negative thymocyte,T cell,hector,0,0,0,5,is-a
+"double-positive, alpha-beta thymocyte",T cell,hector,0,0,0,1,is-a
+"effector CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,384,is-a
+"effector CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,97,is-a
+effector T cell,T cell,hector,0,0,0,645,is-a
+"effector memory CD4-positive, alpha-beta T cell",T cell,hector,0,0,0,343,is-a
+"effector memory CD4-positive, alpha-beta T cell, terminally differentiated",T cell,hector,0,0,0,1,is-a
+"effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated",T cell,hector,0,0,0,141,is-a
+"effector memory CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,213,is-a
+"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",T cell,hector,0,0,0,609,is-a
+elicited macrophage,macrophage,hector,0,0,0,11,is-a
+endothelial cell,Unknown,hector,0,0,0,1,outside every class
+endothelial cell of artery,Unknown,popv,0,3,6,0,outside every class
+endothelial cell of lymphatic vessel,Unknown,hector|popv,0,0,2,2,outside every class
+endothelial cell of vascular tree,Unknown,hector,0,0,0,4,outside every class
+endothelial cell of venule,Unknown,hector,0,0,0,3,outside every class
+enterocyte,Unknown,hector,0,0,0,5,epithelium of another organ — not this dataset's epithelial cells
+epidermal keratinocyte,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+epithelial cell,epithelial cell,hector|truth,591,0,0,22,is-a
+epithelial cell of alimentary canal,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+epithelial cell of esophagus,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+epithelial cell of large intestine,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+epithelial cell of lung,epithelial cell,hector|popv,0,0,1,1,is-a
+epithelial cell of proximal tubule,Unknown,hector,0,0,0,2,epithelium of another organ — not this dataset's epithelial cells
+epithelial cell of tracheobronchial tree,epithelial cell,hector|popv,0,0,1,24,is-a
+erythrocyte,Unknown,hector,0,0,0,19,outside every class
+erythroid lineage cell,Unknown,hector,0,0,0,7,outside every class
+erythroid progenitor cell,Unknown,hector,0,0,0,5,outside every class
+fallopian tube secretory epithelial cell,Unknown,hector,0,0,0,7,epithelium of another organ — not this dataset's epithelial cells
+follicular B cell,B cell,hector,0,0,0,43,is-a
+gamma-delta T cell,T cell,hector|truth,244,0,0,1069,is-a
+gamma-delta thymocyte,T cell,hector,0,0,0,3,is-a
+gastrointestinal tract (lamina propria) macrophage,macrophage,hector,0,0,0,1,is-a
+germinal center B cell,B cell,hector,0,0,0,308,is-a
+glandular secretory epithelial cell,epithelial cell,hector,0,0,0,1,is-a
+goblet cell,epithelial cell,hector|popv,0,0,1,2,is-a
+granulocyte,Unknown,hector|popv,0,0,1,1,MANUAL: 3 children; not interchangeable with neutrophil  [confirms ontology: proposal was Unknown]
+granulosa cell,Unknown,hector,0,0,0,1,outside every class
+group 1 innate lymphoid cell,innate lymphoid cell,hector,0,0,0,36,is-a
+group 2 innate lymphoid cell,innate lymphoid cell,hector,0,0,0,2,is-a
+group 3 innate lymphoid cell,innate lymphoid cell,hector,0,0,0,49,is-a
+"group 3 innate lymphoid cell, human",innate lymphoid cell,hector,0,0,0,10,is-a
+helper T cell,T cell,hector,0,0,0,195,is-a
+hematopoietic cell,Unknown,hector,0,0,0,4,superclass over 10
+hematopoietic stem cell,Unknown,hector,0,0,0,5,outside every class
+hepatic pit cell,natural killer cell,hector,0,0,0,1,is-a  (also valid: innate lymphoid cell)
+immature B cell,B cell,hector,0,0,0,6,is-a
+immature NK T cell,T cell,hector,0,0,0,1,is-a
+immature T cell,T cell,hector,0,0,0,38,is-a
+immature alpha-beta T cell,T cell,hector,0,0,0,9,is-a
+immature gamma-delta T cell,T cell,hector,0,0,0,4,is-a
+immature innate lymphoid cell,innate lymphoid cell,hector,0,0,0,52,is-a
+immature natural killer cell,natural killer cell,hector,0,0,0,5,is-a  (also valid: innate lymphoid cell)
+immature neutrophil,neutrophil,hector,0,0,0,4,is-a
+inflammatory macrophage,macrophage,hector,0,0,0,53,is-a
+innate lymphoid cell,innate lymphoid cell,hector|truth,1481,0,0,138,is-a
+intermediate cell of urothelium,Unknown,hector,0,0,0,9,epithelium of another organ — not this dataset's epithelial cells
+intermediate monocyte,monocyte,hector|popv,0,1085,8,2,is-a
+intestinal crypt stem cell,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+intraepithelial lymphocyte,T cell,hector,0,0,0,2,is-a
+ionocyte,epithelial cell,hector,0,0,0,2,is-a
+keratinizing barrier epithelial cell,epithelial cell,hector,0,0,0,2,is-a
+keratinocyte,Unknown,hector,0,0,0,4,epithelium of another organ — not this dataset's epithelial cells
+kidney interstitial alternatively activated macrophage,macrophage,hector,0,0,0,91,is-a
+kidney loop of Henle thick ascending limb epithelial cell,Unknown,hector,0,0,0,5,epithelium of another organ — not this dataset's epithelial cells
+leukocyte,Unknown,hector,0,0,0,886,superclass over 10
+lipid-associated macrophage,macrophage,truth,12452,0,0,0,is-a
+long lived plasma cell,plasma cell,hector|popv,0,0,1,1,is-a
+luminal adaptive secretory precursor cell of mammary gland,Unknown,hector,0,0,0,13,epithelium of another organ — not this dataset's epithelial cells
+luminal epithelial cell of mammary gland,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+lung ciliated cell,ciliated epithelial cell,popv,0,1301,8,0,is-a  (also valid: epithelial cell)
+lung goblet cell,epithelial cell,hector|popv,0,0,1,1,is-a
+lung interstitial macrophage,macrophage,hector|truth,3412,0,0,26,is-a
+lung macrophage,macrophage,hector,0,0,0,18389,is-a
+lung migratory dendritic cell,dendritic cell,truth,423,0,0,0,is-a
+lung multiciliated epithelial cell,ciliated epithelial cell,hector,0,0,0,28,is-a  (also valid: epithelial cell)
+"lung resident memory CD4-positive, alpha-beta T cell",T cell,hector|truth,1003,0,0,34,is-a
+"lung resident memory CD8-positive, alpha-beta T cell",T cell,hector|truth,7253,0,0,118,is-a
+lung secretory cell,epithelial cell,hector,0,0,0,1,MANUAL: lung epithelium; CL gives it no epithelial parent  [OVERRIDES ontology: proposal was Unknown]
+lymph node mantle zone B cell,B cell,popv,0,0,1,0,is-a
+lymphocyte,Unknown,hector,0,0,0,2828,superclass over 5
+lymphocyte of B lineage,Unknown,hector|popv,0,0,1,13,superclass over 2
+lymphoid lineage restricted progenitor cell,Unknown,hector,0,0,0,2,outside every class
+macrophage,macrophage,hector|popv|truth,16183,167483,8,27999,is-a
+mammary gland epithelial cell,Unknown,hector,0,0,0,2,epithelium of another organ — not this dataset's epithelial cells
+mast cell,mast cell,hector|popv|truth,97,0,1,74,is-a
+mature B cell,B cell,hector,0,0,0,93,is-a
+mature NK T cell,T cell,hector|popv|truth,341,179,7,250,is-a
+mature T cell,T cell,hector,0,0,0,27,is-a
+mature alpha-beta T cell,T cell,hector|popv,0,0,1,1,is-a
+mature basophil,Unknown,popv,0,0,1,0,outside every class
+mature gamma-delta T cell,T cell,hector,0,0,0,78,is-a
+mature natural killer cell,natural killer cell,hector|popv,0,0,1,31,is-a  (also valid: innate lymphoid cell)
+mature neutrophil,neutrophil,popv,0,0,1,0,is-a
+medullary thymic epithelial cell type 1,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+melanocyte,Unknown,hector,0,0,0,1,outside every class
+memory B cell,B cell,hector,0,0,0,1068,is-a
+memory CCR4-positive regulatory T cell,T cell,hector,0,0,0,61,is-a
+memory T cell,T cell,hector,0,0,0,117,is-a
+memory regulatory T cell,T cell,hector,0,0,0,112,is-a
+mesothelial cell,epithelial cell,popv,0,0,1,0,is-a
+metallothionein-positive alveolar macrophage,macrophage,truth,4037,0,0,0,is-a
+monocyte,monocyte,hector|popv|truth,3225,914,8,320,is-a
+monocyte-derived dendritic cell,dendritic cell,hector,0,0,0,3,is-a
+mononuclear phagocyte,Unknown,hector|popv,0,0,1,165,superclass over 3
+mucosal invariant T cell,T cell,hector,0,0,0,53,is-a
+mucus secreting cell,Unknown,hector,0,0,0,1,outside every class
+multiciliated columnar cell of tracheobronchial tree,ciliated epithelial cell,hector,0,0,0,1026,is-a  (also valid: epithelial cell)
+multiciliated epithelial cell,ciliated epithelial cell,hector,0,0,0,14,is-a  (also valid: epithelial cell)
+myeloid cell,Unknown,hector,0,0,0,1036,superclass over 4
+myeloid dendritic cell,dendritic cell,hector|popv,0,136,7,170,is-a
+"myeloid dendritic cell, human",dendritic cell,hector,0,0,0,22,is-a
+myeloid leukocyte,Unknown,hector|popv,0,0,1,14,superclass over 4
+myo-medullary thymic epithelial cell,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+myofibroblast cell,Unknown,hector,0,0,0,1,outside every class
+naive B cell,B cell,hector,0,0,0,324,is-a
+naive T cell,T cell,hector,0,0,0,34,is-a
+naive regulatory T cell,T cell,hector,0,0,0,10,is-a
+"naive thymus-derived CD4-positive, alpha-beta T cell",T cell,hector|truth,547,0,0,74,is-a
+"naive thymus-derived CD8-positive, alpha-beta T cell",T cell,hector,0,0,0,34,is-a
+nasal mucosa goblet cell,epithelial cell,hector,0,0,0,4,is-a
+natural T-regulatory cell,T cell,hector,0,0,0,50,is-a
+natural killer cell,natural killer cell,hector|popv|truth,695,32,8,358,is-a  (also valid: innate lymphoid cell)
+neuroblast (sensu Nematoda and Protostomia),Unknown,hector,0,0,0,1,outside every class
+neutrophil,neutrophil,hector|popv|truth,650,10,7,153,is-a
+non-classical monocyte,monocyte,hector|popv,0,112,8,11,is-a
+osteoclast,Unknown,hector,0,0,0,6,outside every class
+pancreatic acinar cell,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+pancreatic ductal cell,Unknown,hector,0,0,0,8,epithelium of another organ — not this dataset's epithelial cells
+peg cell,Unknown,hector,0,0,0,3,epithelium of another organ — not this dataset's epithelial cells
+pericyte,Unknown,popv,0,0,2,0,outside every class
+perivascular cell,Unknown,hector,0,0,0,1,outside every class
+placental villous trophoblast,Unknown,hector,0,0,0,3,outside every class
+plasma cell,plasma cell,hector|popv|truth,86,193,8,79,is-a
+plasmablast,B cell,hector,0,0,0,63,is-a
+plasmacytoid dendritic cell,dendritic cell,hector|popv|truth,582,292,7,617,is-a
+"plasmacytoid dendritic cell, human",dendritic cell,hector,0,0,0,76,is-a
+platelet,Unknown,hector,0,0,0,8,outside every class
+polychromatophilic erythroblast,Unknown,hector,0,0,0,3,outside every class
+pre-conventional dendritic cell,Unknown,hector,0,0,0,10,outside every class
+precursor B cell,B cell,hector,0,0,0,29,is-a
+primitive red blood cell,Unknown,hector,0,0,0,2,outside every class
+proerythroblast,Unknown,hector,0,0,0,1,outside every class
+professional antigen presenting cell,Unknown,hector,0,0,0,5,superclass over 2
+progenitor cell,Unknown,hector,0,0,0,1,has 52 children; not interchangeable with monocyte
+promonocyte,Unknown,hector,0,0,0,9,outside every class
+pulmonary alveolar epithelial cell,epithelial cell,popv,0,0,1,0,is-a
+pulmonary alveolar type 1 cell,epithelial cell,hector|popv,0,20,8,11,is-a
+pulmonary alveolar type 2 cell,epithelial cell,hector|popv,0,2,7,1,is-a
+pulmonary artery endothelial cell,Unknown,hector,0,0,0,1,outside every class
+pulmonary ionocyte,epithelial cell,hector|popv,0,4,4,8,is-a
+regulatory T cell,T cell,hector,0,0,0,821,is-a
+respiratory basal cell,epithelial cell,hector|popv,0,0,1,68,MANUAL: as basal cell  [OVERRIDES ontology: proposal was Unknown]
+respiratory goblet cell,epithelial cell,popv,0,346,8,0,is-a
+respiratory tract epithelial cell,epithelial cell,hector,0,0,0,1,is-a
+respiratory tract goblet cell,epithelial cell,hector,0,0,0,6,is-a
+respiratory tract hillock cell,epithelial cell,hector,0,0,0,21,is-a
+respiratory tract multiciliated cell,ciliated epithelial cell,hector,0,0,0,7,is-a  (also valid: epithelial cell)
+respiratory tract secretory epithelial cell,epithelial cell,hector,0,0,0,8,is-a
+respiratory tract suprabasal cell,epithelial cell,hector,0,0,0,10,is-a
+retina horizontal cell,Unknown,hector,0,0,0,2,outside every class
+secretory cell,Unknown,hector,0,0,0,20,has 36 children; not interchangeable with mast cell
+serous cell of epithelium of bronchus,epithelial cell,popv,0,0,3,0,MANUAL: as tracheobronchial serous cell  [OVERRIDES ontology: proposal was Unknown]
+serous secreting cell,Unknown,hector,0,0,0,1,outside every class
+squamous epithelial cell,epithelial cell,hector,0,0,0,10,is-a
+stem cell,Unknown,hector,0,0,0,4,outside every class
+stem cell of epidermis,Unknown,hector,0,0,0,1,outside every class
+stratified epithelial cell,epithelial cell,hector,0,0,0,8,is-a
+stratified squamous epithelial cell,epithelial cell,hector,0,0,0,1,is-a
+stromal cell,Unknown,hector,0,0,0,1,outside every class
+stromal cell of ovary,Unknown,hector,0,0,0,1,outside every class
+surfactant secreting cell,epithelial cell,hector,0,0,0,3,MANUAL: alveolar type 2 cell; CL gives it no epithelial parent  [OVERRIDES ontology: proposal was Unknown]
+tissue-resident macrophage,macrophage,popv,0,0,1,0,is-a
+tracheal goblet cell,epithelial cell,hector,0,0,0,9,is-a
+tracheobronchial goblet cell,epithelial cell,hector,0,0,0,1,is-a
+tracheobronchial serous cell,epithelial cell,hector|popv,0,0,1,109,MANUAL: airway gland epithelium; CL files it under eukaryotic cell  [OVERRIDES ontology: proposal was Unknown]
+tracheobronchial smooth muscle cell,Unknown,hector|popv,0,0,1,1,outside every class
+transit amplifying cell,Unknown,hector,0,0,0,3,outside every class
+transit amplifying cell of colon,Unknown,hector,0,0,0,1,epithelium of another organ — not this dataset's epithelial cells
+transitional stage B cell,B cell,hector,0,0,0,213,is-a
+tuft cell,epithelial cell,hector,0,0,0,1,is-a
+type II NK T cell,T cell,popv,0,0,1,0,is-a
+unswitched memory B cell,B cell,hector,0,0,0,63,is-a
+urothelial cell,Unknown,hector,0,0,0,2,epithelium of another organ — not this dataset's epithelial cells
+vascular associated smooth muscle cell,Unknown,popv,0,0,2,0,outside every class
+vein endothelial cell,Unknown,hector|popv,0,3,4,3,outside every class

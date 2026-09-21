@@ -1,0 +1,553 @@
+hector_label	author_class	n_hector_cells	basis
+B cell	B cell	105	identity
+B cell, CD19-positive	B cell	32	is-a B cell
+B-1 B cell	B cell	161	is-a B cell
+B-1b B cell	B cell	1	is-a B cell
+B-2 B cell	B cell	195	is-a B cell
+Bm1 B cell	B cell	5	is-a B cell
+Bm2 B cell	B cell	7	is-a B cell
+CD115-positive monocyte	Monocyte	1	a CSF1R-positive monocyte; CL also files it under a progenitor branch, which is what created the tie with HSC/progenitor  [confirms ontology: proposal was Monocyte]
+CD14-low, CD16-positive monocyte	Monocyte	55	is-a Monocyte
+CD14-positive monocyte	Monocyte	202	is-a Monocyte
+CD14-positive, CD16-low monocyte	Monocyte	30	is-a Monocyte
+CD14-positive, CD16-negative classical monocyte	Monocyte	1560	is-a Monocyte
+CD14-positive, CD16-positive monocyte	Monocyte	399	is-a Monocyte
+CD141-positive myeloid dendritic cell	Dendritic cell	26	is-a Dendritic cell
+CD16-negative, CD56-bright natural killer cell, human	NK cell	771	is-a NK cell
+CD16-positive myeloid dendritic cell	Dendritic cell	1	is-a Dendritic cell
+CD16-positive, CD56-dim natural killer cell, human	NK cell	1118	is-a NK cell
+CD1c-positive myeloid dendritic cell	Dendritic cell	77	is-a Dendritic cell
+CD34-negative, CD117-positive innate lymphoid cell, human	Others	1	see `group 3 innate lymphoid cell`  [confirms ontology: proposal was Others]
+CD34-positive, CD41-positive, CD42-negative megakaryocyte progenitor cell	HSC/progenitor	1	is-a HSC/progenitor
+CD38-positive unswitched memory B cell	B cell	1	is-a B cell
+CD4-positive helper T cell	T cell	94	is-a T cell
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	T cell	644	is-a T cell
+CD4-positive, alpha-beta T cell	T cell	593	is-a T cell
+CD4-positive, alpha-beta cytotoxic T cell	T cell	1000	is-a T cell
+CD4-positive, alpha-beta memory T cell	T cell	2759	is-a T cell
+CD4-positive, alpha-beta memory T cell, CD45RO-positive	T cell	5190	is-a T cell
+CD4-positive, alpha-beta thymocyte	T cell	15	is-a T cell
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell	T cell	1	is-a T cell
+CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	T cell	8	is-a T cell
+CD8-alpha-positive CD11b-negative dendritic cell	Dendritic cell	3	is-a Dendritic cell
+CD8-positive, CXCR3-negative, CCR6-negative, alpha-beta T cell	T cell	1	is-a T cell
+CD8-positive, alpha-beta T cell	T cell	5851	is-a T cell
+CD8-positive, alpha-beta cytokine secreting effector T cell	T cell	1	is-a T cell
+CD8-positive, alpha-beta cytotoxic T cell	T cell	1125	is-a T cell
+CD8-positive, alpha-beta memory T cell	T cell	2576	is-a T cell
+CD8-positive, alpha-beta memory T cell, CD45RO-positive	T cell	1388	is-a T cell
+CD8-positive, alpha-beta regulatory T cell	T cell	162	is-a T cell
+CD8-positive, alpha-beta thymocyte	T cell	14	is-a T cell
+CD8aa(I) thymocyte	T cell	9	is-a T cell
+Cajal-Retzius cell	Others	2	outside every group
+Gr1-high classical monocyte	Monocyte	7	a classical monocyte; same progenitor-branch filing as `CD115-positive monocyte`  [confirms ontology: proposal was Monocyte]
+Hofbauer cell	Macrophage	10553	is-a Macrophage
+IgA plasma cell	B cell	387	an isotype-switched plasma cell; see `plasma cell`  [OVERRIDES ontology: proposal was Others]
+IgD-negative memory B cell	B cell	2	is-a B cell
+IgG plasma cell	B cell	1936	an isotype-switched plasma cell; see `plasma cell`  [OVERRIDES ontology: proposal was Others]
+IgM plasma cell	B cell	56	an isotype-switched plasma cell; see `plasma cell`  [OVERRIDES ontology: proposal was Others]
+Kit-low proerythroblast	Others	1	outside every group
+Kupffer cell	Macrophage	1793	is-a Macrophage
+L4 intratelencephalic projecting glutamatergic neuron	Others	4	outside every group
+L6 intratelencephalic projecting glutamatergic neuron	Others	1	outside every group
+Langerhans cell	Dendritic cell	171	is-a Dendritic cell
+Leydig cell	Others	7	an interstitial steroidogenic cell; not a fibroblast, a mural cell or an epithelial cell  [confirms ontology: proposal was Others]
+M cell of gut	Epithelial	6	is-a Epithelial
+OFF parasol ganglion cell	Others	1	outside every group
+Schwann cell	Others	8	see `glial cell`  [confirms ontology: proposal was Others]
+Sertoli cell	Mesothelial	14	is-a Mesothelial  (also valid: Epithelial)
+T cell	T cell	76	identity
+T follicular helper cell	T cell	350	is-a T cell
+T-helper 1 cell	T cell	130	is-a T cell
+T-helper 17 cell	T cell	533	is-a T cell
+T-helper 22 cell	T cell	19	is-a T cell
+TREM2-positive macrophage	Macrophage	3	is-a Macrophage
+Tc1 cell	T cell	1	is-a T cell
+acinar cell	Epithelial	39	is-a Epithelial
+acinar cell of salivary gland	Epithelial	99	is-a Epithelial
+activated CD4-positive, alpha-beta T cell	T cell	110	is-a T cell
+activated CD8-positive, alpha-beta T cell	T cell	435	is-a T cell
+activated type II NK T cell	T cell	287	is-a T cell
+adipocyte of breast	Others	1	outside every group
+adventitial cell	Fibroblast	227	perivascular connective tissue; its own CL child is `adventitial fibroblast`  [OVERRIDES ontology: proposal was Others]
+adventitial fibroblast	Fibroblast	1	is-a Fibroblast
+airway submucosal gland duct basal cell	Epithelial	1048	is-a `basal cell`, an epithelial basal cell  [OVERRIDES ontology: proposal was Others]
+alpha-beta T cell	T cell	46	is-a T cell
+alternatively activated macrophage	Macrophage	870	is-a Macrophage
+alveolar adventitial fibroblast	Fibroblast	52	is-a Fibroblast
+alveolar macrophage	Macrophage	97	is-a Macrophage
+alveolar type 1 fibroblast cell	Fibroblast	22	is-a Fibroblast
+antibody secreting cell	B cell	73	CL parent of plasma cell and plasmablast, both B-lineage; the authors' B class holds that compartment  [OVERRIDES ontology: proposal was Others]
+astrocyte	Others	4	see `glial cell`  [confirms ontology: proposal was Others]
+basal cell	Epithelial	168	an epithelial basal cell; CL files it under `epithelial fate stem cell`, a stem-cell branch with no path to `epithelial cell` — the same orphaning the lung table found for `basal cell` and `stem cell of epidermis`  [OVERRIDES ontology: proposal was Others]
+basal cell of epidermis	Epithelial	1	is-a Epithelial
+basal cell of epithelium of trachea	Epithelial	408	is-a `respiratory basal cell` is-a `basal cell`  [OVERRIDES ontology: proposal was Others]
+basal cell of prostate epithelium	Epithelial	16	is-a Epithelial
+basal epithelial cell of prostatic duct	Epithelial	14	is-a Epithelial
+basal epithelial cell of tracheobronchial tree	Epithelial	3	an epithelial basal cell  [confirms ontology: proposal was Epithelial]
+basal-myoepithelial cell of mammary gland	Epithelial	3	is-a Epithelial
+basophil	Others	1	see `granulocyte`  [confirms ontology: proposal was Others]
+basophil mast progenitor cell	HSC/progenitor	5	is-a HSC/progenitor
+basophilic erythroblast	Others	7	outside every group
+bladder urothelial cell	Epithelial	1	is-a Epithelial
+blood cell	Others	209	its children are erythrocyte, granulocyte, platelet and peripheral blood mesothelial cell — no single class  [confirms ontology: proposal was Others]
+blood vessel endothelial cell	Endothelial	80	is-a Endothelial
+blood vessel smooth muscle cell	Other stromal	24	is-a Other stromal
+branched duct epithelial cell	Epithelial	6	is-a Epithelial
+bronchial epithelial cell	Epithelial	1	is-a Epithelial
+bronchus fibroblast of lung	Fibroblast	306	is-a Fibroblast
+brush border cell of the proximal tubule	Epithelial	1	is-a Epithelial
+capillary endothelial cell	Endothelial	413	is-a Endothelial
+caudal ganglionic eminence derived cortical interneuron	Others	2	outside every group
+cell in vitro	Others	614	not a cell type at all  [confirms ontology: proposal was Others]
+cell of skeletal muscle	Others	2	outside every group
+central memory CD4-positive, alpha-beta T cell	T cell	8	is-a T cell
+central memory CD8-positive, alpha-beta T cell	T cell	122	is-a T cell
+centrilobular region hepatocyte	Epithelial	8	is-a Epithelial
+centroblast	B cell	2	is-a B cell
+cerebellar granule cell	Others	2	outside every group
+cerebral cortex pyramidal neuron	Others	2	outside every group
+chandelier pvalb GABAergic cortical interneuron	Others	1	outside every group
+cholangiocyte	Epithelial	1	is-a Epithelial
+chondroblast	Others	1	outside every group
+chondrocyte	Others	4	no cartilage class; a deliberate exception to `stromal cell` -> Fibroblast, since a chondrocyte is not a tumour fibroblast  [confirms ontology: proposal was Others]
+choroid plexus epithelial cell	Epithelial	24	is-a Epithelial
+ciliated cell	Epithelial	80	the fallopian tube epithelium is ciliated and is the origin of high-grade serous ovarian carcinoma; of this term's other children, none can occur in a gynaecological tumour, ascites or blood sample  [OVERRIDES ontology: proposal was Others]
+ciliated epithelial cell	Epithelial	810	is-a Epithelial
+class switched memory B cell	B cell	553	is-a B cell
+classical monocyte	Monocyte	8933	is-a Monocyte
+club cell	Epithelial	34	is-a Epithelial
+colon epithelial cell	Epithelial	1	is-a Epithelial
+colonocyte	Epithelial	21	is-a Epithelial
+columnar/cuboidal epithelial cell	Epithelial	1	is-a Epithelial
+committed oligodendrocyte precursor	Others	1	outside every group
+common dendritic progenitor	HSC/progenitor	3	is-a HSC/progenitor
+common lymphoid progenitor	HSC/progenitor	21	is-a HSC/progenitor
+common myeloid progenitor	HSC/progenitor	3	is-a HSC/progenitor
+conjunctival epithelial cell	Epithelial	15	is-a Epithelial
+conventional dendritic cell	Dendritic cell	5307	is-a Dendritic cell
+corneal epithelial cell	Epithelial	1	is-a Epithelial
+cortical thymic epithelial cell	Epithelial	24	is-a Epithelial
+corticomedullary thymic epithelial cell	Epithelial	16	is-a Epithelial
+cycling myeloid cell	Others	15	its two children are cycling macrophage and cycling monocyte — spans two classes  [confirms ontology: proposal was Others]
+cycling pulmonary alveolar type 2 cell	Epithelial	54	is-a Epithelial
+cytotoxic T cell	T cell	88	is-a T cell
+decidual cell	Fibroblast	190	a stromal cell of the uterine lining; is-a `stromal cell`, in-tissue for this gynaecological dataset  [OVERRIDES ontology: proposal was Others]
+decidual natural killer cell, human	NK cell	671	is-a NK cell
+dendritic cell	Dendritic cell	1066	identity
+dendritic cell, human	Dendritic cell	75	is-a Dendritic cell
+deuterosomal cell	Epithelial	20	is-a Epithelial
+diffuse bipolar 3a cell	Others	1	outside every group
+diffuse bipolar 5 cell	Others	1	outside every group
+diffuse bipolar 6 cell	Others	1	outside every group
+double negative T regulatory cell	T cell	60	is-a T cell
+double negative thymocyte	T cell	9	is-a T cell
+double-positive, alpha-beta thymocyte	T cell	8	is-a T cell
+duct epithelial cell	Epithelial	193	is-a Epithelial
+early T lineage precursor	HSC/progenitor	88	is-a HSC/progenitor
+early colonocyte	Epithelial	1	is-a Epithelial
+early lymphoid progenitor	HSC/progenitor	2	is-a HSC/progenitor
+ecto-epithelial cell	Epithelial	2	is-a Epithelial
+effector CD4-positive, alpha-beta T cell	T cell	215	is-a T cell
+effector CD8-positive, alpha-beta T cell	T cell	272	is-a T cell
+effector T cell	T cell	97	is-a T cell
+effector memory CD4-positive, alpha-beta T cell	T cell	2137	is-a T cell
+effector memory CD4-positive, alpha-beta T cell, terminally differentiated	T cell	14	is-a T cell
+effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated	T cell	821	is-a T cell
+effector memory CD8-positive, alpha-beta T cell	T cell	4505	is-a T cell
+effector memory CD8-positive, alpha-beta T cell, terminally differentiated	T cell	4412	is-a T cell
+elicited macrophage	Macrophage	69	is-a Macrophage
+embryonic fibroblast	Fibroblast	119	is-a Fibroblast
+endocardial cell	Endothelial	1	is-a Endothelial
+endometrial multiciliated epithelial cell	Epithelial	1	is-a Epithelial
+endothelial cell	Endothelial	341	identity
+endothelial cell of arteriole	Endothelial	2	is-a Endothelial
+endothelial cell of artery	Endothelial	659	is-a Endothelial
+endothelial cell of hepatic sinusoid	Endothelial	8	is-a Endothelial
+endothelial cell of lymphatic vessel	Endothelial	322	is-a Endothelial
+endothelial cell of pericentral hepatic sinusoid	Endothelial	3	is-a Endothelial
+endothelial cell of placenta	Endothelial	22	is-a Endothelial
+endothelial cell of respiratory system lymphatic vessel	Endothelial	5	is-a Endothelial
+endothelial cell of umbilical vein	Endothelial	1	is-a Endothelial
+endothelial cell of uterus	Endothelial	587	is-a Endothelial
+endothelial cell of vascular tree	Endothelial	38	is-a Endothelial
+endothelial cell of venule	Endothelial	8	is-a Endothelial
+endothelial tip cell	Endothelial	214	is-a Endothelial
+enteric neuron	Others	1	outside every group
+enterocyte	Epithelial	15	is-a Epithelial
+enteroendocrine cell	Epithelial	23	is-a Epithelial
+enteroglial cell	Others	9	see `glial cell`  [confirms ontology: proposal was Others]
+epidermal cell	Epithelial	3	is-a Epithelial
+epidermal keratinocyte	Epithelial	71	is-a Epithelial
+epithelial cell	Epithelial	17935	identity
+epithelial cell of alimentary canal	Epithelial	12	is-a Epithelial
+epithelial cell of distal tubule	Epithelial	1	is-a Epithelial
+epithelial cell of esophagus	Epithelial	8	is-a Epithelial
+epithelial cell of gallbladder	Epithelial	1	is-a Epithelial
+epithelial cell of glomerular capsule	Epithelial	2	is-a Epithelial
+epithelial cell of large intestine	Epithelial	8	is-a Epithelial
+epithelial cell of lower respiratory tract	Epithelial	1	is-a Epithelial
+epithelial cell of lung	Epithelial	323	is-a Epithelial
+epithelial cell of nephron	Epithelial	4	is-a Epithelial
+epithelial cell of pancreas	Epithelial	3	is-a Epithelial
+epithelial cell of prostate	Epithelial	33	is-a Epithelial
+epithelial cell of proximal tubule	Epithelial	27	is-a Epithelial
+epithelial cell of proximal tubule segment 3	Epithelial	2	is-a Epithelial
+epithelial cell of stomach	Epithelial	1	is-a Epithelial
+epithelial cell of thymus	Epithelial	68	is-a Epithelial
+epithelial cell of thyroid gland	Epithelial	8	is-a Epithelial
+epithelial cell of tracheobronchial tree	Epithelial	67	is-a Epithelial
+epithelial cell of urethra	Epithelial	3	is-a Epithelial
+epithelial cell of uterus	Epithelial	87	is-a Epithelial
+erythrocyte	Others	20	see `erythroid lineage cell`  [confirms ontology: proposal was Others]
+erythroid lineage cell	Others	35	no erythroid class in the authors' annotation  [confirms ontology: proposal was Others]
+erythroid progenitor cell	HSC/progenitor	4	is-a HSC/progenitor
+eurydendroid cell	Others	117	a zebrafish cerebellar neuron; no neuronal class  [confirms ontology: proposal was Others]
+exocrine cell	Epithelial	17	an exocrine cell is by definition a glandular epithelial cell — all 18 of its CL children are; CL files it under `secretory cell`/`eukaryotic cell` with no epithelial parent  [OVERRIDES ontology: proposal was Others]
+extracellular matrix secreting cell	Fibroblast	12	the matrix-secreting stromal compartment, which here is the CAF population  [OVERRIDES ontology: proposal was Others]
+extravillous trophoblast	Others	5	see `placental villous trophoblast`  [confirms ontology: proposal was Others]
+fallopian tube epithelial cell	Epithelial	38	is-a Epithelial
+fallopian tube non-ciliated epithelial cell	Epithelial	340	is-a Epithelial
+fallopian tube secretory epithelial cell	Epithelial	849	is-a Epithelial
+fenestrated endothelial cell	Endothelial	4	is-a Endothelial
+fetal cardiomyocyte	Others	2	outside every group
+fetal pre-type II pulmonary alveolar epithelial cell	Epithelial	2	is-a Epithelial
+fibroblast	Fibroblast	2630	identity
+fibroblast of cardiac tissue	Fibroblast	1	is-a Fibroblast
+fibroblast of choroid plexus	Fibroblast	1	is-a Fibroblast
+fibroblast of dermis	Fibroblast	1	is-a Fibroblast
+fibroblast of lung	Fibroblast	57	is-a Fibroblast
+fibroblast of mammary gland	Fibroblast	28	is-a Fibroblast
+fibroblast of the aortic adventitia	Fibroblast	9	is-a Fibroblast
+follicular B cell	B cell	4932	is-a B cell
+follicular cell of ovary	Others	22	spans the granulosa (Epithelial) and theca (Fibroblast) compartments  [confirms ontology: proposal was Others]
+forebrain neuroblast	Others	1	outside every group
+foveolar cell of stomach	Epithelial	1	is-a Epithelial
+fraction A pre-pro B cell	HSC/progenitor	1	is-a HSC/progenitor
+fraction F mature B cell	B cell	2	is-a B cell
+gamma-delta T cell	T cell	3357	is-a T cell
+gamma-delta thymocyte	T cell	2	is-a T cell
+gastrointestinal tract (lamina propria) macrophage	Macrophage	199	is-a Macrophage
+general ecto-epithelial cell	Epithelial	1	is-a Epithelial
+germ cell	Others	97	germline — a lineage none of the twelve classes covers  [confirms ontology: proposal was Others]
+germinal center B cell	B cell	183	is-a B cell
+giant bipolar cell	Others	1	outside every group
+glandular cell of esophagus	Epithelial	65	is-a Epithelial
+glandular epithelial cell of stomach	Epithelial	19	is-a Epithelial
+glandular secretory epithelial cell	Epithelial	1687	is-a Epithelial
+glial cell	Others	39	no glial class; the authors annotated no nervous tissue  [confirms ontology: proposal was Others]
+glioblast	Others	2	outside every group
+glycinergic amacrine cell	Others	1	outside every group
+goblet cell	Epithelial	3	is-a Epithelial
+granulocyte	Others	5	no granulocyte class in the authors' annotation  [confirms ontology: proposal was Others]
+granulocyte monocyte progenitor cell	HSC/progenitor	31	is-a HSC/progenitor
+granulocytopoietic cell	HSC/progenitor	9	is-a HSC/progenitor
+granulosa cell	Epithelial	330	the granulosa layer is the ovarian follicle's epithelial compartment; CL files it under `follicular cell of ovary`, which hangs off `eukaryotic cell` with no epithelial parent. In-tissue for this dataset  [OVERRIDES ontology: proposal was Others]
+group 1 innate lymphoid cell	NK cell	61	sole group below, term has only 2 child(ren)
+group 2 innate lymphoid cell	Others	13	a distinct lineage from NK; the authors have no ILC class  [confirms ontology: proposal was Others]
+group 3 innate lymphoid cell	Others	192	a distinct lineage from NK; the authors have no ILC class  [confirms ontology: proposal was Others]
+group 3 innate lymphoid cell, human	Others	23	see `group 3 innate lymphoid cell`  [confirms ontology: proposal was Others]
+gut endothelial cell	Endothelial	7	is-a Endothelial
+hair follicular keratinocyte	Epithelial	4	is-a Epithelial
+helper T cell	T cell	35	is-a T cell
+hematopoietic cell	Others	775	the root of the blood lineage, covering every mature leukocyte as well as precursors; HECTOR emits 27 specific precursor terms elsewhere, so the bare term is not a progenitor call  [confirms ontology: proposal was Others]
+hematopoietic multipotent progenitor cell	HSC/progenitor	5	is-a HSC/progenitor
+hematopoietic oligopotent progenitor cell	HSC/progenitor	3	is-a HSC/progenitor
+hematopoietic precursor cell	HSC/progenitor	5	identity
+hematopoietic stem cell	HSC/progenitor	61	is-a HSC/progenitor
+hepatic stellate cell	Fibroblast	31	is-a Fibroblast
+hepatoblast	Others	1	outside every group
+hepatocyte	Epithelial	2	is-a Epithelial
+hypothalamus cell	Others	1	outside every group
+immature B cell	B cell	118	is-a B cell
+immature NK T cell	T cell	1	is-a T cell
+immature T cell	T cell	1	is-a T cell
+immature alpha-beta T cell	T cell	9	is-a T cell
+immature astrocyte	Others	1	outside every group
+immature innate lymphoid cell	Others	60	uncommitted between the ILC branches, so it does not denote the group 1 compartment; a deliberate exception to the parent row  [confirms ontology: proposal was Others]
+immature natural killer cell	NK cell	5	is-a NK cell
+inflammatory macrophage	Macrophage	171	is-a Macrophage
+innate lymphoid cell	NK cell	747	the authors' NK class is the group 1 innate lymphoid compartment — their clusters are XCL1-positive CD56-bright and CD16-positive NK — and it is the only group below this term  [OVERRIDES ontology: proposal was Others]
+intermediate cell of urothelium	Epithelial	5	is-a Epithelial
+intermediate monocyte	Monocyte	1161	is-a Monocyte
+interneuron	Others	2	outside every group
+interstitial cell of Cajal	Epithelial	3	is-a Epithelial
+interstitial cell of ovary	Fibroblast	702	ovarian stroma; is-a `stromal cell of ovary`  [OVERRIDES ontology: proposal was Others]
+intestinal crypt stem cell	Epithelial	16	is-a Epithelial
+intestinal crypt stem cell of colon	Epithelial	1	is-a Epithelial
+intestinal enteroendocrine cell	Epithelial	1	is-a Epithelial
+intestinal epithelial cell	Epithelial	2	is-a Epithelial
+intestine goblet cell	Epithelial	6	is-a Epithelial
+intraepithelial lymphocyte	T cell	5	is-a T cell
+ionocyte	Epithelial	19	is-a Epithelial
+keratinizing barrier epithelial cell	Epithelial	122	is-a Epithelial
+keratinocyte	Epithelial	1545	is-a Epithelial
+keratocyte	Fibroblast	8	is-a Fibroblast
+kidney cell	Others	4	outside every group
+kidney collecting duct intercalated cell	Epithelial	2	is-a Epithelial
+kidney collecting duct principal cell	Epithelial	18	is-a Epithelial
+kidney connecting tubule epithelial cell	Epithelial	4	is-a Epithelial
+kidney connecting tubule intercalated cell	Epithelial	1	is-a Epithelial
+kidney corpuscule cell	Epithelial	1	is-a Epithelial
+kidney cortex tubule cell	Epithelial	8	is-a Epithelial
+kidney distal convoluted tubule epithelial cell	Epithelial	41	is-a Epithelial
+kidney epithelial cell	Epithelial	53	is-a Epithelial
+kidney interstitial alternatively activated macrophage	Macrophage	346	is-a Macrophage
+kidney interstitial cell	Others	17	its children span fibroblast, pericyte and macrophage — three of the authors' classes  [confirms ontology: proposal was Others]
+kidney interstitial fibroblast	Fibroblast	57	is-a Fibroblast
+kidney loop of Henle ascending limb epithelial cell	Epithelial	367	is-a Epithelial
+kidney loop of Henle epithelial cell	Epithelial	2	is-a Epithelial
+kidney loop of Henle thick ascending limb epithelial cell	Epithelial	364	is-a Epithelial
+kidney loop of Henle thin ascending limb epithelial cell	Epithelial	46	is-a Epithelial
+kidney loop of Henle thin descending limb epithelial cell	Epithelial	3	is-a Epithelial
+kidney proximal convoluted tubule epithelial cell	Epithelial	4	is-a Epithelial
+lactocyte	Epithelial	15	is-a Epithelial
+large intestine goblet cell	Epithelial	1	is-a Epithelial
+late pro-B cell	B cell	3	is-a B cell
+lens epithelial cell	Epithelial	3	is-a Epithelial
+leptomeningeal cell	Others	1	a meningeal cell; a deliberate exception to `stromal cell` -> Fibroblast for the same reason  [confirms ontology: proposal was Others]
+leukocyte	Others	40	spans six immune classes  [confirms ontology: proposal was Others]
+liver dendritic cell	Dendritic cell	14	is-a Dendritic cell
+liver-resident natural killer cell	NK cell	1	is-a NK cell
+long lived plasma cell	B cell	299	a plasma cell; see `plasma cell`  [OVERRIDES ontology: proposal was Others]
+luminal adaptive secretory precursor cell of mammary gland	Epithelial	153	is-a Epithelial
+luminal cell of lactiferous duct	Epithelial	2	is-a Epithelial
+luminal cell of prostate epithelium	Epithelial	447	is-a Epithelial
+luminal endometrial multiciliated epithelial cell	Epithelial	1298	is-a Epithelial
+luminal epithelial cell of endometrium	Epithelial	1	is-a Epithelial
+luminal epithelial cell of mammary gland	Epithelial	80	is-a Epithelial
+luminal hormone-sensing cell of mammary gland	Epithelial	17	is-a Epithelial
+lung interstitial macrophage	Macrophage	90	is-a Macrophage
+lung macrophage	Macrophage	2500	is-a Macrophage
+lung megakaryocyte	Others	1	outside every group
+lung multiciliated epithelial cell	Epithelial	17	is-a Epithelial
+lung pericyte	Other stromal	781	is-a Other stromal
+lung resident memory CD4-positive, alpha-beta T cell	T cell	120	is-a T cell
+lung resident memory CD8-positive, alpha-beta T cell	T cell	887	is-a T cell
+lung secretory cell	Epithelial	26	secretory epithelium  [OVERRIDES ontology: proposal was Others]
+lymph node macrophage	Macrophage	1	is-a Macrophage
+lymphocyte	Others	62	spans T cell, B cell and NK cell  [confirms ontology: proposal was Others]
+lymphocyte of B lineage	B cell	4	the B lineage is exactly what the authors' B class is, plasma cells included  [OVERRIDES ontology: proposal was Others]
+macroglial cell	Others	1	outside every group
+macrophage	Macrophage	12890	identity
+male germ cell	Others	2	outside every group
+mammary gland epithelial cell	Epithelial	199	is-a Epithelial
+mammary gland glandular cell	Epithelial	9	is-a Epithelial
+mast cell	Others	39	no mast cell class in the authors' annotation  [confirms ontology: proposal was Others]
+mature B cell	B cell	72	is-a B cell
+mature NK T cell	T cell	357	is-a T cell
+mature T cell	T cell	128	is-a T cell
+mature alpha-beta T cell	T cell	609	is-a T cell
+mature astrocyte	Others	3	outside every group
+mature gamma-delta T cell	T cell	209	is-a T cell
+mature natural killer cell	NK cell	1097	is-a NK cell
+mature neutrophil	Others	2	see `neutrophil`  [confirms ontology: proposal was Others]
+medial ganglionic eminence derived GABAergic cortical interneuron	Others	1	outside every group
+medullary thymic epithelial cell	Epithelial	4624	is-a Epithelial
+medullary thymic epithelial cell type 1	Epithelial	141	is-a Epithelial
+medullary thymic epithelial cell type 3	Epithelial	4	is-a Epithelial
+medullary thymic epithelial cell type 4	Epithelial	5	is-a Epithelial
+megakaryocyte	Others	8	no megakaryocyte class in the authors' annotation  [confirms ontology: proposal was Others]
+megakaryocyte progenitor cell	HSC/progenitor	7	is-a HSC/progenitor
+megakaryocyte-erythroid progenitor cell	HSC/progenitor	6	is-a HSC/progenitor
+melanocyte	Others	6	no melanocyte class in the authors' annotation  [confirms ontology: proposal was Others]
+memory B cell	B cell	4991	is-a B cell
+memory CCR4-positive regulatory T cell	T cell	3	is-a T cell
+memory T cell	T cell	26067	is-a T cell
+memory regulatory T cell	T cell	15	is-a T cell
+meningeal macrophage	Macrophage	2	is-a Macrophage
+mesenchymal cell	Others	20	a developmental class; its CL children are cardiac mesenchyme, dental papilla and fibro/adipogenic progenitors, none of them this dataset's stroma  [confirms ontology: proposal was Others]
+mesenchymal stem cell	Others	1	outside every group
+mesenchymal stem cell of adipose tissue	Others	1	outside every group
+meso-epithelial cell	Epithelial	3	is-a Epithelial
+mesodermal cell	Others	9	an embryonic germ layer, not a cell type this dataset contains  [confirms ontology: proposal was Others]
+mesothelial cell	Mesothelial	643	identity  (also valid: Epithelial)
+mesothelial cell of epicardium	Mesothelial	1	is-a Mesothelial  (also valid: Epithelial)
+microcirculation associated smooth muscle cell	Other stromal	10	is-a Other stromal
+microglial cell	Macrophage	6	is-a Macrophage
+microvascular endothelial cell	Endothelial	21	is-a Endothelial
+monocyte	Monocyte	1939	identity
+monocyte-derived dendritic cell	Dendritic cell	1	is-a Dendritic cell
+mononuclear phagocyte	Others	190	spans Dendritic cell, Macrophage and Monocyte  [confirms ontology: proposal was Others]
+motor neuron	Others	1	outside every group
+mucosa-associated lymphoid tissue macrophage	Macrophage	1	is-a Macrophage
+mucosal invariant T cell	T cell	1969	is-a T cell
+mucous cell of stomach	Epithelial	6	is-a Epithelial
+mucous neck cell of gastric gland	Epithelial	31	is-a Epithelial
+mucus secreting cell	Others	3	outside every group
+mucus secreting cell of tracheobronchial tree submucosal gland	Epithelial	8	is-a Epithelial
+multi fate stem cell	Others	4	outside every group
+multiciliated columnar cell of tracheobronchial tree	Epithelial	7	is-a Epithelial
+multiciliated epithelial cell	Epithelial	28	is-a Epithelial
+mural cell	Other stromal	165	is-a Other stromal
+mural granulosa cell	Epithelial	1	is-a `granulosa cell`; a manual entry does not propagate down the ontology, so the child needs its own row  [OVERRIDES ontology: proposal was Others]
+muscle cell	Others	40	spans striated and smooth muscle; only smooth muscle has a class here  [confirms ontology: proposal was Others]
+myelinating Schwann cell	Others	1	outside every group
+myelinating glial cell	Others	1	outside every group
+myelocyte	HSC/progenitor	5	is-a HSC/progenitor
+myeloid cell	Others	236	spans Macrophage and Monocyte  [confirms ontology: proposal was Others]
+myeloid dendritic cell	Dendritic cell	1028	is-a Dendritic cell
+myeloid leukocyte	Others	7	spans Macrophage and Monocyte  [confirms ontology: proposal was Others]
+myeloid lineage restricted progenitor cell	HSC/progenitor	2	is-a HSC/progenitor
+myo-medullary thymic epithelial cell	Epithelial	9	is-a Epithelial
+myoblast	Others	1	outside every group
+myoepithelial cell	Epithelial	561	is-a Epithelial
+myofibroblast cell	Fibroblast	666	the myofibroblastic CAF phenotype; CL files it under `connective tissue cell`/`contractile cell`, never under `fibroblast`  [OVERRIDES ontology: proposal was Others]
+naive B cell	B cell	1450	is-a B cell
+naive T cell	T cell	228	is-a T cell
+naive regulatory T cell	T cell	7	is-a T cell
+naive thymus-derived CD4-positive, alpha-beta T cell	T cell	1184	is-a T cell
+naive thymus-derived CD8-positive, alpha-beta T cell	T cell	1188	is-a T cell
+nasal mucosa goblet cell	Epithelial	3	is-a Epithelial
+natural T-regulatory cell	T cell	2	is-a T cell
+natural killer cell	NK cell	4239	identity
+near-projecting glutamatergic cortical neuron	Others	1	outside every group
+neural cell	Others	2	outside every group
+neural crest cell	Others	1	outside every group
+neural progenitor cell	Others	2	outside every group
+neuro-medullary thymic epithelial cell	Epithelial	23	is-a Epithelial
+neuroblast (sensu Nematoda and Protostomia)	Others	1	outside every group
+neuroendocrine cell	Epithelial	3	is-a Epithelial
+neuroendocrine cell of epithelium of lobar bronchus	Epithelial	3	is-a Epithelial
+neutrophil	Others	61	no neutrophil class in the authors' annotation  [confirms ontology: proposal was Others]
+neutrophil progenitor cell	HSC/progenitor	21	is-a HSC/progenitor
+non keratinizing barrier epithelial cell	Epithelial	2	is-a Epithelial
+non-classical monocyte	Monocyte	1354	is-a Monocyte
+non-myelinating Schwann cell	Others	3	outside every group
+odontoblast	Epithelial	1	is-a Epithelial
+osteoclast	Others	36	no osteoclast class in the authors' annotation  [confirms ontology: proposal was Others]
+ovarian surface epithelial cell	Epithelial	418	is-a Epithelial
+pancreatic acinar cell	Epithelial	6	is-a Epithelial
+pancreatic ductal cell	Epithelial	73	is-a Epithelial
+pancreatic endocrine cell	Epithelial	3	is-a Epithelial
+pancreatic stellate cell	Fibroblast	22	is-a Fibroblast
+paneth cell	Epithelial	1	is-a Epithelial
+parietal cell	Epithelial	1	is-a Epithelial
+parietal epithelial cell	Epithelial	6	is-a Epithelial
+peg cell	Epithelial	600	is-a Epithelial
+peptic cell	Epithelial	3	is-a Epithelial
+peptide hormone secreting cell	Others	2	outside every group
+pericyte	Other stromal	572	is-a Other stromal
+perineurial cell	Others	1	outside every group
+perivascular cell	Other stromal	25	identity
+perivascular macrophage	Macrophage	2	CL files it under both `macrophage` and `perivascular cell`. It is an immune cell that lives in the perivascular niche, not a mural cell — the kidney table settled the same shape by sending interstitial macrophages to Macrophage rather than to the stromal class  [confirms ontology: proposal was Macrophage]
+pigmented ciliary epithelial cell	Epithelial	1	is-a Epithelial
+pigmented epithelial cell	Epithelial	8	is-a Epithelial
+placental villous trophoblast	Others	34	no trophoblast class in the authors' annotation  [confirms ontology: proposal was Others]
+plasma cell	B cell	761	the authors' B03_PlasmaB-SDC1 cluster is inside their B class; CL files plasma cell on a sibling branch of `B cell`, so no is-a path exists  [OVERRIDES ontology: proposal was Others]
+plasmablast	B cell	510	the proliferating precursor of the plasma cell; same compartment  [confirms ontology: proposal was B cell]
+plasmacytoid dendritic cell	Dendritic cell	73	is-a Dendritic cell
+plasmacytoid dendritic cell, human	Dendritic cell	10	is-a Dendritic cell
+platelet	Others	5	the authors identified platelets and excluded them from the study, so no class exists for them  [confirms ontology: proposal was Others]
+pluripotent stem cell	Others	7	a developmental state, not one of the authors' classes  [confirms ontology: proposal was Others]
+podocyte	Epithelial	6	is-a Epithelial
+polychromatophilic erythroblast	Others	2	outside every group
+pre-B-II cell	B cell	4	is-a B cell
+pre-conventional dendritic cell	HSC/progenitor	10	is-a HSC/progenitor
+preadipocyte	Fibroblast	3	is-a Fibroblast
+precursor B cell	B cell	13	is-a B cell
+primitive red blood cell	Others	3	outside every group
+pro-B cell	HSC/progenitor	2	is-a HSC/progenitor
+pro-T cell	HSC/progenitor	1	is-a HSC/progenitor
+proerythroblast	Others	2	outside every group
+professional antigen presenting cell	Others	92	spans Dendritic cell, Macrophage and mature B cell  [confirms ontology: proposal was Others]
+progenitor cell	Others	3	has 52 children; not interchangeable with Monocyte
+promonocyte	HSC/progenitor	68	is-a HSC/progenitor
+promyelocyte	HSC/progenitor	4	is-a HSC/progenitor
+prostate stromal cell	Fibroblast	1	is-a `stromal cell`  [OVERRIDES ontology: proposal was Others]
+protein secreting cell	Others	1	outside every group
+pulmonary alveolar epithelial cell	Epithelial	476	is-a Epithelial
+pulmonary alveolar type 1 cell	Epithelial	127	is-a Epithelial
+pulmonary alveolar type 2 cell	Epithelial	137	is-a Epithelial
+pulmonary artery endothelial cell	Endothelial	7	is-a Endothelial
+pulmonary capillary endothelial cell	Endothelial	2	is-a Endothelial
+pulmonary interstitial fibroblast	Fibroblast	1	is-a Fibroblast
+pulmonary ionocyte	Epithelial	2	is-a Epithelial
+pulmonary neuroendocrine cell	Epithelial	120	is-a Epithelial
+pyramidal neuron	Others	1	outside every group
+radial glial cell	Others	1	outside every group
+regular atrial cardiac myocyte	Others	2	outside every group
+regulatory T cell	T cell	8135	is-a T cell
+renal alpha-intercalated cell	Epithelial	3	is-a Epithelial
+renal beta-intercalated cell	Epithelial	4	is-a Epithelial
+renal intercalated cell	Epithelial	1	is-a Epithelial
+renal interstitial pericyte	Other stromal	41	is-a Other stromal
+renal principal cell	Epithelial	26	is-a Epithelial
+respiratory basal cell	Epithelial	43	is-a `basal cell`  [OVERRIDES ontology: proposal was Others]
+respiratory tract epithelial cell	Epithelial	689	is-a Epithelial
+respiratory tract goblet cell	Epithelial	4	is-a Epithelial
+respiratory tract hillock cell	Epithelial	7	is-a Epithelial
+respiratory tract multiciliated cell	Epithelial	49	is-a Epithelial
+respiratory tract secretory epithelial cell	Epithelial	47	is-a Epithelial
+respiratory tract suprabasal cell	Epithelial	13	is-a Epithelial
+reticulocyte	Others	1	outside every group
+retinal astrocyte	Others	2	outside every group
+retinal cell	Others	1	outside every group
+retinal ganglion cell	Others	1	outside every group
+retinal pigment epithelial cell	Epithelial	1	is-a Epithelial
+retinal progenitor cell	Others	4	a neural progenitor; no such class in the authors' annotation  [confirms ontology: proposal was Others]
+salivary gland glandular cell	Epithelial	177	is-a Epithelial
+sebocyte	Epithelial	20	is-a Epithelial
+secondary crest myofibroblast	Fibroblast	14	is-a `myofibroblast cell`; a manual entry does not propagate down the ontology, so the child needs its own row  [OVERRIDES ontology: proposal was Others]
+secondary lymphoid organ macrophage	Macrophage	14	is-a Macrophage
+secretory cell	Others	3291	36 CL children spanning GABAergic neurons, astrocytes, mast cells, platelets and exocrine cells, several of them emitted in this dataset; the term says a cell secretes, not that it is epithelium  [confirms ontology: proposal was Others]
+secretory epithelial cell	Epithelial	4	is-a Epithelial
+sensory neuron	Others	1	outside every group
+sensory neuron of dorsal root ganglion	Others	1	outside every group
+serous secreting cell	Epithelial	23	a serous gland cell — glandular epithelium  [OVERRIDES ontology: proposal was Others]
+serous secreting cell of bronchus submucosal gland	Epithelial	36	is-a `serous secreting cell`  [OVERRIDES ontology: proposal was Others]
+skeletal muscle satellite cell	Others	4	no skeletal muscle class; the only muscle class is the mural compartment  [confirms ontology: proposal was Others]
+skeletal muscle satellite stem cell	Others	1	outside every group
+skin fibroblast	Fibroblast	7	is-a Fibroblast
+slow muscle cell	Others	1	outside every group
+small pre-B-II cell	B cell	19	is-a B cell
+smooth muscle cell	Other stromal	36	the authors' Other stromal class is pericytes plus their S19/S20 smooth muscle clusters; CL files the bare term outside `perivascular cell`  [OVERRIDES ontology: proposal was Others]
+smooth muscle cell of the pulmonary artery	Other stromal	101	is-a Other stromal
+sncg GABAergic cortical interneuron	Others	1	outside every group
+somatic stem cell	Others	2	outside every group
+spermatocyte	Others	12	germline; see `germ cell`  [confirms ontology: proposal was Others]
+spinous cell	Epithelial	83	is-a Epithelial
+squamous endothelial cell	Endothelial	3	is-a Endothelial
+squamous epithelial cell	Epithelial	13	is-a Epithelial
+stem cell	Others	17	seven CL children spanning embryonic, germline and Leydig stem cells — cross-lineage  [confirms ontology: proposal was Others]
+steroid hormone secreting cell	Others	77	a secretory function shared by adrenal cortex, gonadal and placental cells; names no lineage  [confirms ontology: proposal was Others]
+stratified epithelial cell	Epithelial	155	is-a Epithelial
+stratified squamous epithelial cell	Epithelial	3	is-a Epithelial
+stromal cell	Fibroblast	2771	the only group below it is Fibroblast; pericytes are not `stromal cell` in CL, so it does not span the two stromal classes  [OVERRIDES ontology: proposal was Others]
+stromal cell of ovary	Fibroblast	1491	the ovarian stromal compartment, which in these tumours is the CAF population; CL files it beside `fibroblast`, not above it — `ovarian fibroblast` is one of its 8 children  [OVERRIDES ontology: proposal was Others]
+stromal cell of pancreas	Fibroblast	4	is-a `stromal cell`  [OVERRIDES ontology: proposal was Others]
+stromal cell of thymus	Fibroblast	25	is-a `stromal cell`; its own children are fibroblasts  [OVERRIDES ontology: proposal was Others]
+supporting cell	Others	190	16 CL children spanning Sertoli cells, pericytes, ligament cells and sensory-epithelium support cells — cross-lineage  [confirms ontology: proposal was Others]
+suprabasal keratinocyte	Epithelial	1	is-a Epithelial
+surfactant secreting cell	Epithelial	27	its children are club cells and alveolar type 2 cells, both epithelium  [OVERRIDES ontology: proposal was Others]
+syncytiotrophoblast cell	Others	3	outside every group
+theca cell	Fibroblast	136	ovarian stroma; is-a `stromal cell of ovary`  [OVERRIDES ontology: proposal was Others]
+thymic fibroblast type 1	Fibroblast	3	is-a Fibroblast
+thymic fibroblast type 2	Fibroblast	35	is-a Fibroblast
+thymocyte	T cell	10	is-a T cell
+tissue-resident macrophage	Macrophage	2	is-a Macrophage
+tonsil germinal center B cell	B cell	5	is-a B cell
+trabecular meshwork cell	Endothelial	26	is-a Endothelial
+tracheal goblet cell	Epithelial	23	is-a Epithelial
+tracheobronchial goblet cell	Epithelial	2	is-a Epithelial
+tracheobronchial serous cell	Epithelial	9	is-a `serous secreting cell`  [OVERRIDES ontology: proposal was Others]
+tracheobronchial smooth muscle cell	Other stromal	5	is-a `smooth muscle cell`  [OVERRIDES ontology: proposal was Others]
+transit amplifying cell	Epithelial	46	the dividing compartment of an epithelium; CL files it directly under `eukaryotic cell` with no epithelial parent  [OVERRIDES ontology: proposal was Others]
+transit amplifying cell of colon	Epithelial	1	is-a Epithelial
+transit amplifying cell of gut	Epithelial	10	is-a Epithelial
+transit amplifying cell of small intestine	Epithelial	2	is-a Epithelial
+transitional stage B cell	B cell	17	is-a B cell
+type EC enteroendocrine cell	Epithelial	39	is-a Epithelial
+type I NK T cell	T cell	1	is-a T cell
+type II muscle cell	Others	1	outside every group
+type L enteroendocrine cell	Epithelial	3	is-a Epithelial
+unswitched memory B cell	B cell	951	is-a B cell
+uterine smooth muscle cell	Other stromal	27	smooth muscle, in-tissue for this gynaecological dataset  [OVERRIDES ontology: proposal was Others]
+vasa recta ascending limb cell	Endothelial	6	is-a Endothelial
+vascular associated smooth muscle cell	Other stromal	997	is-a Other stromal
+vascular leptomeningeal cell	Fibroblast	1	is-a Fibroblast
+vascular lymphangioblast	Other stromal	1	is-a Other stromal
+vein endothelial cell	Endothelial	758	is-a Endothelial
+vein endothelial cell of respiratory system	Endothelial	2	is-a Endothelial
+ventricular cardiac muscle cell	Others	3	outside every group
+visceral muscle cell	Others	1	outside every group

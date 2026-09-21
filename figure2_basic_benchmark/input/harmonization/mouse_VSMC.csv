@@ -1,0 +1,161 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+B cell,lymphocyte,hector,0,0,0,20,is-a
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",lymphocyte,hector,0,0,0,1,is-a
+"CD8-positive, alpha-beta T cell",lymphocyte,hector,0,0,0,38,is-a
+Cajal-Retzius cell,Unknown,hector,0,0,0,1,cerebral cortex; foreign organ  [OVERRIDES ontology: proposal was neuron]
+DN4 thymocyte,lymphocyte,hector,0,0,0,1,is-a
+Kupffer cell,macrophage,hector,0,0,0,22,is-a
+L4/5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,Unknown,hector,0,0,0,1,cerebral cortex; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+L5 intratelencephalic projecting glutamatergic neuron,Unknown,hector,0,0,0,1,neuron of another organ — not this dataset's cells
+Mueller cell,Unknown,hector,0,0,0,1,outside every class
+Schwann cell,Unknown,hector,0,0,0,105,outside every class
+Schwann cell precursor,Unknown,hector,0,0,0,2,outside every class
+T cell,lymphocyte,hector,0,0,0,31,is-a
+"activated CD8-positive, alpha-beta T cell",lymphocyte,hector,0,0,0,33,is-a
+adipocyte,Unknown,hector,0,0,0,2,outside every class
+alpha-beta T cell,lymphocyte,hector,0,0,0,63,is-a
+alveolar capillary type 1 endothelial cell,Unknown,hector,0,0,0,3,endothelial cell of another organ — not this dataset's cells
+alveolar macrophage,macrophage,hector,0,0,0,3,is-a
+alveolar type 1 fibroblast cell,Unknown,hector,0,0,0,34,fibroblast of another organ — not this dataset's cells
+aortic endothelial cell,endothelial cell,popv,0,4958,8,0,is-a
+astrocyte,Unknown,hector,0,0,0,3,outside every class
+basal-myoepithelial cell of mammary gland,Unknown,hector,0,0,0,3,outside every class
+bladder cell,Unknown,hector,0,0,0,350,outside every class
+bladder urothelial cell,Unknown,hector,0,0,0,5,outside every class
+blood cell,Unknown,hector,0,0,0,2,has 5 children; not interchangeable with neutrophil
+blood vessel endothelial cell,endothelial cell,hector,0,0,0,1652,is-a
+blood vessel smooth muscle cell,smooth muscle cell,hector,0,0,0,6,is-a
+bone marrow hematopoietic cell,Unknown,hector,0,0,0,1,outside every class
+brain pericyte,Unknown,hector,0,0,0,1,"brain; foreign organ (cf. `pericyte`, which maps)  [OVERRIDES ontology: proposal was unresolved]"
+bronchial smooth muscle cell,Unknown,hector,0,0,0,155,smooth muscle cell of another organ — not this dataset's cells
+capillary endothelial cell,microvascular endothelial cell,hector,0,0,0,43,is-a  (also valid: endothelial cell)
+cardiac atrium fibroblast,fibroblast,popv,0,0,1,0,is-a
+cardiac blood vessel endothelial cell,endothelial cell,hector,0,0,0,1,is-a
+cardiac endothelial cell,endothelial cell,hector,0,0,0,48,is-a
+cerebral cortex GABAergic interneuron,Unknown,hector,0,0,0,1,neuron of another organ — not this dataset's cells
+chondrocyte,Unknown,hector,0,0,0,1534,outside every class
+classical monocyte,Unknown,hector,0,0,0,42,outside every class
+connective tissue cell,Unknown,hector,0,0,0,19,has 22 children; not interchangeable with fibroblast
+conventional dendritic cell,Unknown,hector,0,0,0,649,outside every class
+cycling T cell,lymphocyte,hector,0,0,0,27,is-a
+dendritic cell,Unknown,hector|popv,0,0,1,694,outside every class
+dermal microvascular endothelial cell,Unknown,hector,0,0,0,1,dermis; foreign organ  [OVERRIDES ontology: proposal was unresolved]
+dermis blood vessel endothelial cell,Unknown,hector,0,0,0,3,endothelial cell of another organ — not this dataset's cells
+double-positive blast,lymphocyte,hector,0,0,0,1,is-a
+ectodermal cell,Unknown,hector,0,0,0,1,germ-layer term; no class denotes it  [OVERRIDES ontology: proposal was unresolved]
+elicited macrophage,macrophage,hector,0,0,0,11,is-a
+endocardial cell,endothelial cell,hector,0,0,0,1487,is-a
+endothelial cell,endothelial cell,hector|truth,5132,0,0,786,is-a
+endothelial cell of artery,endothelial cell,hector,0,0,0,362,is-a
+endothelial cell of coronary artery,endothelial cell,hector,0,0,0,6,is-a
+endothelial cell of lymphatic vessel,endothelial cell,hector,0,0,0,78,is-a
+endothelial cell of vascular tree,endothelial cell,hector,0,0,0,434,is-a
+epithelial cell,Unknown,hector|popv,0,0,3,1,outside every class
+epithelial cell of prostate,Unknown,hector,0,0,0,1,outside every class
+erythrocyte,Unknown,hector,0,0,0,16,outside every class
+fibro/adipogenic progenitor cell,Unknown,hector,0,0,0,4,outside every class
+fibroblast,fibroblast,hector|truth,31141,0,0,23361,is-a
+fibroblast of cardiac tissue,fibroblast,hector|popv,0,109440,8,3780,is-a
+fibroblast of connective tissue of prostate,Unknown,hector,0,0,0,106,fibroblast of another organ — not this dataset's cells
+fibroblast of dermis,Unknown,hector,0,0,0,5,fibroblast of another organ — not this dataset's cells
+fibroblast of lung,Unknown,hector,0,0,0,56,fibroblast of another organ — not this dataset's cells
+fibroblast of mammary gland,Unknown,hector,0,0,0,7379,fibroblast of another organ — not this dataset's cells
+fibrocyte,Unknown,hector|popv,0,8217,8,10,"CL:0000135, sibling of `fibroblast` under `stromal cell`; described as bone-marrow-derived, so equivalent to neither the fibroblast nor the macrophage class — predictions of it are wrong  [confirms ontology: proposal was Unknown]"
+gamma-delta T cell,lymphocyte,hector,0,0,0,1,is-a
+germinal center B cell,lymphocyte,hector,0,0,0,1,is-a
+gingival epithelial cell,Unknown,hector,0,0,0,1,outside every class
+glial cell,Unknown,hector,0,0,0,52,outside every class
+glomerular endothelial cell,Unknown,hector,0,0,0,3,endothelial cell of another organ — not this dataset's cells
+granulocyte,Unknown,hector,0,0,0,1,has 3 children; not interchangeable with neutrophil
+granulosa cell,Unknown,hector,0,0,0,1,outside every class
+hematopoietic cell,Unknown,hector,0,0,0,31,superclass over 3
+innate lymphoid cell,lymphocyte,hector,0,0,0,82,is-a
+intermediate mesodermal cell,Unknown,hector,0,0,0,2,outside every class
+intermediate monocyte,Unknown,hector,0,0,0,1,outside every class
+interstitial cell,Unknown,hector,0,0,0,48,outside every class
+interstitial cell of ovary,Unknown,hector,0,0,0,3,outside every class
+kidney cell,Unknown,hector,0,0,0,2,outside every class
+kidney cortex tubule cell,Unknown,hector,0,0,0,740,outside every class
+kidney cortical cell,Unknown,hector,0,0,0,1,outside every class
+kidney epithelial cell,Unknown,hector,0,0,0,1,outside every class
+kidney loop of Henle epithelial cell,Unknown,hector,0,0,0,1,outside every class
+kidney medulla cell,Unknown,hector,0,0,0,1,outside every class
+kidney tubule cell,Unknown,hector,0,0,0,1863,outside every class
+lateral mesodermal cell,Unknown,hector,0,0,0,20,outside every class
+leptomeningeal cell,Unknown,hector,0,0,0,1,outside every class
+leukocyte,Unknown,hector,0,0,0,9,superclass over 3
+lower urinary tract cell,Unknown,hector,0,0,0,2,outside every class
+luminal cell of prostate epithelium,Unknown,hector,0,0,0,1,outside every class
+lung macrophage,macrophage,hector,0,0,0,51,is-a
+lung microvascular endothelial cell,Unknown,hector,0,0,0,1,endothelial cell of another organ — not this dataset's cells
+lymphocyte,lymphocyte,hector|truth,273,0,0,1,is-a
+lymphocyte of B lineage,lymphocyte,hector,0,0,0,3,is-a
+macrophage,macrophage,hector|popv|truth,9862,1299,8,5995,is-a
+mast cell,Unknown,hector,0,0,0,7,outside every class
+mature T cell,lymphocyte,hector,0,0,0,11,is-a
+mature alpha-beta T cell,lymphocyte,hector,0,0,0,38,is-a
+mature eosinophil,Unknown,popv,0,0,1,0,outside every class
+mature gamma-delta T cell,lymphocyte,hector,0,0,0,1,is-a
+mature natural killer cell,lymphocyte,hector,0,0,0,2,is-a
+melanocyte,Unknown,hector,0,0,0,60,outside every class
+mesenchymal cell,Unknown,hector,0,0,0,12,outside every class
+mesenchymal stem cell,Unknown,hector,0,0,0,3,outside every class
+mesenchymal stem cell of adipose tissue,Unknown,hector,0,0,0,157,outside every class
+mesodermal cell,Unknown,hector,0,0,0,4,outside every class
+metanephric nephron tubule epithelial cell,Unknown,hector,0,0,0,2,outside every class
+microcirculation associated smooth muscle cell,smooth muscle cell,hector,0,0,0,991,is-a
+microglial cell,macrophage,hector,0,0,0,33,is-a
+microvascular endothelial cell,microvascular endothelial cell,truth,1092,0,0,0,is-a  (also valid: endothelial cell)
+monocyte,Unknown,hector,0,0,0,133,outside every class
+mononuclear phagocyte,Unknown,hector,0,0,0,136,has 5 children; not interchangeable with macrophage
+mural cell,smooth muscle cell,hector,0,0,0,61,mural cell of the vessel wall; same continuum as vascular smooth muscle (skin precedent)  [OVERRIDES ontology: proposal was Unknown]
+muscle cell,Unknown,hector,0,0,0,1,has 4 children; not interchangeable with smooth muscle cell
+muscle fibroblast,fibroblast,hector,0,0,0,115,is-a
+myelinating glial cell,Unknown,hector,0,0,0,4,outside every class
+myelocyte,Unknown,hector,0,0,0,1,outside every class
+myeloid cell,Unknown,hector,0,0,0,39,superclass over 2
+myeloid leukocyte,Unknown,hector,0,0,0,274,superclass over 2
+myofibroblast cell,fibroblast,hector,0,0,0,249,"fibroblast-derived contractile cell; stromal lineage, activated state  [OVERRIDES ontology: proposal was Unknown]"
+natural killer cell,lymphocyte,hector,0,0,0,8,is-a
+nephron tubule epithelial cell,Unknown,hector,0,0,0,5,outside every class
+neuron,neuron,truth,221,0,0,0,is-a
+neutrophil,neutrophil,hector|truth,565,0,0,149,is-a
+non-classical monocyte,Unknown,hector,0,0,0,11,outside every class
+osteoblast,Unknown,hector,0,0,0,18,outside every class
+otic fibrocyte,Unknown,popv,0,0,1,0,"a fibrocyte (equivalent to no class here, see `fibrocyte`) and an inner-ear cell type; no aorta class denotes it  [OVERRIDES ontology: proposal was unresolved]"
+pancreatic stellate cell,Unknown,hector,0,0,0,29,fibroblast of another organ — not this dataset's cells
+parietal epithelial cell,Unknown,hector,0,0,0,1,outside every class
+pericyte,smooth muscle cell,hector,0,0,0,271,mural cell of the vessel wall; same continuum as vascular smooth muscle (skin precedent)  [OVERRIDES ontology: proposal was Unknown]
+perivascular cell,smooth muscle cell,hector,0,0,0,370,mural cell of the vessel wall; same continuum as vascular smooth muscle (skin precedent)  [OVERRIDES ontology: proposal was Unknown]
+phagocyte,Unknown,hector,0,0,0,1273,has 3 children; not interchangeable with macrophage
+plasma cell,lymphocyte,hector,0,0,0,35,is-a
+plasmacytoid dendritic cell,Unknown,hector,0,0,0,1,outside every class
+podocyte,Unknown,hector,0,0,0,1,outside every class
+preadipocyte,Unknown,hector,0,0,0,17,"adipocyte lineage, not the aorta's fibroblast population; CL files it under `fibroblast` while `adipocyte` sits elsewhere  [OVERRIDES ontology: proposal was fibroblast]"
+professional antigen presenting cell,Unknown,hector|popv,0,338,7,12,has 4 children; not interchangeable with macrophage
+promonocyte,Unknown,hector,0,0,0,3,outside every class
+prostate gland microvascular endothelial cell,Unknown,hector,0,0,0,9,endothelial cell of another organ — not this dataset's cells
+prostate stromal cell,Unknown,hector,0,0,0,16,outside every class
+regular atrial cardiac myocyte,Unknown,hector,0,0,0,5,outside every class
+regulatory T cell,lymphocyte,hector,0,0,0,6,is-a
+retinal pigment epithelial cell,Unknown,hector,0,0,0,2,outside every class
+skin fibroblast,Unknown,hector,0,0,0,458,fibroblast of another organ — not this dataset's cells
+smooth muscle cell,smooth muscle cell,hector|truth,75966,0,0,2302,is-a
+splanchnic mesodermal cell,Unknown,hector,0,0,0,1,germ-layer term; no class denotes it  [OVERRIDES ontology: proposal was unresolved]
+squamous endothelial cell,endothelial cell,hector,0,0,0,4,is-a
+stromal cell,Unknown,hector,0,0,0,3306,has 15 children; not interchangeable with fibroblast
+subepithelial intestinal fibroblast,Unknown,hector,0,0,0,1,fibroblast of another organ — not this dataset's cells
+sympathetic neuron,neuron,hector,0,0,0,1,is-a
+tendon cell,Unknown,hector,0,0,0,425,outside every class
+thoracic aorta endothelial cell,endothelial cell,popv,0,0,1,0,OnClass's name for the aorta's intimal endothelium; same population as the reference's `aortic endothelial cell` and the truth's `endothelial cell`  [OVERRIDES ontology: proposal was unresolved]
+thymic macrophage,macrophage,hector,0,0,0,27,is-a
+tissue-resident macrophage,macrophage,hector|popv,0,0,1,54,is-a
+type 5 cone bipolar cell (sensu Mus),Unknown,hector,0,0,0,1,neuron of another organ — not this dataset's cells
+ureteric bud cell,Unknown,hector,0,0,0,2,outside every class
+urethra urothelial cell,Unknown,hector,0,0,0,1,outside every class
+urothelial cell,Unknown,hector,0,0,0,1,outside every class
+valve interstitial cell,Unknown,hector,0,0,0,2024,outside every class
+vascular associated smooth muscle cell,smooth muscle cell,hector,0,0,0,58488,is-a
+vascular leptomeningeal cell,Unknown,hector,0,0,0,17,fibroblast of another organ — not this dataset's cells
+vein endothelial cell,endothelial cell,hector,0,0,0,155,is-a
+visceral muscle cell,smooth muscle cell,hector,0,0,0,1,"sole class below, term has only 2 child(ren)"

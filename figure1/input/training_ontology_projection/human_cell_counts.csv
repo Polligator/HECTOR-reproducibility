@@ -1,0 +1,815 @@
+cell_type_ontology_term_id,cell_type,count
+CL:0000540,neuron,3462898
+CL:0000128,oligodendrocyte,2471689
+CL:0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",2398441
+CL:0000057,fibroblast,2041699
+CL:4023040,L2/3-6 intratelencephalic projecting glutamatergic neuron,1491898
+CL:0000904,"central memory CD4-positive, alpha-beta T cell",1335353
+CL:0000604,retinal rod cell,1306527
+CL:0002057,"CD14-positive, CD16-negative classical monocyte",1210529
+CL:0000127,astrocyte,986434
+CL:0000939,"CD16-positive, CD56-dim natural killer cell, human",909011
+CL:0000681,radial glial cell,881318
+CL:0000235,macrophage,778861
+CL:0000905,"effector memory CD4-positive, alpha-beta T cell",741759
+CL:0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",734620
+CL:0000788,naive B cell,712345
+CL:0000913,"effector memory CD8-positive, alpha-beta T cell",675361
+CL:0000623,natural killer cell,658667
+CL:0000624,"CD4-positive, alpha-beta T cell",621814
+CL:0002319,neural cell,566436
+CL:0000679,glutamatergic neuron,560951
+CL:0000787,memory B cell,528453
+CL:0000066,epithelial cell,520629
+CL:0000236,B cell,488284
+CL:0002453,oligodendrocyte precursor cell,484286
+CL:0000625,"CD8-positive, alpha-beta T cell",481462
+CL:0000031,neuroblast (sensu Vertebrata),444330
+CL:0000115,endothelial cell,399058
+CL:0000860,classical monocyte,381125
+CL:0000669,pericyte,372387
+CL:0001054,CD14-positive monocyte,367965
+CL:0000084,T cell,366140
+CL:4030027,GABAergic amacrine cell,351809
+CL:4033057,luminal adaptive secretory precursor cell of mammary gland,321201
+CL:0000129,microglial cell,306498
+CL:0008019,mesenchymal cell,302163
+CL:0000940,mucosal invariant T cell,301660
+CL:0000636,Mueller cell,293258
+CL:4023016,VIP GABAergic cortical interneuron,291810
+CL:0002063,pulmonary alveolar type 2 cell,290230
+CL:0000499,stromal cell,288471
+CL:4023018,pvalb GABAergic cortical interneuron,282535
+CL:4023017,sst GABAergic cortical interneuron,280938
+CL:0000034,stem cell,277856
+CL:0000583,alveolar macrophage,271684
+CL:0002555,fibroblast of mammary gland,270739
+CL:0002303,pigmented ciliary epithelial cell,270381
+CL:0000148,melanocyte,269488
+CL:0002131,regular ventricular cardiac myocyte,265132
+CL:0002396,"CD14-low, CD16-positive monocyte",263365
+CL:4030059,L2/3 intratelencephalic projecting glutamatergic neuron,258042
+CL:0008001,hematopoietic precursor cell,249685
+CL:0000909,"CD8-positive, alpha-beta memory T cell",247758
+CL:1000443,ciliary muscle cell,239140
+CL:0000646,basal cell,235132
+CL:0002586,retinal pigment epithelial cell,235001
+CL:0000071,blood vessel endothelial cell,234765
+CL:0000837,hematopoietic multipotent progenitor cell,232922
+CL:0002144,capillary endothelial cell,227706
+CL:0002363,keratocyte,223737
+CL:0000809,"double-positive, alpha-beta thymocyte",209688
+CL:4033058,luminal hormone-sensing cell of mammary gland,207411
+CL:0000584,enterocyte,206716
+CL:0000576,monocyte,201548
+CL:0002573,Schwann cell,199819
+CL:4033047,OFF midget ganglion cell,195561
+CL:0000030,glioblast,189746
+CL:0000746,cardiac muscle cell,184005
+CL:0002326,luminal epithelial cell of mammary gland,172875
+CL:0000800,mature gamma-delta T cell,171397
+CL:0000897,"CD4-positive, alpha-beta memory T cell",169145
+CL:0011020,neural progenitor cell,166966
+CL:0002304,non-pigmented ciliary epithelial cell,166913
+CL:0002324,basal-myoepithelial cell of mammary gland,163949
+CL:4033054,perivascular cell,163433
+CL:4023111,cerebral cortex pyramidal neuron,161383
+CL:4023011,lamp5 GABAergic cortical interneuron,158647
+CL:0000907,"central memory CD8-positive, alpha-beta T cell",158181
+CL:0000573,retinal cone cell,157785
+CL:0000786,plasma cell,154397
+CL:0000561,amacrine cell,149678
+CL:4033046,ON midget ganglion cell,148363
+CL:0000232,erythrocyte,145747
+CL:4033033,flat midget bipolar cell,139018
+CL:0002062,pulmonary alveolar type 1 cell,137124
+CL:0000798,gamma-delta T cell,136637
+CL:0002543,vein endothelial cell,134177
+CL:0000617,GABAergic neuron,133710
+CL:4030028,glycinergic amacrine cell,129715
+CL:0011026,progenitor cell,128502
+CL:0000815,regulatory T cell,127630
+CL:0000748,retinal bipolar neuron,126792
+CL:0000542,lymphocyte,122844
+CL:0002672,retinal progenitor cell,122591
+CL:0000938,"CD16-negative, CD56-bright natural killer cell, human",119722
+CL:0001034,cell in vitro,118672
+CL:0000192,smooth muscle cell,118481
+CL:0002306,epithelial cell of proximal tubule,118353
+CL:0000763,myeloid cell,116157
+CL:0000077,mesothelial cell,115280
+CL:0000878,central nervous system macrophage,113155
+CL:0000598,pyramidal neuron,112685
+CL:0002605,astrocyte of the cerebral cortex,112590
+CL:0000338,neuroblast (sensu Nematoda and Protostomia),112149
+CL:0002350,endocardial cell,111240
+CL:0000751,rod bipolar cell,110151
+CL:0002367,trabecular meshwork cell,109432
+CL:0002633,respiratory basal cell,103504
+CL:0000740,retinal ganglion cell,102770
+CL:4033034,invaginating midget bipolar cell,98863
+CL:0002132,stromal cell of ovary,98402
+CL:0002620,skin fibroblast,97240
+CL:1000413,endothelial cell of artery,95863
+CL:0000987,IgA plasma cell,94654
+CL:1000414,endothelial cell of venule,93335
+CL:0000169,type B pancreatic cell,91760
+CL:0002138,endothelial cell of lymphatic vessel,91188
+CL:0000158,club cell,91129
+CL:0000097,mast cell,90349
+CL:0000775,neutrophil,89697
+CL:0000359,vascular associated smooth muscle cell,87190
+CL:0002399,CD1c-positive myeloid dendritic cell,87154
+CL:0001078,"group 3 innate lymphoid cell, human",85840
+CL:2000060,placental villous trophoblast,84520
+CL:0002129,regular atrial cardiac myocyte,83400
+CL:0000171,pancreatic A cell,83019
+CL:0000312,keratinocyte,81766
+CL:0002678,memory regulatory T cell,81494
+CL:0000818,transitional stage B cell,81161
+CL:0002064,pancreatic acinar cell,79945
+CL:0013000,forebrain radial glial cell,76542
+CL:0010011,cerebral cortex GABAergic interneuron,76218
+CL:0000784,plasmacytoid dendritic cell,75878
+CL:0000990,conventional dendritic cell,74161
+CL:0000222,mesodermal cell,73397
+CL:0002139,endothelial cell of vascular tree,72479
+CL:0000875,non-classical monocyte,71897
+CL:0002677,naive regulatory T cell,71329
+CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",70509
+CL:4023009,extratelencephalic-projecting glutamatergic cortical neuron,70109
+CL:0002145,multiciliated columnar cell of tracheobronchial tree,70103
+CL:4023038,L6b glutamatergic cortical neuron,70058
+CL:4023013,corticothalamic-projecting glutamatergic cortical neuron,68306
+CL:0000190,fast muscle cell,68186
+CL:0000082,epithelial cell of lung,67600
+CL:0002489,double negative thymocyte,67533
+CL:4033028,diffuse bipolar 2 cell,66937
+CL:0008034,mural cell,65905
+CL:0002480,nasal mucosa goblet cell,65069
+CL:0000136,adipocyte,64825
+CL:0019018,blood vessel smooth muscle cell,64084
+CL:0001031,cerebellar granule cell,63214
+CL:0000893,thymocyte,61833
+CL:0004217,H1 horizontal cell,61600
+CL:0000501,granulosa cell,60508
+CL:0000121,Purkinje cell,58735
+CL:0000492,CD4-positive helper T cell,58416
+CL:0002393,intermediate monocyte,58314
+CL:0019026,periportal region hepatocyte,57504
+CL:0000233,platelet,55954
+CL:0000738,leukocyte,55873
+CL:0009010,transit amplifying cell,55684
+CL:0008036,extravillous trophoblast,54162
+CL:0000704,endothelial tip cell,54159
+CL:0000099,interneuron,53976
+CL:1001106,kidney loop of Henle thick ascending limb epithelial cell,53289
+CL:0000064,ciliated cell,53168
+CL:0000160,goblet cell,53145
+CL:0000451,dendritic cell,52134
+CL:0001062,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",51744
+CL:0000079,stratified epithelial cell,50469
+CL:4033027,diffuse bipolar 1 cell,49461
+CL:0000186,myofibroblast cell,49288
+CL:0002211,type I muscle cell,47932
+CL:0000189,slow muscle cell,46522
+CL:0000151,secretory cell,45931
+CL:4033031,diffuse bipolar 4 cell,45250
+CL:4023012,near-projecting glutamatergic cortical neuron,44599
+CL:0000791,mature alpha-beta T cell,44505
+CL:0000182,hepatocyte,44447
+CL:0002563,intestinal epithelial cell,43603
+CL:0002248,pluripotent stem cell,43504
+CL:0002623,acinar cell of salivary gland,42908
+CL:0000125,glial cell,42631
+CL:0000912,helper T cell,42239
+CL:4023015,sncg GABAergic cortical interneuron,41679
+CL:0000968,Be cell,41150
+CL:0000134,mesenchymal stem cell,40970
+CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",40050
+CL:0002079,pancreatic ductal cell,39494
+CL:0000708,leptomeningeal cell,39277
+CL:0000666,fenestrated endothelial cell,38739
+CL:0002327,mammary gland epithelial cell,38668
+CL:0000814,mature NK T cell,38632
+CL:1000329,tracheal goblet cell,38342
+CL:0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",38335
+CL:0010006,cardiac blood vessel endothelial cell,38309
+CL:1000432,conjunctival epithelial cell,37961
+CL:0002343,"decidual natural killer cell, human",37821
+CL:1000412,endothelial cell of arteriole,37316
+CL:0000745,retina horizontal cell,37293
+CL:0000706,choroid plexus epithelial cell,36890
+CL:1000272,lung secretory cell,36785
+CL:4033030,diffuse bipolar 3b cell,36274
+CL:0002038,T follicular helper cell,36217
+CL:1000347,colonocyte,36046
+CL:0000861,elicited macrophage,35918
+CL:0002212,type II muscle cell,35891
+CL:4030065,L6 intratelencephalic projecting glutamatergic neuron,35528
+CL:0002548,fibroblast of cardiac tissue,35313
+CL:0000216,Sertoli cell,35281
+CL:0001033,hippocampal granule cell,34220
+CL:0000038,erythroid progenitor cell,33881
+CL:0000525,syncytiotrophoblast cell,33562
+CL:0008011,skeletal muscle satellite stem cell,32180
+CL:0010008,cardiac endothelial cell,32176
+CL:0000498,inhibitory interneuron,32158
+CL:0002553,fibroblast of lung,32044
+CL:0000322,pulmonary alveolar epithelial cell,31657
+CL:0002334,preadipocyte,31526
+CL:1001603,lung macrophage,31507
+CL:0000632,hepatic stellate cell,30890
+CL:0011108,colon epithelial cell,30344
+CL:0001065,innate lymphoid cell,29999
+CL:0000529,pigmented epithelial cell,29987
+CL:0002376,non-myelinating Schwann cell,29765
+CL:2000029,central nervous system neuron,29561
+CL:0002187,basal cell of epidermis,29483
+CL:0002570,mesenchymal stem cell of adipose tissue,29270
+CL:0000785,mature B cell,29118
+CL:3000001,Hofbauer cell,28873
+CL:0000575,corneal epithelial cell,28694
+CL:4028004,alveolar type 1 fibroblast cell,27487
+CL:0000113,mononuclear phagocyte,27447
+CL:0019029,centrilobular region hepatocyte,27397
+CL:0002604,hippocampal astrocyte,27092
+CL:0002504,enteric smooth muscle cell,26805
+CL:0000980,plasmablast,26749
+CL:1001428,bladder urothelial cell,26663
+CL:0000649,spinous cell of epidermis,26321
+CL:0002252,epithelial cell of esophagus,26299
+CL:0002601,uterine smooth muscle cell,26016
+CL:0000557,granulocyte monocyte progenitor cell,25586
+CL:0002340,luminal cell of prostate epithelium,24908
+CL:0002094,interstitial cell of ovary,24823
+CL:0000126,macroglial cell,24492
+CL:4023036,chandelier pvalb GABAergic cortical interneuron,24385
+CL:4033035,giant bipolar cell,24264
+CL:0001072,"CD34-negative, CD117-positive innate lymphoid cell, human",23970
+CL:0000988,hematopoietic cell,23780
+CL:0000749,ON-bipolar cell,23558
+CL:0000138,chondrocyte,23374
+CL:4023051,vascular leptomeningeal cell,23113
+CL:1001431,kidney collecting duct principal cell,23039
+CL:0008002,skeletal muscle fiber,22993
+CL:0000790,immature alpha-beta T cell,22883
+CL:0000810,"CD4-positive, alpha-beta thymocyte",22578
+CL:4023064,caudal ganglionic eminence derived cortical interneuron,22456
+CL:0000150,glandular secretory epithelial cell,22384
+CL:0002368,respiratory tract epithelial cell,21915
+CL:4033029,diffuse bipolar 3a cell,21350
+CL:1000042,forebrain neuroblast,21227
+CL:1000348,basal cell of epithelium of trachea,21061
+CL:0000037,hematopoietic stem cell,20917
+CL:0000765,erythroblast,20716
+CL:0008031,cortical interneuron,20470
+CL:0000817,precursor B cell,20468
+CL:2000002,decidual cell,20290
+CL:4030063,L4 intratelencephalic projecting glutamatergic neuron,20288
+CL:0000750,OFF-bipolar cell,20132
+CL:2000097,midbrain dopaminergic neuron,19760
+CL:4023042,L6 corticothalamic-projecting glutamatergic cortical neuron,19622
+CL:0019028,midzonal region hepatocyte,19435
+CL:0001203,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",19333
+CL:0000843,follicular B cell,19039
+CL:0000132,corneal endothelial cell,18980
+CL:0000630,supporting cell,18941
+CL:0000556,megakaryocyte,18719
+CL:0000906,"activated CD8-positive, alpha-beta T cell",18619
+CL:4033032,diffuse bipolar 6 cell,18527
+CL:0002088,interstitial cell of Cajal,18481
+CL:0000559,promonocyte,18361
+CL:0000513,cardiac muscle myoblast,18310
+CL:0002364,cortical thymic epithelial cell,18286
+CL:0004232,starburst amacrine cell,18210
+CL:0000313,serous secreting cell,17752
+CL:0000700,dopaminergic neuron,17676
+CL:0002179,foveolar cell of stomach,17641
+CL:0002341,basal cell of prostate epithelium,17515
+CL:0002629,mature microglial cell,17492
+CL:1000849,kidney distal convoluted tubule epithelial cell,17428
+CL:1000838,kidney proximal convoluted tubule epithelial cell,17308
+CL:0000049,common myeloid progenitor,17259
+CL:0009011,transit amplifying cell of colon,17226
+CL:4030055,intermediate cell of urothelium,17198
+CL:0000896,"activated CD4-positive, alpha-beta T cell",17024
+CL:0000789,alpha-beta T cell,16900
+CL:0000558,reticulocyte,16818
+CL:0000067,ciliated epithelial cell,16705
+CL:0000910,cytotoxic T cell,16452
+CL:0009099,fibro/adipogenic progenitor cell,16423
+CL:0000822,B-2 B cell,16370
+CL:0000091,Kupffer cell,16212
+CL:0001044,"effector CD4-positive, alpha-beta T cell",16165
+CL:0002325,lactocyte,15973
+CL:4033036,OFFx cell,15944
+CL:1000398,endothelial cell of hepatic sinusoid,15732
+CL:0002615,adipocyte of omentum tissue,15460
+CL:1000486,basal cell of urothelium,15436
+CL:0009116,progenitor cell of mammary luminal epithelium,15396
+CL:0008035,microcirculation associated smooth muscle cell,15257
+CL:0000844,germinal center B cell,15220
+CL:0009095,endothelial cell of uterus,15191
+CL:0001082,immature innate lymphoid cell,15163
+CL:0010012,cerebral cortex neuron,14971
+CL:4033015,retinal astrocyte,14923
+CL:4023188,midget ganglion cell of retina,14779
+CL:0009068,CD8aa(I) thymocyte,14707
+CL:4028006,alveolar adventitial fibroblast,14671
+CL:1001568,pulmonary artery endothelial cell,14627
+CL:0002181,mucous neck cell of gastric gland,14613
+CL:0000826,pro-B cell,14569
+CL:1001432,kidney collecting duct intercalated cell,14556
+CL:0000985,IgG plasma cell,14554
+CL:0000586,germ cell,14516
+CL:0002518,kidney epithelial cell,14479
+CL:4023008,intratelencephalic-projecting glutamatergic cortical neuron,14400
+CL:0002521,subcutaneous adipocyte,14357
+CL:0001071,group 3 innate lymphoid cell,14184
+CL:0002551,fibroblast of dermis,14105
+CL:0000173,pancreatic D cell,14050
+CL:0000165,neuroendocrine cell,13852
+CL:1000271,lung multiciliated epithelial cell,13801
+CL:1000340,enterocyte of epithelium proper of duodenum,13494
+CL:0000622,acinar cell,13278
+CL:0019031,intestine goblet cell,13151
+CL:0000453,Langerhans cell,13118
+CL:0000899,T-helper 17 cell,13115
+CL:0002178,epithelial cell of stomach,12978
+CL:4023046,L6b glutamatergic neuron of the primary motor cortex,12895
+CL:0000863,inflammatory macrophage,12827
+CL:1000768,kidney connecting tubule epithelial cell,12793
+CL:0000000,cell,12613
+CL:4023041,L5 extratelencephalic projecting glutamatergic cortical neuron,12560
+CL:0009092,endothelial cell of placenta,12553
+CL:0011031,monocyte-derived dendritic cell,12545
+CL:1001571,hippocampal pyramidal neuron,12345
+CL:0000827,pro-T cell,12279
+CL:0000240,stratified squamous epithelial cell,12251
+CL:4028001,pulmonary capillary endothelial cell,12151
+CL:0000766,myeloid leukocyte,11995
+CL:0000050,megakaryocyte-erythroid progenitor cell,11945
+CL:0004218,H2 horizontal cell,11881
+CL:2000042,embryonic fibroblast,11816
+CL:0011012,neural crest cell,11722
+CL:0001058,"plasmacytoid dendritic cell, human",11693
+CL:0005026,hepatoblast,11485
+CL:0001067,group 1 innate lymphoid cell,11358
+CL:0000890,alternatively activated macrophage,11273
+CL:1000334,enterocyte of epithelium of small intestine,11250
+CL:0009078,thymic fibroblast type 1,11233
+CL:0019022,endothelial cell of pericentral hepatic sinusoid,11103
+CL:0000065,ependymal cell,11060
+CL:0001046,memory CCR4-positive regulatory T cell,10981
+CL:4030067,L5/6 near-projecting glutamatergic neuron,10961
+CL:0000083,epithelial cell of pancreas,10845
+CL:0002503,adventitial cell,10765
+CL:0000515,skeletal muscle myoblast,10584
+CL:4033051,OFF parasol ganglion cell,10434
+CL:0002355,primitive red blood cell,10259
+CL:0000047,neural stem cell,10227
+CL:2000006,tonsil germinal center B cell,10188
+CL:0000816,immature B cell,10134
+CL:0001050,"effector CD8-positive, alpha-beta T cell",10124
+CL:1001569,hippocampal interneuron,9976
+CL:4023072,brain vascular cell,9932
+CL:4033014,peg cell,9787
+CL:0002617,adipocyte of breast,9780
+CL:4030064,L5 intratelencephalic projecting glutamatergic neuron,9638
+CL:0000594,skeletal muscle satellite cell,9585
+CL:0000644,Bergmann glial cell,9563
+CL:0000752,cone retinal bipolar cell,9562
+CL:0000915,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",9527
+CL:0000682,M cell of gut,9514
+CL:0000653,podocyte,9427
+CL:0000218,myelinating Schwann cell,9393
+CL:4033008,vein endothelial cell of respiratory system,9351
+CL:4028002,alveolar capillary type 1 endothelial cell,9296
+CL:1001111,kidney loop of Henle thin descending limb epithelial cell,9182
+CL:0000510,paneth cell,9119
+CL:0002397,"CD14-positive, CD16-positive monocyte",8936
+CL:0001087,"effector memory CD4-positive, alpha-beta T cell, terminally differentiated",8888
+CL:0005022,vascular lymphangioblast,8796
+CL:0009079,thymic fibroblast type 2,8645
+CL:0000972,class switched memory B cell,8518
+CL:0000957,large pre-B-II cell,8454
+CL:1000692,kidney interstitial fibroblast,8330
+CL:0000898,naive T cell,8327
+CL:0002241,pulmonary interstitial fibroblast,8324
+CL:2000064,ovarian surface epithelial cell,8322
+CL:4033052,ON parasol ganglion cell,8283
+CL:0003050,S cone cell,8229
+CL:0002329,basal epithelial cell of tracheobronchial tree,8145
+CL:0002045,fraction A pre-pro B cell,8130
+CL:0000164,enteroendocrine cell,8113
+CL:4023026,direct pathway medium spiny neuron,7989
+CL:0002549,fibroblast of choroid plexus,7947
+CL:0000811,"CD8-positive, alpha-beta thymocyte",7812
+CL:0002048,late pro-B cell,7763
+CL:0005012,multiciliated epithelial cell,7699
+CL:0019019,tracheobronchial smooth muscle cell,7695
+CL:0000865,gastrointestinal tract (lamina propria) macrophage,7414
+CL:4023029,indirect pathway medium spiny neuron,7320
+CL:0002236,basal epithelial cell of prostatic duct,7295
+CL:0002365,medullary thymic epithelial cell,7231
+CL:2000093,bronchus fibroblast of lung,7089
+CL:0000187,muscle cell,7054
+CL:1001609,muscle fibroblast,7010
+CL:0002410,pancreatic stellate cell,6779
+CL:0002032,hematopoietic oligopotent progenitor cell,6718
+CL:0000986,IgM plasma cell,6631
+CL:1000296,epithelial cell of urethra,6582
+CL:1000342,enterocyte of epithelium proper of ileum,6475
+CL:0001042,T-helper 22 cell,6379
+CL:4033005,serous secreting cell of bronchus submucosal gland,6362
+CL:0019001,tracheobronchial serous cell,6261
+CL:0000051,common lymphoid progenitor,6171
+CL:0000062,osteoblast,6167
+CL:0002223,anterior lens cell,6160
+CL:2000032,peripheral nervous system neuron,6144
+CL:1000495,small intestine goblet cell,6138
+CL:4047018,early colonocyte,5962
+CL:4006000,fibroblast of breast,5943
+CL:0011027,skeletal muscle fibroblast,5913
+CL:0009089,lung pericyte,5908
+CL:0009070,corticomedullary thymic epithelial cell,5888
+CL:0002632,epithelial cell of lower respiratory tract,5762
+CL:0000881,perivascular macrophage,5740
+CL:0002071,enterocyte of epithelium of large intestine,5685
+CL:0000068,duct epithelial cell,5679
+CL:0000081,blood cell,5665
+CL:0000795,"CD8-positive, alpha-beta regulatory T cell",5612
+CL:0000503,theca cell,5559
+CL:2000092,hair follicular keratinocyte,5540
+CL:0009012,transit amplifying cell of small intestine,5461
+CL:0005009,renal principal cell,5425
+CL:1000497,kidney cell,5331
+CL:0000782,myeloid dendritic cell,5314
+CL:0002224,lens epithelial cell,5276
+CL:0000549,basophilic erythroblast,5253
+CL:0002496,intraepithelial lymphocyte,5249
+CL:4030026,BEST4+ enterocyte,5230
+CL:1001016,kidney loop of Henle ascending limb epithelial cell,5195
+CL:0000813,memory T cell,5166
+CL:0000159,seromucus secreting cell,5088
+CL:0000183,contractile cell,5078
+CL:0002626,immature astrocyte,5073
+CL:0000550,polychromatophilic erythroblast,5061
+CL:1000500,kidney interstitial cell,5012
+CL:0000819,B-1 B cell,5001
+CL:0000185,myoepithelial cell,4992
+CL:4030023,respiratory tract hillock cell,4885
+CL:0001056,"dendritic cell, human",4857
+CL:0000884,mucosa-associated lymphoid tissue macrophage,4765
+CL:0002547,fibroblast of the aortic adventitia,4757
+CL:0002394,CD141-positive myeloid dendritic cell,4746
+CL:1001318,renal interstitial pericyte,4741
+CL:0002010,pre-conventional dendritic cell,4727
+CL:0000954,small pre-B-II cell,4634
+CL:0000695,Cajal-Retzius cell,4612
+CL:0002231,epithelial cell of prostate,4587
+CL:0000867,secondary lymphoid organ macrophage,4554
+CL:4033039,"lung resident memory CD8-positive, alpha-beta T cell",4512
+CL:4030034,respiratory tract multiciliated cell,4462
+CL:0000188,cell of skeletal muscle,4449
+CL:0000131,gut endothelial cell,4447
+CL:0011019,mesothelial cell of epicardium,4332
+CL:1001107,kidney loop of Henle thin ascending limb epithelial cell,4324
+CL:0002259,neuroepithelial stem cell,4308
+CL:4023069,medial ganglionic eminence derived GABAergic cortical interneuron,4213
+CL:4023050,L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,4206
+CL:4033048,respiratory tract suprabasal cell,4201
+CL:0009043,intestinal crypt stem cell of colon,4137
+CL:0000839,myeloid lineage restricted progenitor cell,4108
+CL:0011005,GABAergic interneuron,4096
+CL:1000488,cholangiocyte,4089
+CL:0000836,promyelocyte,4088
+CL:0002627,mature astrocyte,4080
+CL:1000223,pulmonary neuroendocrine cell,4076
+CL:0000018,spermatid,4009
+CL:0002193,myelocyte,4006
+CL:0000094,granulocyte,3973
+CL:4030056,umbrella cell of urothelium,3945
+CL:1001602,cerebral cortex endothelial cell,3851
+CL:4023161,unipolar brush cell,3832
+CL:1000309,epicardial adipocyte,3799
+CL:0000552,orthochromatic erythroblast,3734
+CL:0009071,medullary thymic epithelial cell type 1,3641
+CL:1000449,epithelial cell of nephron,3587
+CL:4030011,epithelial cell of proximal tubule segment 3,3550
+CL:1000022,mesonephric nephron tubule epithelial cell,3513
+CL:0000577,type EC enteroendocrine cell,3489
+CL:0000145,professional antigen presenting cell,3454
+CL:0019032,intestinal tuft cell,3358
+CL:0000058,chondroblast,3356
+CL:0000838,lymphoid lineage restricted progenitor cell,3339
+CL:0002375,Schwann cell precursor,3306
+CL:0002250,intestinal crypt stem cell,3298
+CL:0000287,eye photoreceptor cell,3293
+CL:4028003,alveolar capillary type 2 endothelial cell,3276
+CL:0001069,group 2 innate lymphoid cell,3269
+CL:0000936,early lymphoid progenitor,3249
+CL:0000155,peptic cell,3226
+CL:2000016,lung microvascular endothelial cell,3226
+CL:0000764,erythroid lineage cell,3219
+CL:0000076,squamous epithelial cell,3112
+CL:0000017,spermatocyte,3070
+CL:0000731,urothelial cell,3068
+CL:1000452,parietal epithelial cell,3055
+CL:4030016,epithelial cell of early distal convoluted tubule,2945
+CL:0000545,T-helper 1 cell,2945
+CL:4033043,lung interstitial macrophage,2922
+CL:4033019,ON-blue cone bipolar cell,2896
+CL:0000388,tendon cell,2887
+CL:0005011,renal alpha-intercalated cell,2827
+CL:0000178,Leydig cell,2803
+CL:2000054,hepatic pit cell,2785
+CL:0000319,mucus secreting cell,2780
+CL:0000032,neuroplacodal cell,2759
+CL:0009086,endothelial cell of respiratory system lymphatic vessel,2634
+CL:0000970,unswitched memory B cell,2633
+CL:2000046,ventricular cardiac muscle cell,2598
+CL:0009041,tuft cell of colon,2564
+CL:0000553,megakaryocyte progenitor cell,2564
+CL:0002585,retinal blood vessel endothelial cell,2518
+CL:0001055,"CD14-positive, CD16-low monocyte",2494
+CL:0009039,colon goblet cell,2464
+CL:1001509,glycinergic neuron,2458
+CL:0002028,basophil mast progenitor cell,2420
+CL:0002362,cerebellar granule cell precursor,2410
+CL:4040002,enteroglial cell,2399
+CL:0002204,tuft cell,2397
+CL:4023063,medial ganglionic eminence derived interneuron,2386
+CL:4023059,committed oligodendrocyte precursor,2382
+CL:0000335,mesenchyme condensation cell,2315
+CL:1001451,sensory neuron of dorsal root ganglion,2286
+CL:1000487,smooth muscle cell of prostate,2218
+CL:4040003,fetal pre-type II pulmonary alveolar epithelial cell,2216
+CL:0000767,basophil,2197
+CL:0002370,respiratory tract goblet cell,2178
+CL:0005006,ionocyte,2136
+CL:4033016,secondary crest myofibroblast,2111
+CL:4030006,fallopian tube secretory epithelial cell,2108
+CL:0017009,"Axl+ dendritic cell, human",2095
+CL:0000095,neuron associated cell,1981
+CL:0000327,extracellular matrix secreting cell,1971
+CL:0007011,enteric neuron,1969
+CL:4033080,cycling pulmonary alveolar type 2 cell,1968
+CL:0002075,brush cell of tracheobronchial tree,1887
+CL:0000914,immature NK T cell,1886
+CL:4033038,"lung resident memory CD4-positive, alpha-beta T cell",1859
+CL:4030015,kidney collecting duct alpha-intercalated cell,1855
+CL:1000343,paneth cell of epithelium of small intestine,1840
+CL:0000903,natural T-regulatory cell,1821
+CL:0009112,centroblast,1806
+CL:0002591,smooth muscle cell of the pulmonary artery,1789
+CL:4052030,adventitial fibroblast,1741
+CL:0009076,neuro-medullary thymic epithelial cell,1741
+CL:1000312,bronchial goblet cell,1731
+CL:0009080,tuft cell of small intestine,1704
+CL:1000695,kidney interstitial alternatively activated macrophage,1696
+CL:0002225,secondary lens fiber,1677
+CL:4033013,suprabasal keratinocyte,1629
+CL:0000547,proerythroblast,1627
+CL:0000802,"CD8-alpha alpha positive, gamma-delta intraepithelial T cell",1620
+CL:0000101,sensory neuron,1605
+CL:0002574,stromal cell of pancreas,1582
+CL:1000892,kidney capillary endothelial cell,1580
+CL:0019021,endothelial cell of periportal hepatic sinusoid,1560
+CL:0017000,pulmonary ionocyte,1557
+CL:1000320,large intestine goblet cell,1556
+CL:2000059,prostate gland microvascular endothelial cell,1547
+CL:0000162,parietal cell,1542
+CL:0002201,renal beta-intercalated cell,1510
+CL:0002275,pancreatic PP cell,1485
+CL:0010022,cardiac neuron,1463
+CL:0000917,Tc1 cell,1408
+CL:4033010,neuroendocrine cell of epithelium of lobar bronchus,1407
+CL:0009017,intestinal crypt stem cell of small intestine,1404
+CL:0002320,connective tissue cell,1399
+CL:0005010,renal intercalated cell,1398
+CL:0005019,pancreatic epsilon cell,1394
+CL:0000834,neutrophil progenitor cell,1359
+CL:0000864,tissue-resident macrophage,1348
+CL:4033095,diffuse bipolar 4a cell,1346
+CL:0002149,epithelial cell of uterus,1319
+CL:0002495,fetal cardiomyocyte,1310
+CL:4033085,diffuse bipolar 5 cell,1307
+CL:0001029,common dendritic progenitor,1304
+CL:0000253,eurydendroid cell,1296
+CL:0002243,smooth muscle cell of sphincter of pupil,1286
+CL:0002117,IgG-negative class switched memory B cell,1285
+CL:0000092,osteoclast,1282
+CL:2000030,hypothalamus cell,1282
+CL:4047052,BEST4+ colonocyte,1275
+CL:0000879,meningeal macrophage,1257
+CL:4042021,neuronal-restricted precursor,1244
+CL:2000055,liver dendritic cell,1236
+CL:4023043,L5/6 near-projecting glutamatergic neuron of the primary motor cortex,1215
+CL:1001611,cerebellar neuron,1209
+CL:1001131,vasa recta ascending limb cell,1195
+CL:0000100,motor neuron,1191
+CL:1000428,stem cell of epidermis,1187
+CL:0000056,myoblast,1186
+CL:4033024,airway submucosal gland duct basal cell,1184
+CL:1000143,lung goblet cell,1174
+CL:4030018,kidney connecting tubule principal cell,1168
+CL:0019003,tracheobronchial goblet cell,1165
+CL:0000242,Merkel cell,1159
+CL:1001109,kidney loop of Henle cortical thick ascending limb epithelial cell,1156
+CL:0002657,glandular cell of esophagus,1135
+CL:0000931,activated type II NK T cell,1122
+CL:1000298,mesothelial cell of dura mater,1119
+CL:4033037,mucus secreting cell of tracheobronchial tree submucosal gland,1115
+CL:0001057,"myeloid dendritic cell, human",1105
+CL:0009006,enteroendocrine cell of small intestine,1101
+CL:0009075,myo-medullary thymic epithelial cell,1100
+CL:0002538,intrahepatic cholangiocyte,1086
+CL:0000796,"CD8-alpha-beta-positive, alpha-beta intraepithelial T cell",1063
+CL:0011024,double negative T regulatory cell,1037
+CL:0002279,type L enteroendocrine cell,1017
+CL:0002425,early T lineage precursor,1013
+CL:1001021,kidney loop of Henle descending limb epithelial cell,1011
+CL:4030041,luminal endometrial multiciliated epithelial cell,990
+CL:0002546,embryonic blood vessel endothelial progenitor cell,977
+CL:1001033,peritubular capillary endothelial cell,970
+CL:4052049,striated cell of salivary gland,968
+CL:0002576,perineurial cell,934
+CL:2000028,cerebellum glutamatergic neuron,923
+CL:1001005,glomerular capillary endothelial cell,920
+CL:0002366,myometrial cell,917
+CL:0000096,mature neutrophil,906
+CL:4033044,deuterosomal cell,902
+CL:0002598,bronchial smooth muscle cell,880
+CL:4033018,lung megakaryocyte,869
+CL:0009073,medullary thymic epithelial cell type 3,847
+CL:1000458,melanocyte of skin,847
+CL:0000652,pinealocyte,827
+CL:0000060,odontoblast,824
+CL:4033081,cycling myeloid cell,821
+CL:0000237,keratinizing barrier epithelial cell,820
+CL:0000078,peridermal cell,817
+CL:0002268,P/D1 enteroendocrine cell,804
+CL:0011004,lens fiber cell,787
+CL:0000133,neurectodermal cell,779
+CL:1001285,vasa recta descending limb cell,776
+CL:1000447,epithelial cell of stratum germinativum of esophagus,754
+CL:0008015,inhibitory motor neuron,745
+CL:0009005,salivary gland cell,745
+CL:0007010,preosteoblast,736
+CL:4042001,TAC3-positive striatal interneuron,728
+CL:0000650,mesangial cell,715
+CL:1000333,serous cell of epithelium of lobular bronchiole,697
+CL:0002328,bronchial epithelial cell,693
+CL:4033023,airway submucosal gland collecting duct epithelial cell,689
+CL:0001080,"NKp44-negative group 3 innate lymphoid cell, human",685
+CL:1000305,fibroblast of connective tissue of glandular part of prostate,684
+CL:4023097,arachnoid barrier cell,681
+CL:0002590,smooth muscle cell of the brain vasculature,677
+CL:0000921,type I NK T cell,676
+CL:0009072,medullary thymic epithelial cell type 2,668
+CL:0012001,neuron of the forebrain,666
+CL:0002552,fibroblast of gingiva,660
+CL:0000423,tip cell,647
+CL:4030009,epithelial cell of proximal tubule segment 1,640
+CL:1000339,enterocyte of epithelium proper of small intestine,635
+CL:0002188,glomerular endothelial cell,622
+CL:0000979,IgG memory B cell,607
+CL:0009111,centrocyte,598
+CL:0001079,"NKp44-positive group 3 innate lymphoid cell, human",596
+CL:4033069,cycling T cell,593
+CL:0002262,endothelial cell of sinusoid,592
+CL:0009038,colon macrophage,578
+CL:0000006,neuronal receptor cell,576
+CL:0011115,precursor cell,567
+CL:0000821,B-1b B cell,555
+CL:0002293,epithelial cell of thymus,554
+CL:0000850,serotonergic neuron,547
+CL:0000956,pre-B-I cell,542
+CL:4033017,bronchiolar smooth muscle cell,537
+CL:0011025,exhausted T cell,524
+CL:0002607,migratory enteric neural crest cell,520
+CL:4052048,intercalated cell of salivary gland,518
+CL:4023083,chandelier cell,490
+CL:0000696,PP cell,485
+CL:0000339,glioblast (sensu Vertebrata),467
+CL:4047053,TREM2-positive macrophage,464
+CL:0002255,stromal cell of endometrium,464
+CL:0002284,type X enteroendocrine cell,464
+CL:0000946,antibody secreting cell,450
+CL:0000362,epidermal cell,446
+CL:1001607,articular chondrocyte,434
+CL:0000508,type G enteroendocrine cell,428
+CL:0000029,neural crest derived neuron,419
+CL:0001074,"CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human",417
+CL:0009113,T follicular regulatory cell,415
+CL:0000514,smooth muscle myoblast,411
+CL:4033026,lung perichondrial fibroblast,411
+CL:4033042,metallothionein-positive alveolar macrophage,410
+CL:0000442,follicular dendritic cell,410
+CL:1000341,enterocyte of epithelium proper of jejunum,405
+CL:0000771,eosinophil,401
+CL:0000317,sebocyte,388
+CL:4047003,cycling plasma cell,379
+CL:0005021,mesenchymal lymphangioblast,365
+CL:0001064,malignant cell,358
+CL:0000531,primary sensory neuron (sensu Teleostei),348
+CL:0002254,epithelial cell of small intestine,339
+CL:1000850,macula densa epithelial cell,332
+CL:1000330,serous cell of epithelium of trachea,326
+CL:1000304,fibroblast of connective tissue of nonglandular part of prostate,323
+CL:0007004,premigratory neural crest cell,322
+CL:0000569,cardiac mesenchymal cell,315
+CL:4023068,thalamic excitatory neuron,312
+CL:0000135,fibrocyte,311
+CL:0000880,choroid plexus macrophage,306
+CL:1000597,papillary tips cell,305
+CL:1000448,epithelial cell of sweat gland,301
+CL:4033022,mucus secreting cell of bronchus submucosal gland,283
+CL:0000820,B-1a B cell,279
+CL:0009101,fibroblastic reticular cell,277
+CL:0002053,"CD22-positive, CD38-low small pre-B cell",276
+CL:0002316,supporting cell of vestibular epithelium,270
+CL:1001572,colon endothelial cell,267
+CL:0000680,muscle precursor cell,254
+CL:0009042,enteroendocrine cell of colon,251
+CL:0000842,mononuclear leukocyte,242
+CL:0000935,"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",236
+CL:0002189,granular cell of epidermis,235
+CL:2000021,sebaceous gland cell,233
+CL:0002046,early pro-B cell,233
+CL:4030031,interstitial cell,228
+CL:1001474,medium spiny neuron,226
+CL:0001077,"ILC1, human",213
+CL:0010001,stromal cell of bone marrow,213
+CL:4033096,diffuse bipolar 4b cell,209
+CL:0002192,metamyelocyte,206
+CL:0000595,enucleate erythrocyte,202
+CL:0002673,tongue muscle cell,188
+CL:1000491,mesothelial cell of pleura,180
+CL:0001043,"activated CD4-positive, alpha-beta T cell, human",162
+CL:0000432,reticular cell,151
+CL:0000459,noradrenergic cell,138
+CL:0000841,mature conventional dendritic cell,136
+CL:2000001,peripheral blood mononuclear cell,131
+CL:0000075,columnar/cuboidal epithelial cell,129
+CL:1001225,kidney collecting duct cell,125
+CL:1000909,kidney loop of Henle epithelial cell,121
+CL:0000015,male germ cell,116
+CL:0002277,type I enteroendocrine cell,110
+CL:0002420,immature T cell,108
+CL:4023121,sst chodl GABAergic cortical interneuron,100
+CL:4047007,immature pericyte,100
+CL:0000502,type D enteroendocrine cell,93
+CL:1000717,kidney outer medulla collecting duct intercalated cell,89
+CL:1000698,kidney resident macrophage,87
+CL:0000667,collagen secreting cell,84
+CL:0000001,primary cultured cell,80
+CL:4033003,myoepithelial cell of bronchus submucosal gland,78
+CL:1000742,glomerular mesangial cell,78
+CL:0001024,"CD34-positive, CD38-negative hematopoietic stem cell",74
+CL:0002278,GIP cell,74
+CL:0001066,"erythroid progenitor cell, mammalian",74
+CL:0000776,immature neutrophil,69
+CL:0002481,peritubular myoid cell,67
+CL:0000163,endocrine cell,64
+CL:0000020,spermatogonium,64
+CL:0002628,immature microglial cell,63
+CL:0002351,progenitor cell of endocrine pancreas,60
+CL:0002305,epithelial cell of distal tubule,55
+CL:0002157,endosteal cell,54
+CL:0000199,mechanoreceptor cell,54
+CL:4052021,granzyme K-associated CD8 T cell,52
+CL:0000846,vestibular dark cell,49
+CL:0002457,epidermal Langerhans cell,48
+CL:0002207,brush cell of trachea,46
+CL:1000549,kidney cortex collecting duct epithelial cell,45
+CL:0009009,paneth cell of colon,44
+CL:4023054,mesothelial fibroblast,36
+CL:0002092,bone marrow cell,36
+CL:0001081,"group 2 innate lymphoid cell, human",36
+CL:0002377,immature Schwann cell,33
+CL:0002009,macrophage dendritic cell progenitor,31
+CL:0000209,taste receptor cell,29
+CL:0009004,retinal cell,27
+CL:0000823,immature natural killer cell,26
+CL:0000526,afferent neuron,26
+CL:0000504,enterochromaffin-like cell,26
+CL:4047012,angiogenic pericyte,25
+CL:0002488,trophoblast giant cell,19
+CL:1000353,microfold cell of epithelium of small intestine,19
+CL:0000546,T-helper 2 cell,16
+CL:1000311,adipocyte of epicardial fat of left ventricle,15
+CL:0000743,hypertrophic chondrocyte,14
+CL:1000331,serous cell of epithelium of bronchus,12
+CL:1000073,spinal cord radial glial cell,12
+CL:4033082,cycling basal cell,12
+CL:0002280,type N enteroendocrine cell,10
+CL:0002470,MHC-II-positive classical monocyte,7
+CL:0000023,oocyte,6
+CL:0009022,stromal cell of lamina propria of small intestine,5
+CL:0002422,enucleated reticulocyte,3
+CL:4023189,parasol ganglion cell of retina,2
+CL:0001049,"activated CD8-positive, alpha-beta T cell, human",1
+CL:0002419,mature T cell,1

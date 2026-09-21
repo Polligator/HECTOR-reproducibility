@@ -1,0 +1,244 @@
+raw_label,target_label,sources,n_truth_cells,n_consensus_cells,n_methods,n_hector_cells,basis
+B cell,Unknown,hector,0,0,0,16,outside every class
+"B cell, CD19-positive",Unknown,hector,0,0,0,1,outside every class
+Bergmann glial cell,astrocyte,hector|popv,0,1,5,24,is-a
+"CD8-positive, alpha-beta T cell",Unknown,hector|popv,0,35,8,15,outside every class
+CNS interneuron,neuron,popv,0,0,1,0,"an interneuron of the CNS; not a term in this cl.obo, but unambiguously a neuron and in-region  [OVERRIDES ontology: proposal was unresolved]"
+Cajal-Retzius cell,neuron,hector|truth,829,0,0,497,is-a
+GABAergic amacrine cell,neuron,hector,0,0,0,90,is-a
+GABAergic interneuron,neuron,hector,0,0,0,21,is-a
+GABAergic neuron,neuron,hector|truth,1832,0,0,869,is-a
+L2 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,4,is-a
+L2/3 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,110,is-a
+L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,neuron,hector,0,0,0,21,is-a
+L2/3-6 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,308,is-a
+L4/5 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,572,is-a
+L4/5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,neuron,hector,0,0,0,115,"a neocortical glutamatergic neuron; intra-CNS, so in-system  [OVERRIDES ontology: proposal was unresolved]"
+L5 extratelencephalic projecting glutamatergic cortical neuron,neuron,hector,0,0,0,178,is-a
+L5 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,136,is-a
+L5/6 near-projecting glutamatergic neuron,neuron,hector,0,0,0,314,is-a
+L5/6 near-projecting glutamatergic neuron of the primary motor cortex,neuron,hector,0,0,0,277,is-a
+L6 corticothalamic-projecting glutamatergic cortical neuron,neuron,hector,0,0,0,263,is-a
+L6 intratelencephalic projecting Car3 glutamatergic neuron,neuron,hector,0,0,0,16,is-a
+L6 intratelencephalic projecting glutamatergic neuron,neuron,hector,0,0,0,49,is-a
+L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,neuron,hector,0,0,0,166,is-a
+L6b glutamatergic cortical neuron,neuron,hector,0,0,0,205,is-a
+Mueller cell,Unknown,hector,0,0,0,12,outside every class
+OPC-Oligo cell (Mmus),Unknown,hector,0,0,0,3,outside every class
+Purkinje cell,neuron,hector,0,0,0,87,is-a
+Schwann cell,Unknown,hector,0,0,0,2,outside every class
+Schwann cell precursor,Unknown,hector,0,0,0,10,outside every class
+T cell,Unknown,hector|popv,0,42,8,1,outside every class
+VIP GABAergic cortical interneuron,neuron,hector,0,0,0,84,is-a
+"activated CD8-positive, alpha-beta T cell",Unknown,hector|popv,0,0,1,2,outside every class
+adipocyte,Unknown,hector,0,0,0,1,outside every class
+alpha-beta T cell,Unknown,hector|popv,0,0,1,11,outside every class
+amacrine cell,neuron,hector,0,0,0,134,is-a
+astrocyte,astrocyte,hector|popv|truth,26395,26364,8,26682,is-a
+astrocyte of the cerebellum,astrocyte,hector|popv,0,0,1,51,is-a
+astrocyte of the forebrain,astrocyte,hector,0,0,0,26,is-a
+auditory epithelial cell,Unknown,hector,0,0,0,5,outside every class
+autonomic neuron,neuron,hector,0,0,0,3,is-a
+bladder cell,Unknown,hector,0,0,0,1,outside every class
+blood vessel endothelial cell,endothelial cell,hector,0,0,0,27,is-a
+brain macroglial cell,Unknown,hector,0,0,0,32,outside every class
+brain pericyte,pericyte,hector|popv,0,5983,8,7,the reference's pericyte cluster; `brain pericyte` is not a term in this cl.obo and its declared CL:2000043 is absent from it  [OVERRIDES ontology: proposal was unresolved]
+brown preadipocyte,Unknown,hector,0,0,0,1,outside every class
+brush border cell of the proximal tubule,Unknown,hector,0,0,0,1,outside every class
+camera-type eye photoreceptor cell,neuron,hector,0,0,0,10,is-a
+capillary endothelial cell,endothelial cell,hector,0,0,0,1,is-a
+caudal ganglionic eminence derived cortical interneuron,neuron,hector,0,0,0,31,is-a
+caudal ganglionic eminence derived neuron,neuron,hector,0,0,0,14,is-a
+central nervous system macrophage,macrophage,hector,0,0,0,40,is-a
+central nervous system neuron,neuron,hector|popv,0,0,1,3996,is-a
+central nervous system pericyte,pericyte,popv,0,0,1,0,is-a
+cerebellar Golgi cell,neuron,hector,0,0,0,8,"a cerebellar interneuron; intra-CNS, so in-system  [OVERRIDES ontology: proposal was unresolved]"
+cerebellar granule cell,neuron,hector,0,0,0,777,is-a
+cerebellar granule cell precursor,neural progenitor cell,hector,0,0,0,41,"is-a `neuroblast (sensu Vertebrata)`, which this class already absorbs; crediting the parent while dropping the child is inconsistent  [OVERRIDES ontology: proposal was Unknown]"
+cerebellum glutamatergic neuron,neuron,hector,0,0,0,128,is-a
+cerebral cortex GABAergic interneuron,neuron,hector,0,0,0,424,is-a
+cerebral cortex neuron,neuron,hector,0,0,0,952,is-a
+cerebral cortex pyramidal neuron,neuron,hector,0,0,0,522,is-a
+chemoreceptor cell,Unknown,hector,0,0,0,2,outside every class
+chondrocyte,Unknown,hector,0,0,0,4,outside every class
+choroid plexus epithelial cell,ependymal cell,hector|truth,154,0,0,3,is-a
+ciliated epithelial cell,Unknown,hector,0,0,0,1,has 4 children; not interchangeable with ependymal cell
+classical monocyte,Unknown,hector,0,0,0,2,outside every class
+committed oligodendrocyte precursor,Unknown,hector,0,0,0,4,outside every class
+cone retinal bipolar cell,Unknown,hector,0,0,0,98,neuron of another region or organ — not this dataset's cells
+connective tissue cell,Unknown,hector,0,0,0,7,superclass over 2
+conventional dendritic cell,Unknown,hector,0,0,0,3,outside every class
+cortical interneuron,neuron,hector,0,0,0,93,is-a
+corticothalamic-projecting glutamatergic cortical neuron,neuron,hector,0,0,0,178,is-a
+cranial motor neuron,neuron,hector,0,0,0,53,is-a
+efferent neuron,neuron,hector,0,0,0,1,is-a
+elicited macrophage,macrophage,hector,0,0,0,1,is-a
+endo-epithelial cell,Unknown,hector,0,0,0,1,outside every class
+endothelial cell,endothelial cell,hector|popv|truth,12094,10714,8,11988,is-a
+endothelial cell of artery,endothelial cell,hector,0,0,0,35,is-a
+endothelial cell of uterus,Unknown,popv,0,0,1,0,endothelial cell of another region or organ — not this dataset's cells
+endothelial cell of vascular tree,endothelial cell,hector|truth,998,0,0,3,is-a
+endothelial stalk cell,endothelial cell,hector,0,0,0,150,is-a
+enteric neuron,neuron,hector,0,0,0,2,is-a
+enteroglial cell,Unknown,hector,0,0,0,2,outside every class
+ependymal cell,ependymal cell,hector|popv|truth,509,586,8,652,is-a
+epithelial cell,Unknown,hector,0,0,0,7,has 40 children; not interchangeable with ependymal cell
+epithelial cell of nephron,Unknown,hector,0,0,0,2,outside every class
+epithelial cell of prostate,Unknown,hector,0,0,0,1,outside every class
+epithelial cell of proximal tubule,Unknown,hector,0,0,0,1,outside every class
+epithelial cell of thymus,Unknown,hector,0,0,0,1,outside every class
+erythrocyte,Unknown,hector,0,0,0,13,outside every class
+extracellular matrix secreting cell,Unknown,hector,0,0,0,4,outside every class
+fibroblast,Unknown,hector,0,0,0,203,has 44 children; not interchangeable with vascular leptomeningeal cell
+fibroblast of dermis,Unknown,hector,0,0,0,1,outside every class
+fibroblast of mammary gland,Unknown,hector,0,0,0,2,outside every class
+glial cell,Unknown,hector|popv,0,0,1,35,superclass over 4
+glioblast,neural progenitor cell,hector,0,0,0,458,"the glia-committed branch of the neural progenitor lineage, symmetric with `neuroblast` which this class already absorbs  [OVERRIDES ontology: proposal was Unknown]"
+glomerular endothelial cell,Unknown,hector,0,0,0,2,endothelial cell of another region or organ — not this dataset's cells
+glutamatergic neuron,neuron,hector|truth,45335,0,0,1410,is-a
+glutamatergic neuron of the basal ganglia,neuron,hector,0,0,0,1,is-a
+glycinergic amacrine cell,neuron,hector,0,0,0,142,is-a
+glycinergic neuron,neuron,hector,0,0,0,12,is-a
+granulosa cell,Unknown,hector,0,0,0,9,outside every class
+hematopoietic stem cell,Unknown,hector,0,0,0,1,outside every class
+hippocampal interneuron,neuron,hector,0,0,0,12,is-a
+hippocampal neuron,neuron,hector,0,0,0,21122,is-a
+hypothalamus cell,Unknown,hector,0,0,0,34,outside every class
+immature B cell,Unknown,hector,0,0,0,1,outside every class
+immature microglial cell,microglial cell,popv,0,0,1,0,is-a  (also valid: macrophage)
+inhibitory interneuron,neuron,hector,0,0,0,364,is-a
+innate lymphoid cell,Unknown,hector,0,0,0,4,outside every class
+intermediate mesodermal cell,Unknown,hector,0,0,0,2,outside every class
+intermediate monocyte,Unknown,hector,0,0,0,1,outside every class
+intermediate muscle cell,Unknown,hector,0,0,0,1,skeletal muscle  [OVERRIDES ontology: proposal was unresolved]
+interneuron,neuron,hector|popv,0,8,6,136,is-a
+interstitial cell,Unknown,hector,0,0,0,1,outside every class
+intratelencephalic-projecting glutamatergic cortical neuron,neuron,hector,0,0,0,91,is-a
+keratinocyte,Unknown,hector,0,0,0,2,outside every class
+kidney collecting duct principal cell,Unknown,hector,0,0,0,2,outside every class
+kidney connecting tubule epithelial cell,Unknown,hector,0,0,0,1,outside every class
+kidney cortex tubule cell,Unknown,hector,0,0,0,1,outside every class
+kidney epithelial cell,Unknown,hector,0,0,0,3,outside every class
+kidney loop of Henle thin ascending limb epithelial cell,Unknown,hector,0,0,0,1,outside every class
+lamp5 GABAergic cortical interneuron,neuron,hector,0,0,0,244,is-a
+lateral mesodermal cell,Unknown,hector,0,0,0,7,outside every class
+leptomeningeal cell,vascular leptomeningeal cell,hector,0,0,0,38,"CL files it on a separate branch from `vascular leptomeningeal cell`, so no is-a path exists; the dataset's only leptomeningeal population is that class  [OVERRIDES ontology: proposal was Unknown]"
+macroglial cell,Unknown,hector|popv,0,0,1,30,superclass over 2
+macrophage,macrophage,hector|popv|truth,857,0,6,532,is-a
+mature NK T cell,Unknown,hector|popv,0,1,6,1,outside every class
+mature T cell,Unknown,hector|popv,0,0,1,3,outside every class
+mature alpha-beta T cell,Unknown,hector|popv,0,0,1,8,outside every class
+mature microglial cell,microglial cell,popv,0,0,1,0,is-a  (also valid: macrophage)
+medial ganglionic eminence derived GABAergic cortical interneuron,neuron,hector,0,0,0,1,is-a
+medial ganglionic eminence derived interneuron,neuron,hector,0,0,0,5,is-a
+medium spiny neuron,neuron,hector|popv,0,0,6,59,is-a
+melanocyte,Unknown,hector,0,0,0,1,outside every class
+mesenchymal cell,Unknown,hector,0,0,0,8,outside every class
+mesenchymal stem cell,Unknown,hector,0,0,0,1,outside every class
+mesodermal cell,Unknown,hector,0,0,0,4,outside every class
+metanephric mesenchyme stem cell,Unknown,hector,0,0,0,7,outside every class
+metanephric nephron tubule epithelial cell,Unknown,hector,0,0,0,13,outside every class
+microcirculation associated smooth muscle cell,Unknown,hector,0,0,0,7,outside every class
+microglial cell,microglial cell,hector|popv|truth,10204,10997,8,10485,is-a  (also valid: macrophage)
+monocyte,Unknown,hector,0,0,0,7,outside every class
+motor neuron,neuron,hector,0,0,0,3,is-a
+mural cell,pericyte,hector,0,0,0,3741,"sole class below, term has only 2 child(ren)"
+muscle precursor cell,Unknown,hector,0,0,0,1,outside every class
+myelin-forming oligodendrocyte,oligodendrocyte,hector,0,0,0,1,is-a
+myelinating Schwann cell,Unknown,hector,0,0,0,14,outside every class
+myelinating glial cell,oligodendrocyte,hector,0,0,0,2,"sole class below, term has only 2 child(ren)"
+myoblast,Unknown,hector,0,0,0,4,outside every class
+naive B cell,Unknown,hector,0,0,0,3,outside every class
+natural killer cell,Unknown,hector,0,0,0,10,outside every class
+neural cell,Unknown,hector|popv,0,0,1,4,superclass over 7
+neural progenitor cell,neural progenitor cell,hector|truth,879,0,0,157,is-a
+neural stem cell,neural progenitor cell,popv,0,1749,8,0,the reference's name for the neurogenic progenitor compartment this class represents; stem/progenitor/neuroblast are stages of one lineage  [OVERRIDES ontology: proposal was Unknown]
+neuroblast (sensu Nematoda and Protostomia),Unknown,popv,0,0,1,0,invertebrate term; not the vertebrate neuroblast  [confirms ontology: proposal was Unknown]
+neuroblast (sensu Vertebrata),neural progenitor cell,hector|truth,1124,0,0,29,"committed neuronal progenitor of the same neurogenic lineage; CL files the two as siblings under `progenitor cell`, which reaches no class  [OVERRIDES ontology: proposal was Unknown]"
+neuroepithelial stem cell,Unknown,popv,0,140,8,0,outside every class
+neuron,neuron,hector|popv,0,48684,8,765,is-a
+neuron associated cell,Unknown,hector,0,0,0,11,superclass over 5
+neuron of the forebrain,neuron,hector,0,0,0,2,is-a
+neutrophil,Unknown,hector,0,0,0,14,outside every class
+non-classical monocyte,Unknown,hector,0,0,0,1,outside every class
+non-myelinating Schwann cell,Unknown,hector,0,0,0,2,outside every class
+olfactory ensheathing cell,Unknown,hector,0,0,0,4,outside every class
+olfactory epithelial cell,Unknown,hector,0,0,0,9,outside every class
+olfactory receptor cell,neuron,hector,0,0,0,17,is-a
+oligodendrocyte,oligodendrocyte,hector|popv|truth,18418,18477,8,19166,is-a
+oligodendrocyte precursor cell,oligodendrocyte precursor cell,hector|popv|truth,2469,2100,8,2150,is-a
+pancreatic D cell,Unknown,hector,0,0,0,1,neuron of another region or organ — not this dataset's cells
+parasympathetic neuron,Unknown,hector,0,0,0,9,peripheral autonomic neuron; the organ line stops at the CNS  [OVERRIDES ontology: proposal was unresolved]
+parietal epithelial cell,Unknown,hector,0,0,0,1,outside every class
+pericyte,pericyte,hector|truth,3076,0,0,370,is-a
+perineuronal satellite cell,Unknown,hector,0,0,0,5,peripheral glia; the organ line stops at the CNS  [OVERRIDES ontology: proposal was unresolved]
+peripheral nervous system neuron,neuron,hector,0,0,0,21,is-a
+peripheral sensory neuron,neuron,hector,0,0,0,1,is-a
+perivascular cell,Unknown,hector,0,0,0,1,has 4 children; not interchangeable with pericyte
+phagocyte,Unknown,hector,0,0,0,1,superclass over 2
+photoreceptor cell,neuron,hector,0,0,0,4,is-a
+pituitary gland cell,Unknown,hector,0,0,0,27,outside every class
+plasma cell,Unknown,hector,0,0,0,2,outside every class
+podocyte,Unknown,hector,0,0,0,1,outside every class
+primary motor cortex pyramidal cell,neuron,hector,0,0,0,12,is-a
+primary neuron (sensu Teleostei),neuron,hector,0,0,0,21,is-a
+primordial germ cell,Unknown,hector,0,0,0,1,germline  [OVERRIDES ontology: proposal was unresolved]
+progenitor cell,Unknown,popv,0,0,1,0,superclass over 2
+promonocyte,Unknown,hector,0,0,0,1,outside every class
+pvalb GABAergic cortical interneuron,neuron,hector,0,0,0,63,is-a
+pyramidal neuron,neuron,hector,0,0,0,9430,is-a
+regulatory T cell,Unknown,hector,0,0,0,5,outside every class
+renal beta-intercalated cell,Unknown,hector,0,0,0,1,outside every class
+retina horizontal cell,Unknown,hector,0,0,0,4,neuron of another region or organ — not this dataset's cells
+retinal bipolar neuron,Unknown,hector,0,0,0,8,neuron of another region or organ — not this dataset's cells
+retinal cell,Unknown,hector,0,0,0,6,outside every class
+retinal cone cell,Unknown,hector,0,0,0,18,neuron of another region or organ — not this dataset's cells
+retinal ganglion cell,Unknown,hector,0,0,0,12,neuron of another region or organ — not this dataset's cells
+retinal pigment epithelial cell,Unknown,hector,0,0,0,1,outside every class
+retinal progenitor cell,Unknown,hector,0,0,0,21,outside every class
+retinal rod cell,Unknown,hector,0,0,0,40,neuron of another region or organ — not this dataset's cells
+rod bipolar cell,neuron,hector,0,0,0,49,is-a
+sensory neuron,neuron,hector,0,0,0,11,is-a
+sensory neuron of dorsal root ganglion,neuron,hector,0,0,0,18,is-a
+skeletal muscle myoblast,Unknown,hector,0,0,0,1,outside every class
+skeletal muscle satellite cell,Unknown,hector,0,0,0,4,outside every class
+small bistratified retinal ganglion cell,Unknown,hector,0,0,0,2,retina; the eye is a separate organ  [OVERRIDES ontology: proposal was unresolved]
+smooth muscle cell,Unknown,hector,0,0,0,14,outside every class
+sncg GABAergic cortical interneuron,neuron,hector,0,0,0,117,is-a
+somatic stem cell,Unknown,popv,0,0,1,0,outside every class
+spinal cord motor neuron,neuron,hector,0,0,0,5,is-a
+spinal cord oligodendrocyte,oligodendrocyte,popv,0,0,1,0,is-a
+spiral ganglion neuron,neuron,hector,0,0,0,11,is-a
+squamous endothelial cell,endothelial cell,hector,0,0,0,1,is-a
+sst GABAergic cortical interneuron,neuron,hector,0,0,0,1031,is-a
+sst chodl GABAergic cortical interneuron,neuron,hector,0,0,0,6,is-a
+starburst amacrine cell,neuron,hector,0,0,0,2,is-a
+striatum neuron,neuron,hector,0,0,0,33,is-a
+stromal cell,Unknown,hector,0,0,0,38,has 15 children; not interchangeable with vascular leptomeningeal cell
+stromal cell of ovary,Unknown,hector,0,0,0,1,outside every class
+sympathetic neuron,neuron,hector,0,0,0,4,is-a
+tanycyte,ependymal cell,hector,0,0,0,91,is-a
+tendon cell,Unknown,hector,0,0,0,1,outside every class
+thalamic excitatory neuron,neuron,hector,0,0,0,132,is-a
+trigeminal neuron,neuron,hector,0,0,0,108,is-a
+type 3 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,8,is-a
+type 3a cone bipolar cell,Unknown,hector,0,0,0,7,retina; the eye is a separate organ  [OVERRIDES ontology: proposal was unresolved]
+type 3b cone bipolar cell,Unknown,hector,0,0,0,1,retina; the eye is a separate organ  [OVERRIDES ontology: proposal was unresolved]
+type 5 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,67,is-a
+type 5a cone bipolar cell,Unknown,hector,0,0,0,48,retina; the eye is a separate organ  [OVERRIDES ontology: proposal was unresolved]
+type 5b cone bipolar cell,Unknown,hector,0,0,0,30,retina; the eye is a separate organ  [OVERRIDES ontology: proposal was unresolved]
+type 6 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,2,is-a
+type 7 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,25,is-a
+type 8 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,2,is-a
+type 9 cone bipolar cell (sensu Mus),neuron,hector,0,0,0,14,is-a
+type B pancreatic cell,Unknown,hector,0,0,0,1,outside every class
+type I cell of adrenal cortex,Unknown,hector,0,0,0,2,outside every class
+type II muscle cell,Unknown,hector,0,0,0,2,outside every class
+type IIb muscle cell,Unknown,hector,0,0,0,2,outside every class
+unipolar brush cell,neuron,hector,0,0,0,74,is-a
+untufted pyramidal neuron,neuron,hector,0,0,0,23,is-a
+ureteric bud cell,Unknown,hector,0,0,0,8,outside every class
+vascular associated smooth muscle cell,Unknown,hector,0,0,0,1,outside every class
+vascular leptomeningeal cell,vascular leptomeningeal cell,hector|truth,708,0,0,449,is-a
+vein endothelial cell,endothelial cell,hector,0,0,0,9,is-a
+visual system neuron,neuron,hector,0,0,0,11,is-a
